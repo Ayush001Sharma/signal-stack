@@ -1,0 +1,3 @@
+# Optional: higher-quality semantic relevance. Without these the app falls back to TF-IDF similarity.
+# Install CPU-only torch first: pip install torch --index-url https://download.pytorch.org/whl/cpu
+sentence-transformers==3.3.1

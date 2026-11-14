@@ -1,0 +1,56 @@
+# Signal Stack — local deployment (all free/open-source components)
+services:
+  db:
+    image: postgres:16-alpine
+    environment:
+      POSTGRES_USER: signal
+      POSTGRES_PASSWORD: signal
+      POSTGRES_DB: signalstack
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U signal -d signalstack"]
+      interval: 5s
+      timeout: 5s
+      retries: 10
+
+  ollama:
+    image: ollama/ollama:latest
+    volumes:
+      - ollama:/root/.ollama
+    profiles: ["llm"]
+    # After first start: docker compose exec ollama ollama pull qwen2.5:3b
+
+  backend:
+    build:
+      context: ./backend
+      args:
+        INSTALL_ML: "true"
+    env_file:
+      - ./backend/.env.example
+    environment:
+      DATABASE_URL: postgresql+psycopg://signal:signal@db:5432/signalstack
+      OLLAMA_URL: http://ollama:11434
+      UPLOAD_DIR: /app/data/uploads
+    volumes:
+      - uploads:/app/data/uploads
+    depends_on:
+      db:
+        condition: service_healthy
+    ports:
+      - "8000:8000"
+
+  frontend:
+    build:
+      context: ./frontend
+      args:
+        NEXT_PUBLIC_API_URL: http://localhost:8000
+    depends_on:
+      - backend
+    ports:
+      - "3000:3000"
+
+volumes:
+  pgdata:
+  ollama:
+  uploads:

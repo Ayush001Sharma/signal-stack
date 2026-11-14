@@ -1,0 +1,49 @@
+lead_id,created,destination,program,stage,lost_reason,counsellor_notes
+L001,2026-09-08,UK,Masters,Closed Lost,too expensive,Parent felt the counselling package is too expensive compared to free agents
+L002,2026-10-03,Germany,MBA,Closed Lost,too expensive,Budget concern: package price too expensive for the family
+L003,2026-08-08,UK,MBA,Closed Won,,Enrolled; document review was slow and caused delays before the deadline
+L004,2026-10-21,USA,MBA,Closed Won,,Enrolled; document review was slow and caused delays before the deadline
+L005,2026-10-09,Australia,Masters,Closed Won,,Converted after scholarship webinar; requested support for education loan comparison
+L006,2026-09-04,Canada,Masters,Closed Lost,visa rejected,Visa refusal due to funds documentation; student paused plans
+L007,2026-10-09,Canada,Masters,Closed Won,,Converted after Ivy profile building sessions
+L008,2026-08-18,UK,Undergraduate,Closed Lost,chose to study in India,Decided to stay in India due to rupee depreciation and high living costs abroad
+L009,2026-08-22,Germany,Masters,Closed Lost,too expensive,Budget concern: package price too expensive for the family
+L010,2026-09-09,USA,Undergraduate,Closed Lost,too expensive,Student said the fee is too expensive after loan EMI calculation
+L011,2026-09-07,USA,MBA,Closed Lost,visa rejected,Visa refusal due to funds documentation; student paused plans
+L012,2026-08-20,Germany,MBA,Closed Lost,too expensive,Parent felt the counselling package is too expensive compared to free agents
+L013,2026-09-13,USA,Undergraduate,Closed Lost,went with competitor,Went with a competitor that offered free application processing
+L014,2026-08-26,UK,Undergraduate,Closed Lost,went with competitor,Chose an agent who promised faster offers from partner universities
+L015,2026-10-23,USA,Undergraduate,Closed Won,,Converted after scholarship webinar; requested support for education loan comparison
+L016,2026-09-05,Australia,Undergraduate,Closed Lost,too expensive,Parent felt the counselling package is too expensive compared to free agents
+L017,2026-10-09,Ireland,MBA,Closed Won,,Enrolled; document review was slow and caused delays before the deadline
+L018,2026-09-08,Ireland,Masters,Closed Lost,chose to study in India,Decided to stay in India due to rupee depreciation and high living costs abroad
+L019,2026-08-05,UK,MBA,Closed Won,,Converted after scholarship webinar; requested support for education loan comparison
+L020,2026-08-13,Australia,Undergraduate,Closed Lost,no response after counselling,No response after first counselling call; follow-up delays on our side
+L021,2026-10-24,Ireland,Masters,Closed Lost,too expensive,Student said the fee is too expensive after loan EMI calculation
+L022,2026-09-14,Canada,Masters,Closed Lost,visa rejected,Visa refusal due to funds documentation; student paused plans
+L023,2026-10-09,Germany,MBA,Closed Won,,Converted after scholarship webinar; requested support for education loan comparison
+L024,2026-09-27,UK,MBA,Closed Lost,too expensive,Student said the fee is too expensive after loan EMI calculation
+L025,2026-08-18,USA,MBA,Closed Lost,visa rejected,Visa rejected after study permit cap; family worried about policy change
+L026,2026-08-12,Australia,Undergraduate,Closed Lost,too expensive,Parent felt the counselling package is too expensive compared to free agents
+L027,2026-08-03,Ireland,MBA,Closed Won,,Converted; would like IELTS coaching integration with the application tracker
+L028,2026-08-22,Ireland,Undergraduate,Closed Lost,went with competitor,Went with a competitor that offered free application processing
+L029,2026-09-07,Ireland,MBA,Closed Won,,Converted after Ivy profile building sessions
+L030,2026-09-22,Germany,MBA,Closed Lost,visa rejected,Visa refusal due to funds documentation; student paused plans
+L031,2026-08-08,Ireland,Masters,Closed Lost,chose to study in India,Decided to stay in India due to rupee depreciation and high living costs abroad
+L032,2026-10-08,Ireland,MBA,Closed Won,,Converted after scholarship webinar; requested support for education loan comparison
+L033,2026-10-02,Germany,Masters,Closed Won,,Enrolled after visa guidance session; asked us to add accommodation search
+L034,2026-09-22,Canada,Undergraduate,Closed Lost,too expensive,Parent felt the counselling package is too expensive compared to free agents
+L035,2026-10-16,Germany,Masters,Closed Lost,no response after counselling,No response after first counselling call; follow-up delays on our side
+L036,2026-08-22,USA,Undergraduate,Closed Lost,too expensive,Budget concern: package price too expensive for the family
+L037,2026-08-22,Australia,MBA,Closed Lost,too expensive,Student said the fee is too expensive after loan EMI calculation
+L038,2026-10-11,Australia,Masters,Closed Won,,Converted after scholarship webinar; requested support for education loan comparison
+L039,2026-09-05,Ireland,Undergraduate,Closed Won,,Converted after scholarship webinar; requested support for education loan comparison
+L040,2026-08-15,USA,MBA,Closed Won,,Enrolled after visa guidance session; asked us to add accommodation search
+L041,2026-08-03,Ireland,Masters,Closed Won,,Converted after scholarship webinar; requested support for education loan comparison
+L042,2026-08-28,Australia,Undergraduate,Closed Won,,Enrolled after visa guidance session; asked us to add accommodation search
+L043,2026-09-09,UK,Undergraduate,Closed Won,,Happy with SOP review but complained about slow document review delays
+L044,2026-10-23,Germany,Undergraduate,Closed Lost,no response after counselling,No response after first counselling call; follow-up delays on our side
+L045,2026-08-19,USA,MBA,Closed Won,,Enrolled; document review was slow and caused delays before the deadline
+L046,2026-08-02,Canada,MBA,Closed Won,,Converted; would like IELTS coaching integration with the application tracker
+L047,2026-08-17,Ireland,Masters,Closed Lost,went with competitor,Went with a competitor that offered free application processing
+L048,2026-10-28,UK,Masters,Closed Won,,Converted; would like IELTS coaching integration with the application tracker

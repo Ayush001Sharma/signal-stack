@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+backend/data/
+backend/logs/
+*.egg-info/
+# Node
+node_modules/
+.next/
+frontend/out/
+# Env
+.env
+.env.local
+# OS
+.DS_Store
+*.tsbuildinfo

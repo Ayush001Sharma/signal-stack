@@ -1,0 +1,2428 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document (opensource)
+1 0 obj
+<<
+/F1 2 0 R /F2 3 0 R /F3 4 0 R /F4 5 0 R /F5 6 0 R
+>>
+endobj
+2 0 obj
+<<
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+>>
+endobj
+3 0 obj
+<<
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+>>
+endobj
+4 0 obj
+<<
+/BaseFont /Helvetica-Oblique /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font
+>>
+endobj
+5 0 obj
+<<
+/BaseFont /Symbol /Name /F4 /Subtype /Type1 /Type /Font
+>>
+endobj
+6 0 obj
+<<
+/BaseFont /Courier /Encoding /WinAnsiEncoding /Name /F5 /Subtype /Type1 /Type /Font
+>>
+endobj
+7 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.hpcwire.com/bigdatawire/this-just-in/edb-introduces-klio-backup-and-recovery-for-postgres-on-kubernetes/)
+>> /Border [ 0 0 0 ] /Rect [ 152.4843 476.9554 182.4943 491.4554 ] /Subtype /Link /Type /Annot
+>>
+endobj
+8 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://news.ycombinator.com/item?id=50399462)
+>> /Border [ 0 0 0 ] /Rect [ 342.8043 293.8554 372.8143 308.3554 ] /Subtype /Link /Type /Annot
+>>
+endobj
+9 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.techtarget.com/news/enterprisedb-acquires-altinity-to-unify-open-source-database-engines/873835/)
+>> /Border [ 0 0 0 ] /Rect [ 284.2243 154.2554 314.2343 168.7554 ] /Subtype /Link /Type /Annot
+>>
+endobj
+10 0 obj
+<<
+/Annots [ 7 0 R 8 0 R 9 0 R ] /Contents 283 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 282 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+11 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://clickhouse.com/blog/managed-postgres-ga-xata-acquisition)
+>> /Border [ 0 0 0 ] /Rect [ 286.4443 701.9054 316.4543 716.4054 ] /Subtype /Link /Type /Annot
+>>
+endobj
+12 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://news.ycombinator.com/item?id=50490411)
+>> /Border [ 0 0 0 ] /Rect [ 325.6143 533.3054 355.6243 547.8054 ] /Subtype /Link /Type /Annot
+>>
+endobj
+13 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://news.ycombinator.com/item?id=50399462)
+>> /Border [ 0 0 0 ] /Rect [ 342.8043 303.3554 372.8143 317.8554 ] /Subtype /Link /Type /Annot
+>>
+endobj
+14 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://news.ycombinator.com/item?id=50490411)
+>> /Border [ 0 0 0 ] /Rect [ 325.6143 149.2554 355.6243 163.7554 ] /Subtype /Link /Type /Annot
+>>
+endobj
+15 0 obj
+<<
+/Annots [ 11 0 R 12 0 R 13 0 R 14 0 R ] /Contents 284 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 282 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+16 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://news.ycombinator.com/item?id=50369468)
+>> /Border [ 0 0 0 ] /Rect [ 350.3443 727.1054 380.3543 741.6054 ] /Subtype /Link /Type /Annot
+>>
+endobj
+17 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://thehackernews.com/2026/11/postgresql-patches-52-flaws-including.html)
+>> /Border [ 0 0 0 ] /Rect [ 282.5443 587.5054 312.5543 602.0054 ] /Subtype /Link /Type /Annot
+>>
+endobj
+18 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://news.ycombinator.com/item?id=50433672)
+>> /Border [ 0 0 0 ] /Rect [ 324.2343 447.9054 354.2443 462.4054 ] /Subtype /Link /Type /Annot
+>>
+endobj
+19 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://news.ycombinator.com/item?id=50401205)
+>> /Border [ 0 0 0 ] /Rect [ 387.6043 293.8054 417.6143 308.3054 ] /Subtype /Link /Type /Annot
+>>
+endobj
+20 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://news.ycombinator.com/item?id=50399824)
+>> /Border [ 0 0 0 ] /Rect [ 450.9643 183.2054 480.9743 197.7054 ] /Subtype /Link /Type /Annot
+>>
+endobj
+21 0 obj
+<<
+/Annots [ 16 0 R 17 0 R 18 0 R 19 0 R 20 0 R ] /Contents 285 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 282 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+22 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://news.ycombinator.com/item?id=50458502)
+>> /Border [ 0 0 0 ] /Rect [ 153.0543 758.1054 183.0643 772.6054 ] /Subtype /Link /Type /Annot
+>>
+endobj
+23 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.hpcwire.com/bigdatawire/this-just-in/edb-introduces-klio-backup-and-recovery-for-postgres-on-kubernetes/)
+>> /Border [ 0 0 0 ] /Rect [ 152.4843 525.7054 182.4943 540.2054 ] /Subtype /Link /Type /Annot
+>>
+endobj
+24 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.msn.com/en-us/news/other/coreweave-rolls-out-in-cluster-postgresql-for-ai-teams/ar-AA2hjxyZ)
+>> /Border [ 0 0 0 ] /Rect [ 353.6943 357.1054 383.7043 371.6054 ] /Subtype /Link /Type /Annot
+>>
+endobj
+25 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://finance.yahoo.com/technology/ai/articles/constructive-releases-safegres-open-source-150000420.html)
+>> /Border [ 0 0 0 ] /Rect [ 76.35433 203.0054 106.3643 217.5054 ] /Subtype /Link /Type /Annot
+>>
+endobj
+26 0 obj
+<<
+/Annots [ 22 0 R 23 0 R 24 0 R 25 0 R ] /Contents 286 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 282 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+27 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.databricks.com/blog/dispelling-ltap-myths)
+>> /Border [ 0 0 0 ] /Rect [ 468.2143 772.6054 498.2243 787.1054 ] /Subtype /Link /Type /Annot
+>>
+endobj
+28 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.techtarget.com/news/enterprisedb-acquires-altinity-to-unify-open-source-database-engines/873835/)
+>> /Border [ 0 0 0 ] /Rect [ 284.2243 593.0554 314.2343 607.5554 ] /Subtype /Link /Type /Annot
+>>
+endobj
+29 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://pulse2.com/enterprisedb-acquires-altinity-to-combine-postgresql-and-clickhouse-for-enterprise-ai-data-infrastructure/)
+>> /Border [ 0 0 0 ] /Rect [ 89.13433 412.8554 119.1443 427.3554 ] /Subtype /Link /Type /Annot
+>>
+endobj
+30 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.dbta.com/Editorial/News-Flashes/EnterpriseDB-Acquires-Altinity-177433.aspx)
+>> /Border [ 0 0 0 ] /Rect [ 89.13433 244.2554 119.1443 258.7554 ] /Subtype /Link /Type /Annot
+>>
+endobj
+31 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://finance.yahoo.com/technology/ai/articles/edb-brings-proven-agentic-governance-183600057.html)
+>> /Border [ 0 0 0 ] /Rect [ 89.13433 64.05543 119.1443 78.55543 ] /Subtype /Link /Type /Annot
+>>
+endobj
+32 0 obj
+<<
+/Annots [ 27 0 R 28 0 R 29 0 R 30 0 R 31 0 R ] /Contents 287 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 282 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+33 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://clickhouse.com/blog/managed-postgres-ga-xata-acquisition)
+>> /Border [ 0 0 0 ] /Rect [ 286.4443 597.9554 316.4543 612.4554 ] /Subtype /Link /Type /Annot
+>>
+endobj
+34 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.hpcwire.com/bigdatawire/2026/11/13/clickhouse-expands-its-platform-with-postgres-push-and-xata-deal/)
+>> /Border [ 0 0 0 ] /Rect [ 136.9443 429.3554 166.9543 443.8554 ] /Subtype /Link /Type /Annot
+>>
+endobj
+35 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://clickhouse.com/blog/announcing-clickhouse-platform-largest-expansion)
+>> /Border [ 0 0 0 ] /Rect [ 231.9643 275.2554 261.9743 289.7554 ] /Subtype /Link /Type /Annot
+>>
+endobj
+36 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://clickhouse.com/blog/clickhouse-unifies-enterprise-ai-data-stack)
+>> /Border [ 0 0 0 ] /Rect [ 191.3943 121.1554 221.4043 135.6554 ] /Subtype /Link /Type /Annot
+>>
+endobj
+37 0 obj
+<<
+/Annots [ 33 0 R 34 0 R 35 0 R 36 0 R ] /Contents 288 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 282 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+38 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.forbes.com/sites/lanceeliot/2026/11/13/openais-newest-feature-enables-business-owners-to-set-up-shop-in-chatgpt-and-connect-with-12-billion-prospective-customers/)
+>> /Border [ 0 0 0 ] /Rect [ 409.8643 645.4554 439.8743 659.9554 ] /Subtype /Link /Type /Annot
+>>
+endobj
+39 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.msn.com/en-us/technology/artificial-intelligence/openai-launches-chatgpt-wallet-letting-ai-agents-pay-for-purchases/ar-AA2hnHwZ)
+>> /Border [ 0 0 0 ] /Rect [ 89.13433 491.3554 119.1443 505.8554 ] /Subtype /Link /Type /Annot
+>>
+endobj
+40 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.msn.com/en-us/news/other/major-ai-developers-cant-control-their-own-tech-lawsuit-alleges/ar-AA2hjEsN)
+>> /Border [ 0 0 0 ] /Rect [ 415.3643 337.2554 445.3743 351.7554 ] /Subtype /Link /Type /Annot
+>>
+endobj
+41 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.msn.com/en-us/news/other/openai-is-betting-a-data-center-rebrand-will-make-you-hate-them-less/ar-AA2ho7E0)
+>> /Border [ 0 0 0 ] /Rect [ 412.5743 212.1554 442.5843 226.6554 ] /Subtype /Link /Type /Annot
+>>
+endobj
+42 0 obj
+<<
+/Annots [ 38 0 R 39 0 R 40 0 R 41 0 R ] /Contents 289 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 282 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+43 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://altinity.com/news/altinity-and-enterprisedb)
+>> /Border [ 0 0 0 ] /Rect [ 353.6843 758.1054 383.6943 772.6054 ] /Subtype /Link /Type /Annot
+>>
+endobj
+44 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://altinity.com/news/important-security-advisory-for-altinity-builds-of-clickhouse)
+>> /Border [ 0 0 0 ] /Rect [ 187.0843 604.0054 217.0943 618.5054 ] /Subtype /Link /Type /Annot
+>>
+endobj
+45 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.techrepublic.com/article/news-firebase-studio-shutdown-march-2027-migration/)
+>> /Border [ 0 0 0 ] /Rect [ 336.4643 424.4554 366.4743 438.9554 ] /Subtype /Link /Type /Annot
+>>
+endobj
+46 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.msn.com/en-us/news/other/google-is-ditching-firebase-studio-soon-and-it-wants-you-to-use-its-newer-ai-tools-instead/ar-AA2gQhHK)
+>> /Border [ 0 0 0 ] /Rect [ 139.1543 284.8554 169.1643 299.3554 ] /Subtype /Link /Type /Annot
+>>
+endobj
+47 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.analyticsinsight.net/news/google-to-shut-down-firebase-studio-pushes-developers-to-new-ai-tools)
+>> /Border [ 0 0 0 ] /Rect [ 406.4943 145.2554 436.5043 159.7554 ] /Subtype /Link /Type /Annot
+>>
+endobj
+48 0 obj
+<<
+/Annots [ 43 0 R 44 0 R 45 0 R 46 0 R 47 0 R ] /Contents 290 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 282 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+49 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://note.com/tabosuke_note/n/n96ac4586ca71?hl=en)
+>> /Border [ 0 0 0 ] /Rect [ 103.5843 727.1054 133.5943 741.6054 ] /Subtype /Link /Type /Annot
+>>
+endobj
+50 0 obj
+<<
+/Annots [ 49 0 R ] /Contents 291 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 282 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+51 0 obj
+<<
+/Contents 292 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 282 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
+endobj
+52 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.hpcwire.com/bigdatawire/this-just-in/edb-introduces-klio-backup-and-recovery-for-postgres-on-kubernetes/)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 352.9914 123.8653 364.5914 ] /Subtype /Link /Type /Annot
+>>
+endobj
+53 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.hpcwire.com/bigdatawire/this-just-in/edb-introduces-klio-backup-and-recovery-for-postgres-on-kubernetes/)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 341.3914 144.7693 352.9914 ] /Subtype /Link /Type /Annot
+>>
+endobj
+54 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.hpcwire.com/bigdatawire/this-just-in/edb-introduces-klio-backup-and-recovery-for-postgres-on-kubernetes/)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 329.7914 149.6573 341.3914 ] /Subtype /Link /Type /Annot
+>>
+endobj
+55 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.hpcwire.com/bigdatawire/this-just-in/edb-introduces-klio-backup-and-recovery-for-postgres-on-kubernetes/)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 318.1914 120.7613 329.7914 ] /Subtype /Link /Type /Annot
+>>
+endobj
+56 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.hpcwire.com/bigdatawire/this-just-in/edb-introduces-klio-backup-and-recovery-for-postgres-on-kubernetes/)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 306.5914 141.2013 318.1914 ] /Subtype /Link /Type /Annot
+>>
+endobj
+57 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.hpcwire.com/bigdatawire/this-just-in/edb-introduces-klio-backup-and-recovery-for-postgres-on-kubernetes/)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 294.9914 150.5453 306.5914 ] /Subtype /Link /Type /Annot
+>>
+endobj
+58 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.hpcwire.com/bigdatawire/this-just-in/edb-introduces-klio-backup-and-recovery-for-postgres-on-kubernetes/)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 283.3914 116.3133 294.9914 ] /Subtype /Link /Type /Annot
+>>
+endobj
+59 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.hpcwire.com/bigdatawire/this-just-in/edb-introduces-klio-backup-and-recovery-for-postgres-on-kubernetes/)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 271.7914 148.3293 283.3914 ] /Subtype /Link /Type /Annot
+>>
+endobj
+60 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://news.ycombinator.com/item?id=50399462)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 251.1914 142.0893 262.7914 ] /Subtype /Link /Type /Annot
+>>
+endobj
+61 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://news.ycombinator.com/item?id=50399462)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 239.5914 140.7693 251.1914 ] /Subtype /Link /Type /Annot
+>>
+endobj
+62 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://news.ycombinator.com/item?id=50399462)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 227.9914 121.1933 239.5914 ] /Subtype /Link /Type /Annot
+>>
+endobj
+63 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://news.ycombinator.com/item?id=50399462)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 216.3914 146.1053 227.9914 ] /Subtype /Link /Type /Annot
+>>
+endobj
+64 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://news.ycombinator.com/item?id=50399462)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 204.7914 125.6493 216.3914 ] /Subtype /Link /Type /Annot
+>>
+endobj
+65 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://news.ycombinator.com/item?id=50399462)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 193.1914 138.9853 204.7914 ] /Subtype /Link /Type /Annot
+>>
+endobj
+66 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://news.ycombinator.com/item?id=50399462)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 181.5914 138.5453 193.1914 ] /Subtype /Link /Type /Annot
+>>
+endobj
+67 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://news.ycombinator.com/item?id=50399462)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 169.9914 150.9773 181.5914 ] /Subtype /Link /Type /Annot
+>>
+endobj
+68 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.techtarget.com/news/enterprisedb-acquires-altinity-to-unify-open-source-database-engines/873835/)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 149.3914 154.9853 160.9914 ] /Subtype /Link /Type /Annot
+>>
+endobj
+69 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.techtarget.com/news/enterprisedb-acquires-altinity-to-unify-open-source-database-engines/873835/)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 137.7914 137.6493 149.3914 ] /Subtype /Link /Type /Annot
+>>
+endobj
+70 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.techtarget.com/news/enterprisedb-acquires-altinity-to-unify-open-source-database-engines/873835/)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 126.1914 139.8733 137.7914 ] /Subtype /Link /Type /Annot
+>>
+endobj
+71 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.techtarget.com/news/enterprisedb-acquires-altinity-to-unify-open-source-database-engines/873835/)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 114.5914 124.3133 126.1914 ] /Subtype /Link /Type /Annot
+>>
+endobj
+72 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.techtarget.com/news/enterprisedb-acquires-altinity-to-unify-open-source-database-engines/873835/)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 102.9914 151.8813 114.5914 ] /Subtype /Link /Type /Annot
+>>
+endobj
+73 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.techtarget.com/news/enterprisedb-acquires-altinity-to-unify-open-source-database-engines/873835/)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 91.39144 140.3293 102.9914 ] /Subtype /Link /Type /Annot
+>>
+endobj
+74 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.techtarget.com/news/enterprisedb-acquires-altinity-to-unify-open-source-database-engines/873835/)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 79.79144 135.4333 91.39144 ] /Subtype /Link /Type /Annot
+>>
+endobj
+75 0 obj
+<<
+/Annots [ 52 0 R 53 0 R 54 0 R 55 0 R 56 0 R 57 0 R 58 0 R 59 0 R 60 0 R 61 0 R 
+  62 0 R 63 0 R 64 0 R 65 0 R 66 0 R 67 0 R 68 0 R 69 0 R 70 0 R 71 0 R 
+  72 0 R 73 0 R 74 0 R ] /Contents 293 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 282 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+76 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://clickhouse.com/blog/managed-postgres-ga-xata-acquisition)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 785.2914 147.8653 796.8914 ] /Subtype /Link /Type /Annot
+>>
+endobj
+77 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://clickhouse.com/blog/managed-postgres-ga-xata-acquisition)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 773.6914 140.7693 785.2914 ] /Subtype /Link /Type /Annot
+>>
+endobj
+78 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://clickhouse.com/blog/managed-postgres-ga-xata-acquisition)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 762.0914 138.9853 773.6914 ] /Subtype /Link /Type /Annot
+>>
+endobj
+79 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://clickhouse.com/blog/managed-postgres-ga-xata-acquisition)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 750.4914 138.5453 762.0914 ] /Subtype /Link /Type /Annot
+>>
+endobj
+80 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://clickhouse.com/blog/managed-postgres-ga-xata-acquisition)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 738.8914 139.4413 750.4914 ] /Subtype /Link /Type /Annot
+>>
+endobj
+81 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://clickhouse.com/blog/managed-postgres-ga-xata-acquisition)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 727.2914 145.2093 738.8914 ] /Subtype /Link /Type /Annot
+>>
+endobj
+82 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://clickhouse.com/blog/managed-postgres-ga-xata-acquisition)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 715.6914 137.2013 727.2914 ] /Subtype /Link /Type /Annot
+>>
+endobj
+83 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://news.ycombinator.com/item?id=50490411)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 695.0914 142.0893 706.6914 ] /Subtype /Link /Type /Annot
+>>
+endobj
+84 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://news.ycombinator.com/item?id=50490411)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 683.4914 149.6653 695.0914 ] /Subtype /Link /Type /Annot
+>>
+endobj
+85 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://news.ycombinator.com/item?id=50490411)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 671.8914 150.9933 683.4914 ] /Subtype /Link /Type /Annot
+>>
+endobj
+86 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://news.ycombinator.com/item?id=50490411)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 660.2914 137.2093 671.8914 ] /Subtype /Link /Type /Annot
+>>
+endobj
+87 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.msn.com/en-us/news/other/major-ai-developers-cant-control-their-own-tech-lawsuit-alleges/ar-AA2hjEsN)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 639.6914 137.2013 651.2914 ] /Subtype /Link /Type /Annot
+>>
+endobj
+88 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.msn.com/en-us/news/other/major-ai-developers-cant-control-their-own-tech-lawsuit-alleges/ar-AA2hjEsN)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 628.0914 146.5453 639.6914 ] /Subtype /Link /Type /Annot
+>>
+endobj
+89 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.msn.com/en-us/news/other/major-ai-developers-cant-control-their-own-tech-lawsuit-alleges/ar-AA2hjEsN)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 616.4914 150.2973 628.0914 ] /Subtype /Link /Type /Annot
+>>
+endobj
+90 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.msn.com/en-us/news/other/major-ai-developers-cant-control-their-own-tech-lawsuit-alleges/ar-AA2hjEsN)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 604.8914 139.8733 616.4914 ] /Subtype /Link /Type /Annot
+>>
+endobj
+91 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.msn.com/en-us/news/other/major-ai-developers-cant-control-their-own-tech-lawsuit-alleges/ar-AA2hjEsN)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 593.2914 151.4333 604.8914 ] /Subtype /Link /Type /Annot
+>>
+endobj
+92 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.msn.com/en-us/news/other/major-ai-developers-cant-control-their-own-tech-lawsuit-alleges/ar-AA2hjEsN)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 581.6914 132.7613 593.2914 ] /Subtype /Link /Type /Annot
+>>
+endobj
+93 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://news.ycombinator.com/item?id=50433672)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 561.0914 142.0893 572.6914 ] /Subtype /Link /Type /Annot
+>>
+endobj
+94 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://news.ycombinator.com/item?id=50433672)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 549.4914 150.0973 561.0914 ] /Subtype /Link /Type /Annot
+>>
+endobj
+95 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://news.ycombinator.com/item?id=50433672)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 537.8914 134.5453 549.4914 ] /Subtype /Link /Type /Annot
+>>
+endobj
+96 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://news.ycombinator.com/item?id=50433672)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 526.2914 142.9933 537.8914 ] /Subtype /Link /Type /Annot
+>>
+endobj
+97 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://news.ycombinator.com/item?id=50433672)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 514.6914 147.8733 526.2914 ] /Subtype /Link /Type /Annot
+>>
+endobj
+98 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://news.ycombinator.com/item?id=50369468)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 494.0914 142.0893 505.6914 ] /Subtype /Link /Type /Annot
+>>
+endobj
+99 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://news.ycombinator.com/item?id=50369468)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 482.4914 136.3213 494.0914 ] /Subtype /Link /Type /Annot
+>>
+endobj
+100 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://news.ycombinator.com/item?id=50369468)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 470.8914 150.9933 482.4914 ] /Subtype /Link /Type /Annot
+>>
+endobj
+101 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://news.ycombinator.com/item?id=50369468)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 459.2914 142.5533 470.8914 ] /Subtype /Link /Type /Annot
+>>
+endobj
+102 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://news.ycombinator.com/item?id=50369468)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 447.6914 135.8733 459.2914 ] /Subtype /Link /Type /Annot
+>>
+endobj
+103 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://news.ycombinator.com/item?id=50369468)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 436.0914 138.9853 447.6914 ] /Subtype /Link /Type /Annot
+>>
+endobj
+104 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://news.ycombinator.com/item?id=50369468)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 424.4914 122.9853 436.0914 ] /Subtype /Link /Type /Annot
+>>
+endobj
+105 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.msn.com/en-us/news/other/google-is-ditching-firebase-studio-soon-and-it-wants-you-to-use-its-newer-ai-tools-instead/ar-AA2gQhHK)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 403.8914 141.6573 415.4914 ] /Subtype /Link /Type /Annot
+>>
+endobj
+106 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.msn.com/en-us/news/other/google-is-ditching-firebase-studio-soon-and-it-wants-you-to-use-its-newer-ai-tools-instead/ar-AA2gQhHK)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 392.2914 136.3133 403.8914 ] /Subtype /Link /Type /Annot
+>>
+endobj
+107 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.msn.com/en-us/news/other/google-is-ditching-firebase-studio-soon-and-it-wants-you-to-use-its-newer-ai-tools-instead/ar-AA2gQhHK)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 380.6914 138.5373 392.2914 ] /Subtype /Link /Type /Annot
+>>
+endobj
+108 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.msn.com/en-us/news/other/google-is-ditching-firebase-studio-soon-and-it-wants-you-to-use-its-newer-ai-tools-instead/ar-AA2gQhHK)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 369.0914 130.0973 380.6914 ] /Subtype /Link /Type /Annot
+>>
+endobj
+109 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.msn.com/en-us/news/other/google-is-ditching-firebase-studio-soon-and-it-wants-you-to-use-its-newer-ai-tools-instead/ar-AA2gQhHK)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 357.4914 151.4493 369.0914 ] /Subtype /Link /Type /Annot
+>>
+endobj
+110 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.msn.com/en-us/news/other/google-is-ditching-firebase-studio-soon-and-it-wants-you-to-use-its-newer-ai-tools-instead/ar-AA2gQhHK)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 345.8914 146.5453 357.4914 ] /Subtype /Link /Type /Annot
+>>
+endobj
+111 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.msn.com/en-us/news/other/google-is-ditching-firebase-studio-soon-and-it-wants-you-to-use-its-newer-ai-tools-instead/ar-AA2gQhHK)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 334.2914 133.2013 345.8914 ] /Subtype /Link /Type /Annot
+>>
+endobj
+112 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.msn.com/en-us/news/other/google-is-ditching-firebase-studio-soon-and-it-wants-you-to-use-its-newer-ai-tools-instead/ar-AA2gQhHK)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 322.6914 123.8653 334.2914 ] /Subtype /Link /Type /Annot
+>>
+endobj
+113 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://news.ycombinator.com/item?id=50401205)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 302.0914 142.0893 313.6914 ] /Subtype /Link /Type /Annot
+>>
+endobj
+114 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://news.ycombinator.com/item?id=50401205)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 290.4914 136.3213 302.0914 ] /Subtype /Link /Type /Annot
+>>
+endobj
+115 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://news.ycombinator.com/item?id=50401205)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 278.8914 150.0893 290.4914 ] /Subtype /Link /Type /Annot
+>>
+endobj
+116 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://news.ycombinator.com/item?id=50401205)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 267.2914 150.5453 278.8914 ] /Subtype /Link /Type /Annot
+>>
+endobj
+117 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://news.ycombinator.com/item?id=50401205)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 255.6914 148.3213 267.2914 ] /Subtype /Link /Type /Annot
+>>
+endobj
+118 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://news.ycombinator.com/item?id=50399824)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 235.0914 151.8733 246.6914 ] /Subtype /Link /Type /Annot
+>>
+endobj
+119 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://news.ycombinator.com/item?id=50399824)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 223.4914 147.4413 235.0914 ] /Subtype /Link /Type /Annot
+>>
+endobj
+120 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://news.ycombinator.com/item?id=50399824)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 211.8914 140.7613 223.4914 ] /Subtype /Link /Type /Annot
+>>
+endobj
+121 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://news.ycombinator.com/item?id=50399824)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 200.2914 147.4333 211.8914 ] /Subtype /Link /Type /Annot
+>>
+endobj
+122 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://news.ycombinator.com/item?id=50399824)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 188.6914 131.4253 200.2914 ] /Subtype /Link /Type /Annot
+>>
+endobj
+123 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://news.ycombinator.com/item?id=50399824)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 177.0914 143.4413 188.6914 ] /Subtype /Link /Type /Annot
+>>
+endobj
+124 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://news.ycombinator.com/item?id=50399824)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 165.4914 120.7613 177.0914 ] /Subtype /Link /Type /Annot
+>>
+endobj
+125 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://news.ycombinator.com/item?id=50387769)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 144.8914 142.0893 156.4914 ] /Subtype /Link /Type /Annot
+>>
+endobj
+126 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://news.ycombinator.com/item?id=50387769)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 133.2914 140.7693 144.8914 ] /Subtype /Link /Type /Annot
+>>
+endobj
+127 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://news.ycombinator.com/item?id=50387769)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 121.6914 121.1933 133.2914 ] /Subtype /Link /Type /Annot
+>>
+endobj
+128 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://news.ycombinator.com/item?id=50387769)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 110.0914 145.2093 121.6914 ] /Subtype /Link /Type /Annot
+>>
+endobj
+129 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://news.ycombinator.com/item?id=50387769)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 98.49144 138.5373 110.0914 ] /Subtype /Link /Type /Annot
+>>
+endobj
+130 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://news.ycombinator.com/item?id=50387769)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 86.89144 150.9853 98.49144 ] /Subtype /Link /Type /Annot
+>>
+endobj
+131 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://news.ycombinator.com/item?id=50387769)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 75.29144 149.8813 86.89144 ] /Subtype /Link /Type /Annot
+>>
+endobj
+132 0 obj
+<<
+/Annots [ 76 0 R 77 0 R 78 0 R 79 0 R 80 0 R 81 0 R 82 0 R 83 0 R 84 0 R 85 0 R 
+  86 0 R 87 0 R 88 0 R 89 0 R 90 0 R 91 0 R 92 0 R 93 0 R 94 0 R 95 0 R 
+  96 0 R 97 0 R 98 0 R 99 0 R 100 0 R 101 0 R 102 0 R 103 0 R 104 0 R 105 0 R 
+  106 0 R 107 0 R 108 0 R 109 0 R 110 0 R 111 0 R 112 0 R 113 0 R 114 0 R 115 0 R 
+  116 0 R 117 0 R 118 0 R 119 0 R 120 0 R 121 0 R 122 0 R 123 0 R 124 0 R 125 0 R 
+  126 0 R 127 0 R 128 0 R 129 0 R 130 0 R 131 0 R ] /Contents 294 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 282 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+133 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://thehackernews.com/2026/11/postgresql-patches-52-flaws-including.html)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 785.2914 150.9933 796.8914 ] /Subtype /Link /Type /Annot
+>>
+endobj
+134 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://thehackernews.com/2026/11/postgresql-patches-52-flaws-including.html)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 773.6914 147.4413 785.2914 ] /Subtype /Link /Type /Annot
+>>
+endobj
+135 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://thehackernews.com/2026/11/postgresql-patches-52-flaws-including.html)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 762.0914 130.5293 773.6914 ] /Subtype /Link /Type /Annot
+>>
+endobj
+136 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://thehackernews.com/2026/11/postgresql-patches-52-flaws-including.html)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 750.4914 139.4333 762.0914 ] /Subtype /Link /Type /Annot
+>>
+endobj
+137 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://thehackernews.com/2026/11/postgresql-patches-52-flaws-including.html)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 738.8914 150.9853 750.4914 ] /Subtype /Link /Type /Annot
+>>
+endobj
+138 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://thehackernews.com/2026/11/postgresql-patches-52-flaws-including.html)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 727.2914 121.6493 738.8914 ] /Subtype /Link /Type /Annot
+>>
+endobj
+139 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://thehackernews.com/2026/11/postgresql-patches-52-flaws-including.html)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 715.6914 146.5453 727.2914 ] /Subtype /Link /Type /Annot
+>>
+endobj
+140 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://news.ycombinator.com/item?id=50458502)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 695.0914 142.0893 706.6914 ] /Subtype /Link /Type /Annot
+>>
+endobj
+141 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://news.ycombinator.com/item?id=50458502)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 683.4914 140.7693 695.0914 ] /Subtype /Link /Type /Annot
+>>
+endobj
+142 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://news.ycombinator.com/item?id=50458502)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 671.8914 125.6413 683.4914 ] /Subtype /Link /Type /Annot
+>>
+endobj
+143 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://news.ycombinator.com/item?id=50458502)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 660.2914 141.2093 671.8914 ] /Subtype /Link /Type /Annot
+>>
+endobj
+144 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://news.ycombinator.com/item?id=50458502)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 648.6914 132.7613 660.2914 ] /Subtype /Link /Type /Annot
+>>
+endobj
+145 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://news.ycombinator.com/item?id=50458502)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 637.0914 145.2173 648.6914 ] /Subtype /Link /Type /Annot
+>>
+endobj
+146 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://news.ycombinator.com/item?id=50458502)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 625.4914 128.9533 637.0914 ] /Subtype /Link /Type /Annot
+>>
+endobj
+147 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://news.ycombinator.com/item?id=50458502)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 613.8914 145.2093 625.4914 ] /Subtype /Link /Type /Annot
+>>
+endobj
+148 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.msn.com/en-us/news/other/coreweave-rolls-out-in-cluster-postgresql-for-ai-teams/ar-AA2hjxyZ)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 593.2914 149.6493 604.8914 ] /Subtype /Link /Type /Annot
+>>
+endobj
+149 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.msn.com/en-us/news/other/coreweave-rolls-out-in-cluster-postgresql-for-ai-teams/ar-AA2hjxyZ)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 581.6914 135.4253 593.2914 ] /Subtype /Link /Type /Annot
+>>
+endobj
+150 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.msn.com/en-us/news/other/coreweave-rolls-out-in-cluster-postgresql-for-ai-teams/ar-AA2hjxyZ)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 570.0914 139.8653 581.6914 ] /Subtype /Link /Type /Annot
+>>
+endobj
+151 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.msn.com/en-us/news/other/coreweave-rolls-out-in-cluster-postgresql-for-ai-teams/ar-AA2hjxyZ)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 558.4914 150.9933 570.0914 ] /Subtype /Link /Type /Annot
+>>
+endobj
+152 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.msn.com/en-us/news/other/coreweave-rolls-out-in-cluster-postgresql-for-ai-teams/ar-AA2hjxyZ)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 546.8914 150.5453 558.4914 ] /Subtype /Link /Type /Annot
+>>
+endobj
+153 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://finance.yahoo.com/technology/ai/articles/constructive-releases-safegres-open-source-150000420.html)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 526.2914 151.8733 537.8914 ] /Subtype /Link /Type /Annot
+>>
+endobj
+154 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://finance.yahoo.com/technology/ai/articles/constructive-releases-safegres-open-source-150000420.html)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 514.6914 140.7613 526.2914 ] /Subtype /Link /Type /Annot
+>>
+endobj
+155 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://finance.yahoo.com/technology/ai/articles/constructive-releases-safegres-open-source-150000420.html)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 503.0914 141.6573 514.6914 ] /Subtype /Link /Type /Annot
+>>
+endobj
+156 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://finance.yahoo.com/technology/ai/articles/constructive-releases-safegres-open-source-150000420.html)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 491.4914 116.3133 503.0914 ] /Subtype /Link /Type /Annot
+>>
+endobj
+157 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://finance.yahoo.com/technology/ai/articles/constructive-releases-safegres-open-source-150000420.html)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 479.8914 154.9933 491.4914 ] /Subtype /Link /Type /Annot
+>>
+endobj
+158 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://finance.yahoo.com/technology/ai/articles/constructive-releases-safegres-open-source-150000420.html)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 468.2914 144.3133 479.8914 ] /Subtype /Link /Type /Annot
+>>
+endobj
+159 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://finance.yahoo.com/technology/ai/articles/constructive-releases-safegres-open-source-150000420.html)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 456.6914 140.7613 468.2914 ] /Subtype /Link /Type /Annot
+>>
+endobj
+160 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.databricks.com/blog/dispelling-ltap-myths)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 436.0914 142.0893 447.6914 ] /Subtype /Link /Type /Annot
+>>
+endobj
+161 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.databricks.com/blog/dispelling-ltap-myths)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 424.4914 150.9853 436.0914 ] /Subtype /Link /Type /Annot
+>>
+endobj
+162 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://pulse2.com/enterprisedb-acquires-altinity-to-combine-postgresql-and-clickhouse-for-enterprise-ai-data-infrastructure/)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 380.6914 154.9853 392.2914 ] /Subtype /Link /Type /Annot
+>>
+endobj
+163 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://pulse2.com/enterprisedb-acquires-altinity-to-combine-postgresql-and-clickhouse-for-enterprise-ai-data-infrastructure/)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 369.0914 138.5373 380.6914 ] /Subtype /Link /Type /Annot
+>>
+endobj
+164 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://pulse2.com/enterprisedb-acquires-altinity-to-combine-postgresql-and-clickhouse-for-enterprise-ai-data-infrastructure/)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 357.4914 142.5373 369.0914 ] /Subtype /Link /Type /Annot
+>>
+endobj
+165 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://pulse2.com/enterprisedb-acquires-altinity-to-combine-postgresql-and-clickhouse-for-enterprise-ai-data-infrastructure/)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 345.8914 139.4253 357.4914 ] /Subtype /Link /Type /Annot
+>>
+endobj
+166 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://pulse2.com/enterprisedb-acquires-altinity-to-combine-postgresql-and-clickhouse-for-enterprise-ai-data-infrastructure/)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 334.2914 150.9933 345.8914 ] /Subtype /Link /Type /Annot
+>>
+endobj
+167 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://pulse2.com/enterprisedb-acquires-altinity-to-combine-postgresql-and-clickhouse-for-enterprise-ai-data-infrastructure/)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 322.6914 121.6493 334.2914 ] /Subtype /Link /Type /Annot
+>>
+endobj
+168 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://pulse2.com/enterprisedb-acquires-altinity-to-combine-postgresql-and-clickhouse-for-enterprise-ai-data-infrastructure/)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 311.0914 155.8653 322.6914 ] /Subtype /Link /Type /Annot
+>>
+endobj
+169 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.dbta.com/Editorial/News-Flashes/EnterpriseDB-Acquires-Altinity-177433.aspx)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 290.4914 154.9853 302.0914 ] /Subtype /Link /Type /Annot
+>>
+endobj
+170 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.dbta.com/Editorial/News-Flashes/EnterpriseDB-Acquires-Altinity-177433.aspx)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 278.8914 138.5373 290.4914 ] /Subtype /Link /Type /Annot
+>>
+endobj
+171 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.dbta.com/Editorial/News-Flashes/EnterpriseDB-Acquires-Altinity-177433.aspx)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 267.2914 130.9773 278.8914 ] /Subtype /Link /Type /Annot
+>>
+endobj
+172 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://finance.yahoo.com/technology/ai/articles/edb-brings-proven-agentic-governance-183600057.html)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 235.0914 148.7613 246.6914 ] /Subtype /Link /Type /Annot
+>>
+endobj
+173 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://finance.yahoo.com/technology/ai/articles/edb-brings-proven-agentic-governance-183600057.html)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 223.4914 132.7613 235.0914 ] /Subtype /Link /Type /Annot
+>>
+endobj
+174 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://finance.yahoo.com/technology/ai/articles/edb-brings-proven-agentic-governance-183600057.html)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 211.8914 149.6653 223.4914 ] /Subtype /Link /Type /Annot
+>>
+endobj
+175 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://finance.yahoo.com/technology/ai/articles/edb-brings-proven-agentic-governance-183600057.html)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 200.2914 150.9933 211.8914 ] /Subtype /Link /Type /Annot
+>>
+endobj
+176 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://finance.yahoo.com/technology/ai/articles/edb-brings-proven-agentic-governance-183600057.html)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 188.6914 150.1053 200.2914 ] /Subtype /Link /Type /Annot
+>>
+endobj
+177 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://finance.yahoo.com/technology/ai/articles/edb-brings-proven-agentic-governance-183600057.html)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 177.0914 129.6493 188.6914 ] /Subtype /Link /Type /Annot
+>>
+endobj
+178 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://finance.yahoo.com/technology/ai/articles/edb-brings-proven-agentic-governance-183600057.html)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 165.4914 147.8733 177.0914 ] /Subtype /Link /Type /Annot
+>>
+endobj
+179 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.hpcwire.com/bigdatawire/2026/11/13/clickhouse-expands-its-platform-with-postgres-push-and-xata-deal/)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 144.8914 147.8653 156.4914 ] /Subtype /Link /Type /Annot
+>>
+endobj
+180 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.hpcwire.com/bigdatawire/2026/11/13/clickhouse-expands-its-platform-with-postgres-push-and-xata-deal/)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 133.2914 149.2173 144.8914 ] /Subtype /Link /Type /Annot
+>>
+endobj
+181 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.hpcwire.com/bigdatawire/2026/11/13/clickhouse-expands-its-platform-with-postgres-push-and-xata-deal/)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 121.6914 137.2013 133.2914 ] /Subtype /Link /Type /Annot
+>>
+endobj
+182 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.hpcwire.com/bigdatawire/2026/11/13/clickhouse-expands-its-platform-with-postgres-push-and-xata-deal/)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 110.0914 123.4173 121.6914 ] /Subtype /Link /Type /Annot
+>>
+endobj
+183 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.hpcwire.com/bigdatawire/2026/11/13/clickhouse-expands-its-platform-with-postgres-push-and-xata-deal/)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 98.49144 138.9853 110.0914 ] /Subtype /Link /Type /Annot
+>>
+endobj
+184 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.hpcwire.com/bigdatawire/2026/11/13/clickhouse-expands-its-platform-with-postgres-push-and-xata-deal/)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 86.89144 141.2173 98.49144 ] /Subtype /Link /Type /Annot
+>>
+endobj
+185 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.hpcwire.com/bigdatawire/2026/11/13/clickhouse-expands-its-platform-with-postgres-push-and-xata-deal/)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 75.29144 142.5453 86.89144 ] /Subtype /Link /Type /Annot
+>>
+endobj
+186 0 obj
+<<
+/Annots [ 133 0 R 134 0 R 135 0 R 136 0 R 137 0 R 138 0 R 139 0 R 140 0 R 141 0 R 142 0 R 
+  143 0 R 144 0 R 145 0 R 146 0 R 147 0 R 148 0 R 149 0 R 150 0 R 151 0 R 152 0 R 
+  153 0 R 154 0 R 155 0 R 156 0 R 157 0 R 158 0 R 159 0 R 160 0 R 161 0 R 162 0 R 
+  163 0 R 164 0 R 165 0 R 166 0 R 167 0 R 168 0 R 169 0 R 170 0 R 171 0 R 172 0 R 
+  173 0 R 174 0 R 175 0 R 176 0 R 177 0 R 178 0 R 179 0 R 180 0 R 181 0 R 182 0 R 
+  183 0 R 184 0 R 185 0 R ] /Contents 295 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 282 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+187 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://clickhouse.com/blog/announcing-clickhouse-platform-largest-expansion)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 785.2914 147.4333 796.8914 ] /Subtype /Link /Type /Annot
+>>
+endobj
+188 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://clickhouse.com/blog/announcing-clickhouse-platform-largest-expansion)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 773.6914 143.8813 785.2914 ] /Subtype /Link /Type /Annot
+>>
+endobj
+189 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://clickhouse.com/blog/announcing-clickhouse-platform-largest-expansion)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 762.0914 114.0893 773.6914 ] /Subtype /Link /Type /Annot
+>>
+endobj
+190 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://clickhouse.com/blog/announcing-clickhouse-platform-largest-expansion)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 750.4914 147.8653 762.0914 ] /Subtype /Link /Type /Annot
+>>
+endobj
+191 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://clickhouse.com/blog/announcing-clickhouse-platform-largest-expansion)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 738.8914 118.0893 750.4914 ] /Subtype /Link /Type /Annot
+>>
+endobj
+192 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://clickhouse.com/blog/clickhouse-unifies-enterprise-ai-data-stack)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 718.2914 147.8653 729.8914 ] /Subtype /Link /Type /Annot
+>>
+endobj
+193 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://clickhouse.com/blog/clickhouse-unifies-enterprise-ai-data-stack)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 706.6914 131.8653 718.2914 ] /Subtype /Link /Type /Annot
+>>
+endobj
+194 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://clickhouse.com/blog/clickhouse-unifies-enterprise-ai-data-stack)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 695.0914 143.8733 706.6914 ] /Subtype /Link /Type /Annot
+>>
+endobj
+195 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://clickhouse.com/blog/clickhouse-unifies-enterprise-ai-data-stack)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 683.4914 134.0973 695.0914 ] /Subtype /Link /Type /Annot
+>>
+endobj
+196 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://clickhouse.com/blog/clickhouse-unifies-enterprise-ai-data-stack)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 671.8914 143.8733 683.4914 ] /Subtype /Link /Type /Annot
+>>
+endobj
+197 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://clickhouse.com/blog/clickhouse-unifies-enterprise-ai-data-stack)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 660.2914 142.5533 671.8914 ] /Subtype /Link /Type /Annot
+>>
+endobj
+198 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://clickhouse.com/blog/clickhouse-unifies-enterprise-ai-data-stack)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 648.6914 151.4413 660.2914 ] /Subtype /Link /Type /Annot
+>>
+endobj
+199 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.forbes.com/sites/lanceeliot/2026/11/13/openais-newest-feature-enables-business-owners-to-set-up-shop-in-chatgpt-and-connect-with-12-billion-prospective-customers/)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 628.0914 140.3213 639.6914 ] /Subtype /Link /Type /Annot
+>>
+endobj
+200 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.forbes.com/sites/lanceeliot/2026/11/13/openais-newest-feature-enables-business-owners-to-set-up-shop-in-chatgpt-and-connect-with-12-billion-prospective-customers/)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 616.4914 134.0893 628.0914 ] /Subtype /Link /Type /Annot
+>>
+endobj
+201 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.forbes.com/sites/lanceeliot/2026/11/13/openais-newest-feature-enables-business-owners-to-set-up-shop-in-chatgpt-and-connect-with-12-billion-prospective-customers/)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 604.8914 134.9853 616.4914 ] /Subtype /Link /Type /Annot
+>>
+endobj
+202 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.forbes.com/sites/lanceeliot/2026/11/13/openais-newest-feature-enables-business-owners-to-set-up-shop-in-chatgpt-and-connect-with-12-billion-prospective-customers/)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 593.2914 136.3213 604.8914 ] /Subtype /Link /Type /Annot
+>>
+endobj
+203 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.forbes.com/sites/lanceeliot/2026/11/13/openais-newest-feature-enables-business-owners-to-set-up-shop-in-chatgpt-and-connect-with-12-billion-prospective-customers/)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 581.6914 139.8733 593.2914 ] /Subtype /Link /Type /Annot
+>>
+endobj
+204 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.forbes.com/sites/lanceeliot/2026/11/13/openais-newest-feature-enables-business-owners-to-set-up-shop-in-chatgpt-and-connect-with-12-billion-prospective-customers/)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 570.0914 146.5373 581.6914 ] /Subtype /Link /Type /Annot
+>>
+endobj
+205 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.forbes.com/sites/lanceeliot/2026/11/13/openais-newest-feature-enables-business-owners-to-set-up-shop-in-chatgpt-and-connect-with-12-billion-prospective-customers/)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 558.4914 131.8733 570.0914 ] /Subtype /Link /Type /Annot
+>>
+endobj
+206 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.forbes.com/sites/lanceeliot/2026/11/13/openais-newest-feature-enables-business-owners-to-set-up-shop-in-chatgpt-and-connect-with-12-billion-prospective-customers/)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 546.8914 142.9933 558.4914 ] /Subtype /Link /Type /Annot
+>>
+endobj
+207 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.msn.com/en-us/technology/artificial-intelligence/openai-launches-chatgpt-wallet-letting-ai-agents-pay-for-purchases/ar-AA2hnHwZ)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 526.2914 134.5453 537.8914 ] /Subtype /Link /Type /Annot
+>>
+endobj
+208 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.msn.com/en-us/technology/artificial-intelligence/openai-launches-chatgpt-wallet-letting-ai-agents-pay-for-purchases/ar-AA2hnHwZ)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 514.6914 139.4333 526.2914 ] /Subtype /Link /Type /Annot
+>>
+endobj
+209 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.msn.com/en-us/technology/artificial-intelligence/openai-launches-chatgpt-wallet-letting-ai-agents-pay-for-purchases/ar-AA2hnHwZ)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 503.0914 140.7613 514.6914 ] /Subtype /Link /Type /Annot
+>>
+endobj
+210 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.msn.com/en-us/technology/artificial-intelligence/openai-launches-chatgpt-wallet-letting-ai-agents-pay-for-purchases/ar-AA2hnHwZ)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 491.4914 131.8653 503.0914 ] /Subtype /Link /Type /Annot
+>>
+endobj
+211 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.msn.com/en-us/technology/artificial-intelligence/openai-launches-chatgpt-wallet-letting-ai-agents-pay-for-purchases/ar-AA2hnHwZ)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 479.8914 138.5453 491.4914 ] /Subtype /Link /Type /Annot
+>>
+endobj
+212 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.msn.com/en-us/technology/artificial-intelligence/openai-launches-chatgpt-wallet-letting-ai-agents-pay-for-purchases/ar-AA2hnHwZ)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 468.2914 146.5533 479.8914 ] /Subtype /Link /Type /Annot
+>>
+endobj
+213 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.msn.com/en-us/technology/artificial-intelligence/openai-launches-chatgpt-wallet-letting-ai-agents-pay-for-purchases/ar-AA2hnHwZ)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 456.6914 116.7533 468.2914 ] /Subtype /Link /Type /Annot
+>>
+endobj
+214 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.msn.com/en-us/technology/artificial-intelligence/openai-launches-chatgpt-wallet-letting-ai-agents-pay-for-purchases/ar-AA2hnHwZ)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 445.0914 144.3213 456.6914 ] /Subtype /Link /Type /Annot
+>>
+endobj
+215 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.msn.com/en-us/news/other/openai-is-betting-a-data-center-rebrand-will-make-you-hate-them-less/ar-AA2ho7E0)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 424.4914 142.5453 436.0914 ] /Subtype /Link /Type /Annot
+>>
+endobj
+216 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.msn.com/en-us/news/other/openai-is-betting-a-data-center-rebrand-will-make-you-hate-them-less/ar-AA2ho7E0)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 412.8914 138.1053 424.4914 ] /Subtype /Link /Type /Annot
+>>
+endobj
+217 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.msn.com/en-us/news/other/openai-is-betting-a-data-center-rebrand-will-make-you-hate-them-less/ar-AA2ho7E0)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 401.2914 147.4413 412.8914 ] /Subtype /Link /Type /Annot
+>>
+endobj
+218 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.msn.com/en-us/news/other/openai-is-betting-a-data-center-rebrand-will-make-you-hate-them-less/ar-AA2ho7E0)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 389.6914 148.3133 401.2914 ] /Subtype /Link /Type /Annot
+>>
+endobj
+219 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.msn.com/en-us/news/other/openai-is-betting-a-data-center-rebrand-will-make-you-hate-them-less/ar-AA2ho7E0)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 378.0914 142.0973 389.6914 ] /Subtype /Link /Type /Annot
+>>
+endobj
+220 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.msn.com/en-us/news/other/openai-is-betting-a-data-center-rebrand-will-make-you-hate-them-less/ar-AA2ho7E0)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 366.4914 142.9933 378.0914 ] /Subtype /Link /Type /Annot
+>>
+endobj
+221 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.msn.com/en-us/news/other/openai-is-betting-a-data-center-rebrand-will-make-you-hate-them-less/ar-AA2ho7E0)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 354.8914 121.6413 366.4914 ] /Subtype /Link /Type /Annot
+>>
+endobj
+222 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://altinity.com/news/altinity-and-enterprisedb)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 334.2914 146.5453 345.8914 ] /Subtype /Link /Type /Annot
+>>
+endobj
+223 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://altinity.com/news/altinity-and-enterprisedb)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 322.6914 154.9853 334.2914 ] /Subtype /Link /Type /Annot
+>>
+endobj
+224 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://altinity.com/news/altinity-and-enterprisedb)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 311.0914 147.4333 322.6914 ] /Subtype /Link /Type /Annot
+>>
+endobj
+225 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://altinity.com/news/altinity-and-enterprisedb)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 299.4914 140.7613 311.0914 ] /Subtype /Link /Type /Annot
+>>
+endobj
+226 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://altinity.com/news/altinity-and-enterprisedb)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 287.8914 132.3053 299.4914 ] /Subtype /Link /Type /Annot
+>>
+endobj
+227 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://altinity.com/news/altinity-and-enterprisedb)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 276.2914 143.4333 287.8914 ] /Subtype /Link /Type /Annot
+>>
+endobj
+228 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://altinity.com/news/altinity-and-enterprisedb)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 264.6914 122.9773 276.2914 ] /Subtype /Link /Type /Annot
+>>
+endobj
+229 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://altinity.com/news/important-security-advisory-for-altinity-builds-of-clickhouse)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 244.0914 141.2093 255.6914 ] /Subtype /Link /Type /Annot
+>>
+endobj
+230 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://altinity.com/news/important-security-advisory-for-altinity-builds-of-clickhouse)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 232.4914 136.3133 244.0914 ] /Subtype /Link /Type /Annot
+>>
+endobj
+231 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://altinity.com/news/important-security-advisory-for-altinity-builds-of-clickhouse)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 220.8914 149.6493 232.4914 ] /Subtype /Link /Type /Annot
+>>
+endobj
+232 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://altinity.com/news/important-security-advisory-for-altinity-builds-of-clickhouse)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 209.2914 130.9773 220.8914 ] /Subtype /Link /Type /Annot
+>>
+endobj
+233 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://altinity.com/news/important-security-advisory-for-altinity-builds-of-clickhouse)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 197.6914 138.0973 209.2914 ] /Subtype /Link /Type /Annot
+>>
+endobj
+234 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://altinity.com/news/important-security-advisory-for-altinity-builds-of-clickhouse)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 186.0914 153.7613 197.6914 ] /Subtype /Link /Type /Annot
+>>
+endobj
+235 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.techrepublic.com/article/news-firebase-studio-shutdown-march-2027-migration/)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 165.4914 141.6573 177.0914 ] /Subtype /Link /Type /Annot
+>>
+endobj
+236 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.techrepublic.com/article/news-firebase-studio-shutdown-march-2027-migration/)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 153.8914 136.7693 165.4914 ] /Subtype /Link /Type /Annot
+>>
+endobj
+237 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.techrepublic.com/article/news-firebase-studio-shutdown-march-2027-migration/)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 142.2914 127.8653 153.8914 ] /Subtype /Link /Type /Annot
+>>
+endobj
+238 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.techrepublic.com/article/news-firebase-studio-shutdown-march-2027-migration/)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 130.6914 138.5373 142.2914 ] /Subtype /Link /Type /Annot
+>>
+endobj
+239 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.techrepublic.com/article/news-firebase-studio-shutdown-march-2027-migration/)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 119.0914 150.5453 130.6914 ] /Subtype /Link /Type /Annot
+>>
+endobj
+240 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.techrepublic.com/article/news-firebase-studio-shutdown-march-2027-migration/)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 107.4914 142.9853 119.0914 ] /Subtype /Link /Type /Annot
+>>
+endobj
+241 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.techrepublic.com/article/news-firebase-studio-shutdown-march-2027-migration/)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 95.89144 130.9853 107.4914 ] /Subtype /Link /Type /Annot
+>>
+endobj
+242 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.techrepublic.com/article/news-firebase-studio-shutdown-march-2027-migration/)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 84.29144 137.6413 95.89144 ] /Subtype /Link /Type /Annot
+>>
+endobj
+243 0 obj
+<<
+/Annots [ 187 0 R 188 0 R 189 0 R 190 0 R 191 0 R 192 0 R 193 0 R 194 0 R 195 0 R 196 0 R 
+  197 0 R 198 0 R 199 0 R 200 0 R 201 0 R 202 0 R 203 0 R 204 0 R 205 0 R 206 0 R 
+  207 0 R 208 0 R 209 0 R 210 0 R 211 0 R 212 0 R 213 0 R 214 0 R 215 0 R 216 0 R 
+  217 0 R 218 0 R 219 0 R 220 0 R 221 0 R 222 0 R 223 0 R 224 0 R 225 0 R 226 0 R 
+  227 0 R 228 0 R 229 0 R 230 0 R 231 0 R 232 0 R 233 0 R 234 0 R 235 0 R 236 0 R 
+  237 0 R 238 0 R 239 0 R 240 0 R 241 0 R 242 0 R ] /Contents 296 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 282 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+244 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.analyticsinsight.net/news/google-to-shut-down-firebase-studio-pushes-developers-to-new-ai-tools)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 785.2914 142.1053 796.8914 ] /Subtype /Link /Type /Annot
+>>
+endobj
+245 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.analyticsinsight.net/news/google-to-shut-down-firebase-studio-pushes-developers-to-new-ai-tools)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 773.6914 146.5453 785.2914 ] /Subtype /Link /Type /Annot
+>>
+endobj
+246 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.analyticsinsight.net/news/google-to-shut-down-firebase-studio-pushes-developers-to-new-ai-tools)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 762.0914 138.5373 773.6914 ] /Subtype /Link /Type /Annot
+>>
+endobj
+247 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.analyticsinsight.net/news/google-to-shut-down-firebase-studio-pushes-developers-to-new-ai-tools)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 750.4914 132.3213 762.0914 ] /Subtype /Link /Type /Annot
+>>
+endobj
+248 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.analyticsinsight.net/news/google-to-shut-down-firebase-studio-pushes-developers-to-new-ai-tools)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 738.8914 134.0973 750.4914 ] /Subtype /Link /Type /Annot
+>>
+endobj
+249 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.analyticsinsight.net/news/google-to-shut-down-firebase-studio-pushes-developers-to-new-ai-tools)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 727.2914 147.8733 738.8914 ] /Subtype /Link /Type /Annot
+>>
+endobj
+250 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.analyticsinsight.net/news/google-to-shut-down-firebase-studio-pushes-developers-to-new-ai-tools)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 715.6914 142.0973 727.2914 ] /Subtype /Link /Type /Annot
+>>
+endobj
+251 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.analyticsinsight.net/news/google-to-shut-down-firebase-studio-pushes-developers-to-new-ai-tools)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 704.0914 126.9773 715.6914 ] /Subtype /Link /Type /Annot
+>>
+endobj
+252 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://note.com/tabosuke_note/n/n96ac4586ca71?hl=en)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 683.4914 133.2093 695.0914 ] /Subtype /Link /Type /Annot
+>>
+endobj
+253 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://note.com/tabosuke_note/n/n96ac4586ca71?hl=en)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 671.8914 149.6573 683.4914 ] /Subtype /Link /Type /Annot
+>>
+endobj
+254 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://note.com/tabosuke_note/n/n96ac4586ca71?hl=en)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 660.2914 149.6573 671.8914 ] /Subtype /Link /Type /Annot
+>>
+endobj
+255 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://note.com/tabosuke_note/n/n96ac4586ca71?hl=en)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 648.6914 126.9773 660.2914 ] /Subtype /Link /Type /Annot
+>>
+endobj
+256 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://note.com/tabosuke_note/n/n96ac4586ca71?hl=en)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 637.0914 150.9933 648.6914 ] /Subtype /Link /Type /Annot
+>>
+endobj
+257 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://note.com/tabosuke_note/n/n96ac4586ca71?hl=en)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 625.4914 133.6493 637.0914 ] /Subtype /Link /Type /Annot
+>>
+endobj
+258 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://note.com/tabosuke_note/n/n96ac4586ca71?hl=en)
+>> /Border [ 0 0 0 ] /Rect [ 107.4173 613.8914 150.9853 625.4914 ] /Subtype /Link /Type /Annot
+>>
+endobj
+259 0 obj
+<<
+/Annots [ 244 0 R 245 0 R 246 0 R 247 0 R 248 0 R 249 0 R 250 0 R 251 0 R 252 0 R 253 0 R 
+  254 0 R 255 0 R 256 0 R 257 0 R 258 0 R ] /Contents 297 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 282 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+260 0 obj
+<<
+/Contents 298 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 282 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
+endobj
+261 0 obj
+<<
+/Contents 299 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 282 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
+endobj
+262 0 obj
+<<
+/Outlines 264 0 R /PageMode /UseNone /Pages 282 0 R /Type /Catalog
+>>
+endobj
+263 0 obj
+<<
+/Author () /CreationDate (D:20261114010508+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20261114010508+00'00') /Producer (xhtml2pdf <https://github.com/xhtml2pdf/xhtml2pdf/>) 
+  /Subject () /Title (Monday Morning Intelligence Brief \204 Supabase \204 week of 2026-11-14) /Trapped /False
+>>
+endobj
+264 0 obj
+<<
+/Count 3 /First 265 0 R /Last 265 0 R /Type /Outlines
+>>
+endobj
+265 0 obj
+<<
+/Count -10 /Dest [ 10 0 R /Fit ] /First 266 0 R /Last 281 0 R /Parent 264 0 R /Title (Monday Morning Intelligence Brief \204 Supabase \204 week of 2026-11-14)
+>>
+endobj
+266 0 obj
+<<
+/Dest [ 10 0 R /Fit ] /Next 267 0 R /Parent 265 0 R /Title (1. Executive Summary)
+>>
+endobj
+267 0 obj
+<<
+/Dest [ 15 0 R /Fit ] /Next 268 0 R /Parent 265 0 R /Prev 266 0 R /Title (2. Customer Signals)
+>>
+endobj
+268 0 obj
+<<
+/Count -6 /Dest [ 26 0 R /Fit ] /First 269 0 R /Last 274 0 R /Next 275 0 R /Parent 265 0 R 
+  /Prev 267 0 R /Title (3. Competitor Intelligence)
+>>
+endobj
+269 0 obj
+<<
+/Dest [ 26 0 R /Fit ] /Next 270 0 R /Parent 268 0 R /Title (Postgres)
+>>
+endobj
+270 0 obj
+<<
+/Dest [ 32 0 R /Fit ] /Next 271 0 R /Parent 268 0 R /Prev 269 0 R /Title (EnterpriseDB)
+>>
+endobj
+271 0 obj
+<<
+/Dest [ 37 0 R /Fit ] /Next 272 0 R /Parent 268 0 R /Prev 270 0 R /Title (ClickHouse)
+>>
+endobj
+272 0 obj
+<<
+/Dest [ 42 0 R /Fit ] /Next 273 0 R /Parent 268 0 R /Prev 271 0 R /Title (OpenAI)
+>>
+endobj
+273 0 obj
+<<
+/Dest [ 42 0 R /Fit ] /Next 274 0 R /Parent 268 0 R /Prev 272 0 R /Title (Altinity)
+>>
+endobj
+274 0 obj
+<<
+/Dest [ 48 0 R /Fit ] /Parent 268 0 R /Prev 273 0 R /Title (Firebase)
+>>
+endobj
+275 0 obj
+<<
+/Dest [ 50 0 R /Fit ] /Next 276 0 R /Parent 265 0 R /Prev 268 0 R /Title (4. Market Intelligence)
+>>
+endobj
+276 0 obj
+<<
+/Dest [ 50 0 R /Fit ] /Next 277 0 R /Parent 265 0 R /Prev 275 0 R /Title (5. Internal Business Intelligence)
+>>
+endobj
+277 0 obj
+<<
+/Dest [ 50 0 R /Fit ] /Next 278 0 R /Parent 265 0 R /Prev 276 0 R /Title (6. Opportunities Identified)
+>>
+endobj
+278 0 obj
+<<
+/Dest [ 50 0 R /Fit ] /Next 279 0 R /Parent 265 0 R /Prev 277 0 R /Title (7. Risks & Threats)
+>>
+endobj
+279 0 obj
+<<
+/Dest [ 51 0 R /Fit ] /Next 280 0 R /Parent 265 0 R /Prev 278 0 R /Title (8. Recommended Actions for This Week)
+>>
+endobj
+280 0 obj
+<<
+/Dest [ 75 0 R /Fit ] /Next 281 0 R /Parent 265 0 R /Prev 279 0 R /Title (9. What We Should Watch)
+>>
+endobj
+281 0 obj
+<<
+/Dest [ 75 0 R /Fit ] /Parent 265 0 R /Prev 280 0 R /Title (10. Source Appendix)
+>>
+endobj
+282 0 obj
+<<
+/Count 17 /Kids [ 10 0 R 15 0 R 21 0 R 26 0 R 32 0 R 37 0 R 42 0 R 48 0 R 50 0 R 51 0 R 
+  75 0 R 132 0 R 186 0 R 243 0 R 259 0 R 260 0 R 261 0 R ] /Type /Pages
+>>
+endobj
+283 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 2999
+>>
+stream
+Gb!Sn?$Fag&q/qEeC/<&j"tM!>1k94(ru``JU#M24e$jrUpf(m=flC0a`r=6hJUGm*BV8q)'B#,QE:(e\om=^#u2!0Er.qh':k0J`Qt'a9B-=uTD:<m:TqgbIXCc#5J1e!#L!R'c_JR>R"n?,?$XZYR!7GlE#8b#GCP/MGX&)J1,fPS4=<'uge@D#B:&D?9[9/93-9Rr`X\%s@Qa9--R:jOUCXBGOp-81\ramqcAGfd\X\O$'m-IPR*_,a7Wd=Ja`UL<p?k\3)cDm_2#`c[5LGVZ\D]1*a4t$NKmeEWqdc93%irm]7Xi.0%<:RMo]ZhY@5_!8*R#sOHkqBDN16=i]?V?b$AZNi7UiW89sab&1Qh".Tkc1^B*>>j4Q9+OTb)\t@j.J^BT*0KY,m=HC0i7+il#`ZHIR*u>-Z2sXKKb3jMd%Wqhh4bIe=]#_O+WDj]"`_7FkGGhD4">E@Z'0$;Ip+GssCMjVc0LU(anPd^mh8A$cW;V91^:C0fg=H[OMcn")+TIrscViIcU&BBr=K^5k4I&3?f0UQaH8%R4qmrG+OL50-jLku?lk+m)AD,l%Y7*lE[FYM]K=2h-Y&IdA0_i5Q7>4j*7)`glt62B6qFqr7[kFq,2(b]*V95Dkhhms-kA$M_('o.bID&$[&Ahp6ATq0\5,hZ!Iud*Cf`?f@;nXp%>:2hH\N&KJM\F-.=)Qo$g7/V*#YW%17>eq?"274i;OX+=D>$L"P$ckW;8:1-4?6Xr-=,,9uq?n[S(ZIJ.T?W=&QWMgYnB;4RXR@MPj<?IRC]pA>CA1cph/&P';lW:!=_R.H(FJO,k<-4S)2bck8OjPP=@UQmBM:-L>Wd:\m8eq!$\JDaf[AYd:DZUi`%&cd`^7RD*?9Mr^Ot',$l_]cO6uOk6W)QeV\Aj7g!Tl,&J%ZtEC\@u_X_1aEBk*EF"MnY*T-mak>gtRJ1?g,%a+d'hIdX83%'.iu=idV/.;!;+W!S1oUm'dB1G5T;H@>i)HRgZ6R)%@j^HpqdGdo7q\U7%jiW(U?ab^P]0^,j,BApg>QNr$W2_/nTTJbuV_M^3rrOYUi>2BVObd=pgDD*PY4#/TuB_TN@_fJM%<9aq]\YKBj5/UfBJo$i:0e<i/=:aG8<9uBq`[WLlBua=^J@lndLXd'!R7m)1iJMnJ6TrG^S40$+cD=6")mWfm,9(1LI1_R+)b9q=jT"&&\HB(#[f]Ln]C&Vm9$22!eots*J>Ph<4GrLJZ0WK7_V6Oep>O2A5!6A7Y0DoD01L.`MtX#aY&daj&CPtVjkZ+Hm<(<oHJC:,L1@A;Bsg)gM0iQ$VugPnU7Xu[0MPKAWgH=?(YKQJH,Pbm(pi2XIe4cC^6]r=:H(+8#Y'IoG0iHgGmLd.aEA,S&EV,+$TQhWXl%qQmT9]]^R`9,jm.r02q<u2AYWKffm.&*n)=d=3BFp""(-pR(DVqT7mA5Ue)hPX<&&((pfbS9'btD'r'-kiAP&FhY,VhddO#<3emCjL%siGhO>d[WECYa$H;HqS?KB@1(7#6W(R&B47EF4M"-/X+T'@R7PU6sV1:Lt[dH/RG@s\1Gh<TNidFn<P"$0Mm`#*:]X>ru,kDqX@R&Q>OHNV[g%j7)Y!Jl42Q@>5>,m;n+_^e3(-1X$p.]<M=]PLk"C'te>bZ1+mPik$%>Wptt++WkTb!Mi0BqfKVN[tN[CPRG-bN4^s;:e+4pG7n05(]:*)JXgj6d_Nt0G1VeNMrgUQ*fkh2S*KE%%%('gB8Z$FbjppD?X*+Q.["iB7$W+Y&$7>R/eqI<*9&j"p9*gV,i:MWbcTe3RIjI(OpdBXWo:o+s<H8[%#X9QtRMlVNQiQ(%%!f*=-;:?pK]0V1Ss>r+H'2P7-\?o/,1QbT>&"qj[D:Q3@(%g^(&CJ=$Au0I/?bUXW,b<0Nep.84MPhj1oVc<]R#:s$8l'5]/Q`9%0\p+UC\^d<pG-[:4bgMa+B*B9mVcYA4+c/-:BlG`-"6BA\76"brRF/!TGZU`TIE(Ft8QSY$"m5Ze^M<Hdg)q)nV")%@=p$)FO2>i.gk^g@^AtPFDmbUjro@t(55O#]S8u[g!NmMl#m]+=g2UM#[Ene+]e-Hg:YLQ\=XGAKkAu\UH&8$L2QE>Z'lUH(8ZKOjdS=N:,N=fVcYI$G/\)Ferg2Fq3_)\/i8O5<CM#fG$"$Y:j9Ljn*>CD3U@<<tA?*5-7B1ADi;A@0R4M?MP>IuaB,j?>@M:<s76JW)eKWDtUKT'$J&Yc@WOg6eg2C5^b8/J;i/m4RH+S[I.dEW(:;i0!<JpV(HkSIYLf)9^@P%DuL=rg[E>CjAkH@N*E+--sV_SR$;geO7O=0<57C!tcGJch,36PIf_8b2bih?-3\9nSLmPu:gd1ahk6F>U4R2GUl:]G]/)0R2t._=!@hWW:T%1_5'h<Q*!kbKmcFM\!lLIkg1lLo/`_0.hI_bbZ&^J"qLZU/b(@""cWW<jclX51%1'hKF,!"%).,g3k%HI%`uC!b'g(bZYSj;&adl:S6?Uf'HF<9&!gOANLPFq]gL-db>^#1#q/d/e#DfhkDaYf5k8h_@=7;d[#IT>$;XCrd^N,/Cp!@P"0J_`d*'+b-8@a>ij@P`SOBO>9#+of3Da@ALu9_3!#`&O"/`=$PdHaX$GHQP.jad?W\H5Ie6%`\Qc4_&K=3Q>_V!Qb'd6lI\Cf7/QY^a?$I:(\;\bM3bW>`2PEu#e!mhHkp*R!I:Y%tg!lP[45kM]nU9lmY&.&SrF0oI)9dcKGu%Z,8I]r,[i5#&fq2?gjZIo7OSJqLigTb,r",Tfb)n5j"-_9hquEW(P<*9<k6njW:d^HDg(5rX?[eOiZf:bkP`C_%0M*/&/;/)X^U1B$Vj_p7RmPtRnN]E1lfD)Y>s_$KhZ#NHG_ho_Hkbrm-9ib%h9BIk1C*iC(D2qZ\'ho'2fHKQdn&%G>@GL<f:^&u/^4'Q=bb*abSrMrTdn1=GNO%2hj?)IPs"+r_lCmD5,2cj#EdC<NW~>endstream
+endobj
+284 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 2570
+>>
+stream
+Gb"/)flGh:(4GpYgntILL^<]Co->VSlmb#*>H/r+_g,ns9s@,1!2CK2R'3.2%18n!/YK,fOd%;],m*9>pY=l#90$PCT4<>I$_l[&qYhjt*1+r`jS5$:kGNEBroVCn:\aC[7f.bu"hs.s'KMJ7O-kjG<YDp!mgsr'ETlA*kXTee:&_"8-br\G:95QH'642uV2!IcgD^M^1j6%RntLZ;*aR7$&so*kX!Oh>Y%Q`oqIKbL@`uba/]_q5a:#mV^Y&9F@BQ_>e[!(hhm@39k/:djh6p$QUE9i*?G*=BalrmX=jAi"=@nc:>Z+nea3R8ob)Cd^M@iLrZpG*GWfj6=.!%tI;(@]+b%`gL"eK._W^tAp8`!^0PeX'ds)`uSVkN^#of9qXMugook3-/brkH]C49["&N9*7Z",q/:!4-P!S&TG2.lPCM+$k7hksK(9@H_Ca7$0JiNkGX?$RX2+T*2kEFKb-AJ1.N82-3+Ebopr>2/t@"j8-9ao'U,G:(&6.JC:j]E9oPo4'=^\7+DRNU_P6.*\s1BI!uI$&PY`'1jRj#r7Hf/CR-6H[TPm'UdgQ1jMbrJhJp+`crWre8g0UGQ-%dS^kR\a`Iia7@a"XU!SdWt6T=Q<Z<Sa`D9S%Rf*NYtr%fPLKqH6QOl^)kK&"GUSCLV*B=FD+J"*ieGQXJrjAKO$9_mX*HEQQs&D[Qo,jCY&5Oe3-V&,V@^PZ5F!T,1VQBYE]a]!mJWp69bYC/Y;ab#kl@0K-,9-t!(/T>'0N[t)<EgK?<3b<E$";uf&)2V6@<[o@.<i0q#4eT0\8j*S]qlODO$9hM@peTaG1ohP;3"B!>]THfeU\A%<Oqup.f<66</q+m+g2o8Zq,-#X]cDLl=XTa`IeDHC8OCgV.A`"d))Z9)4[jCN)Xc,b=0(iIp:UpMK588NA6"Eo_ZB+9V)Y-Z;S%Aqa19X$XG7'-HgIfdN#TN?3RdC_B.`9+*7eNYr+Lk+OmG<3g]T0R;BC(tW*-./O\kY(1Y(UV1Y"1uo4<+lbRCeZ-odm.6276K>l"@"\44:f&Wn'b5r.*<:AA#8ndp_/js\F]?=o!!(_Vt8D>b!HVQ76uk>]]Pa8Mm]Y`c"Zh@t9t:ifPpZ0##M=E5X>Y!_.9I8GHAnJOo/74_<!@`=$2Oh)/d#<i<q]*Ht@puE)*YiC;l4j8Eu=Nbh#bDun7hpCqd8q%5"$77m2A!)u75RIg5cESH`<5B<WP-XAQgk']lA'JA5_>H0HS.2g=kWmgd^\/YbUnDq#G^tJ:.sW4XFhC53l[icD?/38%K:]\iR+kM7Y-GZK#CRjP&=]af!$MT5#Y$N^4<"^))d;Y[ii<ZC/aW;5BB(c$04Ffa?-tkoad\5]I&pJGFR&c9S.Rb7]o^#D!=G)H@uX'I;[u>EfEf[Y3*_l!M#1"!(UtB99H`;[Pp0&EZH!tB',6&$pVW(qX#\8C+"8jb(9YJS%#5R/>-s\mY8;RHX]UdLS6(\B>6Y!-[[N6l#VX`f&t::DHo9rPM7d[dU9cuG[gd0N4.<UP:h*@;-G*q!-E.OmS5,,/*<4ZjmF.8?6_5[.*IK_6lR0LYhYXD'clO$@.oiuBZH@ho>:F\&KMALJR@I_ag.IRmM?<;*"3k!s_]ouQ.$pLhWuo;B</XgI?VB7-Zkf])IZ;1c+&IDQB9?Ctf"XL^"8`k!FU$S_FE\"M(M`P-";YGdL"gii_pc&.N7FgG2n58Uk/0?-_l?KPi!*4%hiE\JX;KhQOKIb\i.T*:Yn[L,61g+mS1]@r:2G8bS8ar?7Y9#7EilauSVb!iL"puW.o,_):tTZWV3_8h7S1#3;+bni"U2?lZ")NfdsI&7,p;:[]]'qQE0gY8+_Kmu.EOqLn&T@0;)3Et_^@s*;V`?`htb]pi:bc.r%Sa1QKs8YUqC-ch]^^jTmkrhO;[TFAVM!*Q6#?qAt7,^38XUc%rB6e9Gj;c#Rj)&g%"7S1W';Ynn'$R+S'LQiXQ_HT'pJ4r'a]dY:`)u/Pg/Qa'W,$\4@A&?l5NNr4qXV=YDu^Y5E7Ro&C`t+ug++2bMO%3'cG<;'6f06@M06WhrL5;r"*Wc:c(9NARSK?B.,D]ll,1<J<9+PP'H=4CoCc*kCRIj&O2E=3O`[(S'(i5#U!Y`O<3+WtR-fCoQ#1cD:HdmAbNr\fc(:ZoA,^PSX5;4)qOnS6oosY2PC:;K&JtYMO\)Fc?l!#WM/YQ!q+3j]@]g/lM.Wc[F@NBReG4W&1'PD"U3`<jPs'[1)]3?;cj2rn=tP:X)^gbZ?d8E!,QE&TYBEnknWKG_b#C6E0K/3J+P7#bs!N7fRu_0aPp+OsIJS8<WJ>,RM0#G5'c46KX!UI>B0Ef^N&L6JdUD=:l.=^I'd@'^,f.oB]ArWp+ii3nroW)"-?%QG.\G<(+6G^A?R<i_XM3Apr&qiNM&QGC139qXs@+s0ouI8o8PQ$$3WN53k&tRbQhYDi08CWqk!tCPt]fM2^&'o=_WP2m%DP+#$j6g?e_&O*^O!qkH[MFWlAT;ptk(NJj5Wp#!QHDpsk*:$ZGHPEmC]$tOac*iG_%h)(AQr"o3N9L8~>endstream
+endobj
+285 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 2666
+>>
+stream
+Gb"/i>BAQ-'$&o$.JB``3]9?U2_jKhPBrbK1Nr*:Ss/CYT*L1*,fCD=!i-Q\qu/lRP^J<\3L1>T[E#-MihkPNmLK[\Eq.>As2gMhQZIKGQ4`/!4sK,N5+NeC_>0!R?bFE$S(I?9`s[:@UF6P@!$BU3jY<Mnes;u@XtV!d3<O@cD23)"+h/Q.EC9Xl\Ag^B"*.MZnVQm_SZ4af/;dc^q+!MT-ha9bB&.T@-D%i>$,0kV]3Pp<ci?Wl/S1cY6GKC]_Gk"s%:*r&r`(51;U]Q)2D6KE@A_7:VSla]mP205qXZ(<'j=Vhe4fPc><X-RB.?h[:ZnR4l0Qd9:(UaECtn@odqPB-`[-@0)/m:Zq+n@BEg`^l-*ggVo.-fj8BGuD'G>]KW:9au'ZjY$mB&oti-8U%Okl:X4RrSp3/^-?mA$&T+JR>/064#DF5iQ2a%)+<H(I8#SC-"A;s:s=dM0>8VJpLN;OJp'oj)ucm_(,a,4[H'F[\_oJkS>W1/1b;UI(0gA5[-,.$:!)6:%$ie"P:$&U?tU/b3\W-<c:kAeV-iDBqhBG.H,sd.WK?=B%#<`i('t)&^YVM@lh&Q`c8C`sbC7@L>\h)k!2LTT,m@i.5`-/+b,:6XhsR@6/+bUJ+Z$apZX</9GX)gl8m+Q86p4_G,f#AGa8DB>W$9)Wj%3E+eIA/9H$Nh#NW.)k1\=s)T*ci\a0,'A:u`_a1qiomYA-W/p=oQs<"l1_j!oRt64=FXHj;_FSH(-nD^,6j4T:]Y&$PqbU!AKsOC:8a8d1eCmg2E+u;aP$(XWAI]rjQD6NAlp/Tifi[cI>m`Zldp#NY?R&amcgP@]C+"Ip@lU!E,,t!f4dU;fYs)AV^<j^4V\5TT3g02fC0Hf/M8>2;0qMY1/rY"Z(c-F`Ce`LfU>@X9_DRY!QHK,)+u7&>;_.p)%i0Rprl7HF"*\7c=sgZ.NRW`(AA+4EQ&kfHnqpE8YMaKBn&4Y4m9FW?#GHogkXTNH\Kb-@ln8,'?pPXL`&n:d=C=ALk]j)2#Q+'TfLe[?I[o>3j*=Gpa;Uh.No/!J3K[rCgW5lYOS>8ncJBYjM5ZRD>XlNnD'ikN@#'#jeL@:cSF?D"L#2\i9Bhdh9F&*.']Hlt)I=\m<$Ef*lu`9cNje'R!=bLps.(n5s1O\M0B@U)dGW3@oGli'#FI:8d9mkD_":U[+HK9Qf-Iq0@A)s\G!g"$WH3%"887^AnZo>fK7UW\)L[]>\JI;C8YnNX*WB1oI3]aobbZftGGIF1bLTd.B[o:]f<=Jjn,@eIp)5.^rQs@(LoOup\ZpZ:e]+=R",b(e,B1(iH3.ih0%en,Q-//)_c-f]:Dfu2%n_i+$()p%cGkAgnDc)TR"$q("s/O>^2l9e#S?jAJC*`oKE2J4=;kBno4J<F<N4h^_<&u#q14Vtb[GQ8A21sGVN>c3OgiSY]V[XMP(*?=fDO?7':P^^>/6+C"\;HbL!"lDHfBs0".qd`*H.EA\e!rraY:_q#!)^7$mU0tB$pA/'uSr*bT`)lB/!G"(1#_8c^S0%XRMi$OP!63)`TC:,BSu9.]KbsU=Mls.2df&C18p#+TQ5X5I4//6J6L=nD4@pOcr'Rb/[CAoE"hE3p^>Q7)4;H;3A7H^8XXLfuXt`%cL"YXO44FRm^^iX$E4KRr3%W[0b2WQ_dZ)2kZ>6[N63J[)kfpcd_'>-`1@SP$K!#jeS9[ES*)pYVF>JCFZ=g0cH!M8])Pf9eH3Z]S?7]_b'De(*tf=AL[#l5/U\<TqF9LL$&@:`L@a8#cr#XPrc!HQC9*pC7@8m`fVHCjQTCEKR_/'NLKeLCi*&K]'I(S`:dYY]7\+iY\2AEjBFk+\G]ogL"LX++0:8K)p3*iVsiL#cep."L9.l>UMu1r[A@p4_k/;nr3k@Z9F<pi(9b`#F+=AaSgZscK5EMW=:*W$gVp.4b3Zr@?:0Em*D0V&rV[Htcf&5^;?qad"rg?BhI+i#Hg$`0!EZ03O]c%V,d:r6RUu!.L,T4J,a0:k8[gXZHJ%fZmj"E?rkpqQ#gY]ZM)iVR,Pll!f(5<IK-f,YhoN^ujk:4s@:$f;/Fckf]qhr&MKsin+?KXoocL4rh:+@C9LhUn:!0_$g4o&aDjl,>gMK/WP6?Zp_fgCa=i5h6bg/Q/b8f_[a[=Fr`kQ#Kke\%/b'K&4;'o1G.JODJjHU^Q6UrW05EY?OHBkck[Q9tLRa,"'I$!_EH,J9Rn/?a(ZfF63TO(:b@U..9ab'"SmT,a81+s/i2,*n:p/,0QHb(o07E1S'9PJ,A)rOof`G5UD/`j%XjAbq,VY,8YSF\TRba-ELflO0o;SBgHp?(`;C"7s\_8]pV(kGMuX6odcnF7Zm8P(]W+W&6=6\u6k#VX3MpsTATL#X:QQ9DaCp#]9jF"E,!2Y!]fZ%e<O;RWhM/&T)]IETcY&3YHnG='lSVsiU<oB5+oF']B@kEiB[NNj><VuE^pQc6\e8N,U]m<4OtO1NuG<u_+p12$O>p3Kq7?)pl:\&'8(hV%DLVCioLr,8NLiDCZaZQFLuJ`Ap[U@?Cp^$TOB9aEZG2F/!(U9s@Q,a6gZgS67qWkCRXQAKA5SSDMtqI:Tj"?ZLlC_@AU3_s[.c`.*]%,8n+TUF[Vc(apn3,`Ta_%WL[@uj)8pM&!5?Mjsl)tn(~>endstream
+endobj
+286 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 2735
+>>
+stream
+Gb"/)>Bei3&Ur'0Qp0'W,LHY_8tQaZd[YPf-W507SlHjT&s<fi!#Hd>BRbF8TL;AVX\b&<[F6IgAWe/g1Z*TO%7gOQr[7D`=oc2T_9!Vt`.QGO8DjV)3eQ%ZB7E&@J02(3*JBFp#/1Uf8/rHG`-\sG'BkYB%!L6o%)G^Z+$2*D+^@*^B*N>1#lhm=4U;<b^`fD,It=%/de%3HiqO?[T?MtZJKKYdFoC'Q]Jp25n]2hnnc!dkOYDNNDk@=U-urdQSH'TC5^Y[<X2>p3gT0l#c"bU!TpaWV)h0`qI?T&li#*1WHZ!K-=l'aL4jP4qBu+he23`ALlN*Wp;V"[h\[XK22;lff(1M"(?h$5`RVN4'I$.,NR$r"L"'nc(eYS!m6E1m)(^P:r7i_I17oQj(Wh87(!`E0c<,e`7#4niEp%+@\?.BgZNg=-GF^:;2ZRfHEf^`S/nHljj$J8upPWA'GM"4fK1hScM<p=e#@9q:fea3+aF$j2>?ksW4]mcFuN01KK<Q`nKTK>A?r-c'YKq<Vk$9d9<r[JWM,,h'S@0l^P^'%b.6*#kl%HA[5kH&UGS,jFNY#MKs'piBWHlZdr[B:e7">[./>&.pYF<^#Xd*L690b##;,F;uX7+DBs#Z7]SNiG)i(ei?QCYq1Dh;nE-f\&uOLZaP#mgSUuhX<.edd"Es"fj.BF2U<"f_XP!kE793kb,K%mG6]p`Hk@]).$J*;%WIe+Y>7DBo0lJ=.;]OHpD@-;4E&G854ok$j-LSLPWZ^s.?.G'r'8%=0],5b$'51n-$(AM-4I:Dd2mp%78['P2#q%O;3s4%>5g^+;.fb,u1a$Ob]j:M+C",%S9oTi.2QQ@=eVl9]S9SMF>c?CP6oQ&p_b3]WRI"P75\6i!c(/*Red\0H&<D1D4jl"b\LS.DdU<c&T9dM@?#"%g%`@+PudV,,L&((.)Z<=Xe&c9&_6Q.ui=D#r%).`/f>YdYeiuFnK<*#T_@=%u7Hp_XAn0I/M!(g^&6bnfYkTK4N?1)L[2"OUHZml$0P?]m]]bK`2#pXUAec%gK)KD?pXj2faMi(^,h4ia?VaYNq0L09*`3bj#nQrI)s;]VOe'>lk`YR+O\ZYdAtd[N/aNG[F76'!,8>E]]Rf-ULAjnaAj9T?c#JJh:b&ku:A<(dDkImeOl4QKeEpEI,USMY>5>P&icVqXRlEl4\b6X"0'#`N/+Sk%g#"c1u1)>sTN#anWBVo-5c^Wj'[g&p(QPH:)h`*_<^7I!enO</N,+"j=p+Sc+BB'E)%M+%^QYq30`FQ2bPNlg,U&gO`_D78KMH?bAg719-"^e+;$I(r^2PZ+@*iK^hI(=#ESXWqq3#,pB#uKj8Anqba=9I,lZ@<k[)?-KNDTX9QHo6OV$Qn)+6t%PB:ElqW:IRDo<G.SHpIJ#6o!+Jl%:Gg7h@*?5p13#f]eMtaF0ThaL)Id=h\>_(iohbEtQZ$ubI49cqb$^RsG!0m4,MKrK5.g#3L0!R<e4>4^p2jFLOKYM:1M:/8X9&%k2Koc\sL$h7P03Nq='nfaT,BCq2OOM+%[e^\T[=A>o<*_7`DK%[%,Ub[D1';-ARannc9_#RF!#(-'LGB6)nCbEaBkOlD[nHdh;6WaNc<pq7"]nThMFMejGlaf+mMtsh[I\8.9&mE.Q!?/EpnC05p6I+(gtBnXG^u2([3W8c@V$Q2T]`W+9tM*6X3<J^+n)Q0*$Y]0Hbjd'%#(2'r'IoA))lD?@>ZH]?GV]9Dl2S1E_7:CH;7K7idTX?2`Dl9<[ITM3nm;T-YR$KAt\T=Z;7`]r0>Y5""!OYolFC^"81+_$[pUse*t8CV(6Xe`G!Xf=GNH4[@\GE(&OrIkhD?p02,ps)%*YJoC2ZYJaM8j?q:(sFrPG'd"XUhCd3:sH^];8[I;+q+1/o=p[KrM<ES.@;YLRb&Mdra"eD?f1fFd"[XB(Ugrb>B--rm@H+FbRL(`BMr#;f7]$)JFN2/_]P[`\6Rg"Ni<lIb?N>dL.XGcAe!&eJ^&Sg3!%/XT)6pU>L2Sr\Li$^?:,:??<)A-5ZF=q)VB1pIWW.@j9K,)AR#L_/JD2SGg\\nQM!K@\^CIjll2BeG^n-0KlPE8Lsc<bY,s4r+pYNsQ^h5<VM^T3d9,l7OA\Le%&1p;ni]UH1LUp*m[$H=i"OTG?Sk1Ih\?+UQM1`=p/7tkb^d'>IA[gdh.K@k6s^L2sXM4FZm!:;1VV%D6\18CehRB9hOFNP"RR7%2X.[fK2D(771L/0gFSn&8SP7.XWHf"W'A^jjZH3)^)qNFZ$h^0b$UN7mC%2ZC":3Tu>,&$]98Q:2P/oFLMiS\,Y,oMALYc"j,p(_/lWlbUDncQY)YnOKS"OH5WiGs>$Z\<_sDT*58CsI`3T-db=P@Zsg;d/A7Q3Iq"7@Po'5\"VK[VTSgf*XU()+@d9+`"\WB(pKY-rQQ($pVr"/oO:u)i]N(`AVYAj4YsLB[ZR`pSUVT'H@+c7nk6>W(M,gDDhoUmb0X+U\HZ!"0IffOf&@g[TG8Fno@pN'sHbhY$N-K3(]2O5lFJX$JjI^-eVLiU"@uA,lUXrm!WSDo9'/TXF3RGGp9qN6?"`frrF!1Og&'7>0/ZN0G;i[%l/%65VD.fgL=.PR?.[?E,L$gjp!Hljl'c#nKK>!I!;"TMX/^'1kI>>)nib3@Tgsf#gTrdi'`iKbif!+iUC]9e*[bqSmH1'cK1U(&\)+dmX7[bNf"LAr>0.3ie[~>endstream
+endobj
+287 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 2356
+>>
+stream
+Gb"/i>>s9I(<>>(.F-\8.FY'Ce]p9C87ngCCaHnt>?f951ih@=M;6NM/Q1G$^]/2n666PkKM[4&$=q8,4kH<d`6#nMGQ6,LdIE0EH,GL91g:M%=\,m.oQp5jmhbH_a4o0R`.BBG!_VI.7JM\Q]rsF:o&^:6lRkZf#Af!Cf?G#$S&2WJ0JCFAK&\]KHpWc^5!DiS]MI#(3DYe?Rf-e6bbdZ=dAO%?+8\VH&bGfTp<YI\qE.C6_f%1bKg'.5QkC1/`>[LKC!rSbFOo>=i*C1%nql_%IX)U6CV4M,Y:nF2l;YK>9>'!1LsCE5GUku#$W5$<.XF0<H:N$ZWMQIL/luRaOtqE*+6LFr[Uj%@;CppsFDaWG.>plri[*\idYZ2,TY,BQc$lP;Bdtb](4tB\]%AniL<B)KQp)t*U3CloQ6iD$7Cp?%kW'@p^67TS/1XVe(1jWX/b5()6HV=+b!Wf=K\SCC$/'42b3LgJgXSPVn"!%`^VR.+n;/"5K@n2Y<uY$Ag,?rCqKu8nR67i[SjVkS<g;#<UN1d3E8>u';PPk0g!I^8;rSYf?qQQ1`!C(k/u2>u(<RG8<Ys&1`Yc6BNic/5HBi7t;`b_^]PIGN1HRKsKm^bM_((t\i3>/LX1@U!m\dSDFWjY(>pW\*OF@Dk5fY[.1ig-@cBRW]*XfY9e`@Du@:RWH0cW0:QNAlCk><p8clTrWY<5ZJIupno[FB9MZZ,&P?0M=2NO2R*7`h7H02s9(bhDp5YDANA_ck>#o[44>[E`;_=Z8_gQ,6M</\S'4cYF(>5)UaHX,t5_\Gm(Bim2+@e-Ij>doMo$EUKXEGnPmo-BGiN&gA_/4@k&N(H!p9<V#3qkUnS*Rs&ScFA=bS`fiBt&`7pi7RoXrR<]KAVC[Vb.IhrI3`PV?cG3Mn]611tnlQl0^o#c:Pkd.Qa4b$/QoAVc,7r.`^`([&-?nY9SkNN*J(Mj*_P>='D.>)J@BJ'h6[9jJ@?\sITL_s6Q'TrXPADm?1i_^Y4U_6//8lU(jSblQ+<Ma*.u/OE40!6cF!fAd9H[H+k.IWG10(Ff%"-B^%lllHU@t'SjeYsZ/,HC57k:uP>t;(qS=CZX4[7"30+EY()AQ4#^!&ND)/U`PdA>E.Xr"*+!'*7\W_U(u'2dqpW9ac2'cX=_Eat<Tj.c,7VKG[JW:S@*Y0i($)urX8^r%7Dcg/kDXW(J;b9V+b6*RQ$=lJ`GgJ6F=>N)m(7BJ=(R!!l^o-cA&OA=@ZV];7V4U@(Bn;3OV2ZUZUl;tKPa`Wk]$5)!\8LhN\.T8f>1bJb8g*i(p)r1;*eBk!i^9rfFZ&m8D`)8!hR>unAOH6/E_SX.CIA5A;'-E]D$,jCiO-=5^O1eg]:AhqKp6'dDq8n!2&5`?n'_H+9dT-<rd+/kLVlrup:Q?CnbVlbLJJP.:&/+05NuUYoGPRLV8gP9QM9HG2%h[JblUF;Q#9FB)I?j2:&5IW8Ih%D5&I@rN(>\9:Q8(+@1'NgfP5mh#n:*Nag,n8KT[KTN<'&27OIU'3H&RdU]V#&W+AZ:&K9SeP#Zb/@m(fsblj-6)Sa&Wm.T=otWCqLqg%*6m['^&qs*;-8Q_Wr[3eL=Xk1rS:e'B;on8ZN-oHJOs:i.EB4aJHeB/(78kl<Y^Y'q&AG+3bJ^>1Z/dHd"Vo)i4B/'?Z@F%*aa7VHKd`0NJiWE,5fI%#Y%*%b`iZFSF"7/D?pVNn)@h7'l(o,^@/a2^MbCl-c(VZ(3Q\C)M`/qd4"_L)u>['e7iM#k&aA*hcEeV1Cj8'!T:0]jdoS+g^FEfbtK0Z.fiW&u#&*iuteEfYnCh6V(1bJLMC=O)Bd>S?N"_SU_dm;HCuX,gVSjfp>X\pno*n,l[%YOV&].\.'H;BK!_57crPE[j6*<jlWer24fWHrRW=bLV`S#DZ<_L"4J2p-C3W0s'+*-3""H?PQTn@_uMp%Lk^R2J,"sXHY6)+jTe$Z]DNk&@40K]2>nYcb&SiB_IMO05Pa5aQ-!.X<H9[3Rg7=GmmI@^%`Wape?O3B>^]-<crc/0fWZa,hV($j9NnXmX#Ha2\"(Y?[j^_gK3)-#!pTdej"Ih2[ZdL7k3jLTH,tjkT)E$_T^EUL9K*<[GS'[Zu_)UmU9W>\7Ui;2KYr0Rk/39hC0Z'=]Z(O=PQ'o<(=%Z`b40JN6g;NT?D;A0?<8ULfL%q)qCnV#$/_rDJ*PXL/NG*9BW&uhHS_$r:Zgt3GMkd$%C7lf.?=#f6a?]>7]UifS)u--!<(Lk@1d8f##/?YZ'%W\VdPbDAuF_2.5ZhqZ9/!7uS/JZ&Kf?Uk=Y$(9d`4E&)<cZS+EXf>!+$U7Pj5],]MlnDRfD?MkmX6\:F~>endstream
+endobj
+288 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 2489
+>>
+stream
+Gb!la?$G$]&r,lH/*=!0O3A77'Y@Gk8(3ulFIh'$pRLn_^_A'"V?iFeV5h:Z?[rb\q(%\6X1"K;>:'LTi67+I#=C7enXnLll($tf)1D*>,NdD,PZZiHFS::BT"Xpd`@(Sf:$WpDr%RVgMPJN)nL(L,IEguC2.t9AHSQkmGK/ikh@/As+ZqQ2j$re[j"guY)jA0+%t@G6gSa;`3K)paFS;c'Y`nj%8?;Hj2\Y*9AqF4q9t0#-mr*rkCOfct2<C:h>\d1c3^9Y066'?O,pnkC34Gi>juSjjq9*^D9Y0I1dG(NeY/Hf2PUk`,\^5U^UJe0aM_lqq+_PT=):t+q\sQ=5dFrbcp,*ke[F0(J.MBKL7+r'F0JG)Sd^)OoRY[dgjC0`6m;+G.0g8b/ICdCQ6/oD,I@*"nTj>1o]'TXooA'6=JuAIV:NTVD=SpmkFXNHEeEQ*<[hk.lK^OZ]C*q)FNMBlDU.Q,/aidYN@lDu`^:2-\H(npM/5eK`qBf;U0H]q4__P?bU?5Y+.MFjqRSW5Q2er]b5YSC58eSnh3Ee_fP]D/>(V*k9/@"sa<K^/?Hnem`4i?0`Ja5DVpib7DX<6S1Yp"R$`sit4L/,%ZU.:/F.l%l1!Na?d2]`4bGWt_/hcfPmOf+O1aLYUP?b/c&_suJ!@PI*[Hq*/;a!X>s,P:r/1u`O)(ai&q71"75j$D$KrHbC%mbYN7H?Z!qPMk")oTj=i]0TM3a2X.ofRu8iDfi?Db88.JR>!iqP0]f+PAT6I8c3o/*Q0b-s)?5V5%mLK7Y5_Z+j*,R=N!6r4%\PD7SCZ"5tY,"4;Cr9C.s\67a2o?)I!CFpGD[&@)r%>cS83V6*^MD_WkJ6SSMAV90ILPLtXq>KfmtW>gsQYXtmN8F1pe)Z"#`GHrK.41<Y.,PH@03Z@%sD$S(=0;1/@`)oqP1YL]L[?):j#4?l`<Ql^Gr?EC9pAMrLZXu:!@W+3``FiK%Sl]2Puc`_bCOV\6G+q70h(Y?]aa243-^V^EP!X,QW@OFF!3I.mqYg$$2VcUgahT^MkiU&Cm+H;9E.H0(Rr&[sRLu:l$n`Psf[F37t]&0Sn.cERacPkS<Q=(rEdB[nCfD!@:(ZKtDG_+Fnan(*k'KC"Ta%C`5fO[F*#oQG_6%n/0_fn^o,c$>*WB\;0,>&>HRV'(:*D30L>K9ngruij`;d!t*bQ+CUj1G%[+Ar^;3\\#a2\NmM5K7fW;Z<CK_dj9p53eg4n5S8n*M``3-s>UEDS`uX.7TtHD%_X>cH8]21]``G^6d<JYe&dLDWK6/c!XSgY<C=Q'8=@J/:OTL+<i^2].b:]4"q`B_K_FV[PRNH93V=qYl#_QJB7==,<9Upqc+SD(!3;N$I^ETR8'48o-,j8AT%llQb^Ai703/r;c8F/aq25J`MH]]$^mJ$GTV^sfH<`):4+,bAj6"XD?@PI0>GVuQ@9Fjmq1Iu$3!'`^AWJ21ns1s[R)>Ff17W;qSi6*9o:=+auU/a,C"4QgRAisdX#^`dg"H@`6Vr`r)ooqiT0Y]YJb9/bPZ^mCp[d,cXJ%Jh7tKfKp>SY7(XJD_Bj>]e2>LO\X3e\fYI(un+f4b@T#J7Yfq0nZMuP3c+'L+3\PSRZOi&+5nF\31Jo\S?9hZGH3aV-]NG1WW8L3a`94EqE&<+_+Mq?4"&%+d@dVNF`\kd-0SC!3<FcU!^jo7;:s*hA>4>-AD.sKN!F6;D1LAANfLfTsR,]NT@ifD8jbd)Hgl?'`^(]EX3R5OiWh6LY7/3^uae<EKfN_f=["PJR*>prr94>2++`kt'+^!ELEpM.6?gjl_0%UWZ`dSooOTGH,Ql>@$C3!ZTou$;@9B1l_GmKqSc9uu(Rr#p*YdJAFDod]0I]]jURn9q$Dnak9@DppZ6LQqmjp"-07#/fXcd\8U#KP,rCm1#i8fMQ1c!]"L(g7;1J1eOOFQjaf4HFURfINiX5qAg=1j7OCJPFpW'="]Lb&HQ-RZcp;A^9-is1U16qsDii;-G$Gc;)"-4'6%VU/R3*<b)BSQ6R'foB.T1RO<DHQXqdM,PhD_S6AH4[=,&i)40DNPfJd)9HEaGY$(;fW#a,NmbV&?+VpE5II+iPW9;3J#kLn`S::lrH=h*igqi3X"44)kdWi!eh-c;?nO2dBQiXS_J/]F];tTi(lCJ;U*#u9Pq,<\W9rXq8MoqiW2l=H;W]?SZSasU/-%i-jS^aIR9p'MtV>>fnQ%d>NYCo$3SFP5\2)m"\1)S#Z7[/cLF+^VB)WNM6/>`=o=3X)X:r6H]:4NO@$:h8bde8Yi27`i)>Ai61*kCmfNl&ps%prNIoNi6a@9O>#eHT,G`!]_n'W,UQVYq<a&2"B#N_F`*-q$uW`MSu?-+--aOB#?uj_6#@;`ke34F/tR*W&m$r\K?g#:7mE*bAeg'U"S<_L[<uFOn0NC[:#.h*&aG-i%pMAJ36oO7K'e-A[4:H_T_Gs4;##5c?W.8En+n!TZ7o_Z~>endstream
+endobj
+289 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 2595
+>>
+stream
+Gb!la96],K(<?1F'_c\_V+3u]5/h\V4)lWh->=*.RRK@ILkJ1G'Z#Bs<IOc?K9Tn,IaQJD1\S(&O<=P[k7:YTjPZB6s-#Ij_3f[4il#+@:PntmVt%Och>#N-Y<M!-YBp'Ho)dh@-jg%li$7[G]$+lLG@rVbk%$`[a$pnjhG)t9;n-uPk(NMdE/]4j8&TZ1iY.a5?+LM@GSIibnXk!@/G>fg(7X@88j)9a-$[AD%f=_;\!lHV$,4JKcf_T)AP+/GPqIN'k<!&3J.D7b'Lkuk8LieQ%Wdo*r^/W0,X%\jUP]p@<1VDa?.C_U.s`^\0bK]KKi4>;<72tS\D'i^gX4&+dU4]m,TBX]lk$J$Q)HF/+Z1dWO_iha&,s,ieE>TZFjCP(aF_h4)X#?7\GM9(n`MSRkTh4RGU7Bs3,_72Gng)d3=hZoj:cStmR:G4o&!&Bm(`#fI#c+Wc0?u[X#_6<;<Ztp=e$&`^+-3I3ol?2(5-*iDSTM/ettZ<)#4$>cL'kn0d@)s*fEK/I`V12?4D47).EVo`10RNS3aB`]!Yd\28r<C-a)c9oMI5O<R['EFbAr8'k3?DXq$mm'sak'[m_H77:T'4ZDN,<FI_TYhA::$M>Gh"A(iS6fPOL,Uo(?"c*b'jQ5VNfHRPt=^`fc]Q03)dqIF\Ji^S&;l*..%4i^fo]OH"-TMaJCj4O&)doWNqc^%IQ3lpe3RRN#]AZ]]aI\ol`FQ0%`OZ!kd[Ja>gP?_**_N=)ni?%0/=Eo&/-uDqs>YBH]97op_Z:epm)2/"2S*nQTZIGbkOHUssK'CL"\XCNT,14N*.2#o[Q'ohfj@sP=HD;KX,'-+1ncM9'*et6nMdi"XOO(-"E%gic^aW_VHHaKhd<&I7S;n[=c+H,*(+9f@3Our_]p2<JU<q6io_$,Ud:"&1j4$;d#I9S_=3)UsFE6*4UrbYG/@<Mt7UtX_^91"C'V%%E+XIuDNn1aa0cRQrfkG*?4r$H+Yc[XgKr#\m'`#%4<SOQHZn<5^lJ(u$SL%Si<VsFoDG27$>ETZeLa>3A0mq63UhTr2e2E,T$qul.4j+3^oRh4]OgVDEEq8@u_5rU7C*qK-eRT%6[7mkmkBaRi;2CYRh;g"&Tg1'K.Yr!O6N1h]TUhf7Y]:1*WB?BT/ce@_DZU5SLQ-Uq%tXbkQ$6)>lNQ'<BCCD%8UX_\F_6`1]5W\@R5W0eU"UI,@A,KQ`k]WX-!L:]#_'kVR=M'eG2-<GOadT`fhjKu_=;_^,&]"`YG(g&.9kM\+3;q9/<YK?$GBidPR(Mn\]pa3)hei:Zq0ASlu1ccK"nlak^X34JZ.@6i@Tk3_cWLk@6Cc.m,$$a+nHe/V3D@`V@4VW9pf9VT$)FNpt#_D9dZQ3/8:!49SjaN5qdZ=1$HlB=P9"IG</khKH7hKVTg/9l4:oWY@U8n(5;t^WFgS_70]M;.<:V=^84E4-UmkV+8_/6lEnY.h'fQ>:&6K$Es%U<>4K!O\TsR_ABBo/N3(S8.g(><pXY't$'e\H3AN'!/VCi%f:JO>o'AfBP0EcH7HaR@_0&N0Q9]Oj,Anm%;&^.:$4D*<&8Y7+74hJF%D,4=FsAbV>)U>K!*Nf![_X0SR",aS,fX$I4Q!"u!I=NmG6dG\dD=nsaE(iEg2(V/.KF(OD.qECkZfYtb0s1$0$7tpAA*&hmtGrkr]:HQ%q*Z?!c,dl=ju]]R_BI5YN4?6.KZfDiVOFA[rlh)#;:6<rsj;=E_E8]T(88Z:Bma>`1N,0FKsQ4g;oS9ijISE(U_Z$eX81g(Ibr/#-s+TeK>@U4?)SYVdXL)og6A=m%*j?LX>;E_6L+N59ZVQc\&-ekNn!gD^f_Hbh4Uh`qF2*B.\/4!OP[?75N&T[,!MRaD&4bacJ[d4PF!!\ep<4EE_R[e`2f>NQU!;^+",?oNc3iTF&JQ"d^l.Y%1LSg/^hPAr_`6jcBgTPX\I-qD4n9&i\l<c#!VXXFnC=<B4=jI5ajajfmmjWH,QpQ\GICjJbck@iO`%2rSE-4:ZhO@<`#Qfhkne`)>d,i32P[\6JD/4Cb?H@%9G_W=qR1Z79Sr8s*""OZ$TUeqpX\C8(2<JaHFb;E'hC"[P4kb%9,$f%HZB>qknFY@d,tb'41driZ95\Ft"u)*AF']%F#C00-2k_N5p^h(=@Le%:nhmhZ[V7`]QrQhL@pA:06IgQHTbnj-)YJhrr:g90"k)YdkfE!.)f<!Sq@3kXL8Ig>)LBO?16]\Bo6(Khi6T66_h7'*MM85=1)GoRqih;l3l`nfeUqm.7VI#"r;UO7&%b8%=6SF\Ai*TLW]B?P3YcG'tPI':#PIK$MShK+8'7u^W(/VpMMDHZ^5+g'C84?=SZ"VD)6Y^+AH75l&@L#i[-Cds^ge5^u[h\,rP4)gPV)r:dJluthkF'ogD6Jj.17I@^hhD=c%&$_)Q-g/mb1toO^].U$kVu-1<p+bMj2(jJXO#4.A>Ng;^F*2)=$23*hWFkN*?+(GAa31KKo0.+3p&?4"gm7n6-bR(.ksdCEfY#kJ%&Qd=cPJU423r\HC+d_n3[2D:9'4U9o9grg?aSJlUWlIHW`iuk/+lK;rX0iHWUK~>endstream
+endobj
+290 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 2539
+>>
+stream
+Gb"/i?$"aY(5D;L/'_JOku]LO.H\oNSCTJj2i6'sG1M!@PH]jr,Zk&2X-rt^I6ku>Cs+Hu`2_p51,_i>"N^2+Ns?djEq/&QIV0DCiIlZ)l]LAZjIEm0$#/rd*DKl<ro+$/]OgC_Ee5\J!_OZ_EUbEZ>s%H$aBKWMGQ#@6K!>u^j(^<%gC<,r!?=&<^BE:JoXln=?KC-";UbM"h)k:mj<[MagDb=a+Go=Ak15Ul,`Kh7]ejnPI?OG5PgIGm?doe"M.<1#$.5KA+M_m)gb%c$rG_m_of00SAFJo@\&%WAn%-];RE0ZEnQ4PKY+BQm:45>d.#k0ZR8^pYST.sLbC4A`iq^@Q'.9Y:I?nPD:[+f9>W#,eroT;;pQ")MT"ZHpWSh>TB<<S'@Ps!'Dm`I6;9;t$bIUOuhp\0_1Tn6TeoYk)3AZWd>T7"3.@;:3E5`7;\/r?-M:XPWA6n`Z3&E'D)8Sfp`o/d>(IjU)'kJ4R<a9?DP4o&99%leT5q42K)g>RbJTc,f(%i)RGZN>"Pgd01a+d]qjf.]<0M6"1P>KliD>IDYC>;1r0?8b[I-A6:__&Ug]D(f#5B+VlQg\7']DbRnkB<JT3=/%f1WBcD\u48FO3X-T3Ag.dM&U&[XA<3[FNn,<!?#t3)!c]0^K=EOiA[0@iHL0q.slL(4b<X\n8'gMk?)]/RMMn`oNKg'cJk@:ifgfZp?#[eBf&pr2fPM-g8<V#933E6+-]<VX+k3JVH0Qj*(lat\F.%nH(-C07!A[B:?:hAX/<s)F6nV5;nV0IL9-(,fH4kjGb!P6KQbkh+*f1`jLlOa_E._0C%A#:.pJfB\gY';\E_ld0uA"$%Z)EgUD<>IAIKqTBu:8&DNgu]/?`/3fY?#I^UZWC3+9"LP:dm]gNX\CfZ%@Z`csT[4Xf>g3)6"mN`5KM#KMsq^VA4e9%,m!$=MR)L#,CL6J>2$4`-8_UW-'=OMc.&^fnL:`#n.;;Af[;T(&g]erU.49PCEf=)5sPXb*KGkOc>"fpA=AX8/_:`A[p)*f+LbmJlq!+9-8`(nn]Vl^]XRh>lR\)B*LHOm:K>cs;+2]%=<%V9fC?`cqB+jEW!%?_1+]G+pRjIOY)!`H0F-2n<TTMLd\/KI//QR26#-V_g'Q8,ZP<WB%<XLm(e:<XZUBCI8hrdMO<X2H]:!/g@C;=td_[QEg/8Au\tYf><V+=0iAO24ZO?m'`$[MmJRN!+:)T\415oRE_/'Ill'dn3eKgI0Sm=IpaTGehe@GS^Y,GkSOW:^ZJ>gfNs,nI^!U9S8ep:j?+?]7WEM\LO@N!B"P,Oil"g7_CD^P*O-f:I,T7cU>UW%4/(%0FKO3.(YI#m9%M@C0L]?m^XM)+;PPqZ8)`)tHl>>N-cXFhVt4\k)Fs+\)C/B=209)X3UlJL4ZdEA+di,;i7SpX`OErCf\5ufJ[duYreriW:$'I;dGi)UobLdCGP!`n*nUH+\o`>3KQ\6Uo<6g[5FCG#$Y(B37Qk1+SM`P`!P;e[]?*$#RLZt1FjaIbX\dfAA`se^#uhj^T=;ip9Dn"drM,TU<97Ua-Uhg^\c3Uo;:DA,&AW-8j=C'u?J)X[:/#Lidih3jk4F\5XKWD+%,gPq0R&<2Gg5A4>nlbNh7_dZKK8!onWA#(SDD?El%@YN\n#`<!U)kJJ87UmDG[Ktk]04J9A2Fj20]IV%YsK!96N_K4(6l>>pP`d)R>E0s&Rd$+<]JLgXj<*1kJb,DBj<BMZ/&@NXl!rp8t;rKIpR<qSG\^B-<5ka'ZKSFLsl0!Kh]5$_cO7oDPg_<6JrF&'I@lk0'GMK%J"#R)/#.&!2E`]Hb_n"9?",O)MUsCZf8-3"4nr`_5!,Y6kL"(T5Q'Y^SZkB]!XB2S;Mra^?np_*,YG8'UrG(Mq\4^UZXl3m%'r15tT]nH'iHeFC"uODffo$Cc%<Q`1WIl[>"UgqNdb`9b/75I.,BUgMO5(q[QP$V6!:16JllFBiV!=oR#L3LhN#GJ#9?:=kW3A'1Qmb&TQaKYtPdq;kYYN#mqCiC9nR]q4Z]P.hhbr?U&.7IS1;e9Ap5'jMi-hKGU@0"kG4Yoa'u)lD&<0It>/I?.U9;dK]_2b;::/7c*H!t-^tU+?>B^$'X]?F,MR*[pkn]Hck6%k)>F05qs3\J*1s^"JGN0:D[PMW&!LULnt4TX\n7bmdq0nc"9.`WRT#CFbD<eOn5XNN8$8oY(J?!$kWg"RX$[4W45V&I.Z2,kNcJoq"[mpc9Z_W*),>,4!$K9FGnl'ZLZ<_I,H%kQTuedIckq<Fb*AE4+81QQDph@c9(M!=8PmeNgi'BPfLe;t<7r[H%jN;!hT;GMfED38$.B=c;TPpWC4(WoT,nO#hsZQRGEL8\d]r/o0n0A6jE:J(WjUJ_J/dE?5W?4ZD%+GPVOo2sH+-M'66qXD-je6)AdBoe@Kb<GpGXan%F^;hW;9_f,O-&L+ECfd]t<`fCUpHr68+%-s"Lqs^:T6["$=Ab7@?T/THsL;:q*$cK8"OGa$sJp,Kt"0g5.N0X%ps'#>gZN~>endstream
+endobj
+291 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 2992
+>>
+stream
+Gb!;e?$"c?'n,h[\<D\Oc;61q&0U4$FC`pF34<DO;C:X-I96MCE\25H!>]45?f,o@+@nqq%!l`dPstfUm)T&epY;T@IJis0J$L2CGtH=hqrA!(3@015%I!@']t/U^gQR]no:+-[a:"b/(t(*u]EfT6GNZA0a+!sibI%j*$:8ZaKbsCtICDY\)gM;u5=8\r"5b2_k=5P:;)(.Ckg>Y[*'U.@cRc:Z%YkXug?XbE@=Kd6</c(Tm5>JlOI/HhXg4gK6*F93Y=0o)._o_7D"B*ZXts)'AP,6QLlZua\3Ffd'Zq-4Y0"f\r,pBQGdNR3WYWk.N>tH1FVG!\cg&'5A8Va47Bb;gW)S)/a`a`%9tgH:(-&=9@e<V7=S(h2juMeud5g^V*]F:OYM\#miQ)E,.Q=ff+:a-YLqLMFa*l/RNWVLtS_cKV'Fh_U8pLLI=O7=tKB=e]Ma'WsX3<I7_@D^tC8k+1'D^Xjf7G-8cq7tEf$LfME=H".@te$iF55q=9dhHd@"0(hM`$b-;:p861gZNUP$-pQ)G1Gc#i!799MSeF^G,r\Ip182Riq?PTSXtWAS+rjg/P^l'-2I)\4s4Cn#s*`KpERY;_#blQE$%'.FNOJdWoE;#nL*K];t+?cu$Q*%dO\_k6*\>M-UeJ2#u[apj`ABT>m!GdIYP/:!1mN=Lb(nU)-fVO4fY0m@LtP<`ir*e[)k"G*5t8A/kUcC]^77<3V'IDQptnV8u?pU<5nf6L!'f\LHpIO<p`D.5R/@UpaTBB+9Iq5_&_,?uapkj0))EaW_OX]k`!I/(ck_;>C88XdlNZ46<>9h])37<#%4I_j^%G*jR;[9*)]`qf-798+?U_nUG<;:B6sii\*a]_L.18]1,$FlDeUog556s!jYSk@?UkE7id='\=UPjc#QeJ9U6tP>Tn0]DV72$G9$+;"8oD?O7p34#Bl.,CeO\[?KB/PQm6P!=;-'*FOp)"R.^AS59'ph7K$m&(h.7j4F/Z<)kd'230Ij1U[TlEH_W=A-#[$aom"H#biR;pdV(#NJtbH!)<4HKe]p=$MT1&MZX:n&ioRmnksE53$n\:%+@+C*"+mh]S6rTP'8VK&+WM%jg+64/Mf)d"$]-63-J$#7X)=.pYd1WW6pqUus+-F4f)CUjkK#slEaDf)I2p@ilIu746%pDZO'bVfiFB8m3]0K/qesbZj]Y8%FIj?N]]`4,>fL[dWu](hS1BmlA^%nOqUs,ednfF(rm"c[lqmi$e<WL7n0LS#=loRQ1,CGK7nHuB30';&3_8KT/q[Tr%3@8&@uif5kprm;Jj'jP<3)m2b9"E"TS0)])aC"\/Ht1npFTF[[k1VQ;dA?[*9%kILA_saTO/Q2d$iqpLFJ<GTJ<*mVEaM;48+Fk8oUi^2Vs&rnbujB7bjP.2L*320G4/\7Bt=M0GtZj"ZEgkBZXfAUJ.c38iamEB<o0K0Ui:ZNSOKI0B3#ef;K\GP9+WHDG'f_:<4a3.>g!u)M+i/P#Wr=Rng>](FE3TO5>NN\i/V:/iE8;0`I%i.rK8kD_%*`)6C/&aN(^SLC!6HZA#A.@@_eKOuA4+<Sk6eSQ?28CtCfMK['r]KsbNHWH(\VKN`<q&0!]WpZT#G!&gQ,\tg[^/>&6/4#/.[b-i<p+V_N&UaiKLaFY!05iN&5>DDRBj7gW:-@`L(>++7_ld\mD'pG6>>U!@/QM3a-M7u`$ahRbU;AbBV?pb?#)$^.tOoicA5fn`$4!S"oq[Xn+US`Id/a\1amf?bplEicu][t$k0Bf4ETqBVLeS@>OQohH[36Fs]P$FZ?rSu((5()uR5GF"R('+If>D`%H[(mFA<)'8?WA8Z310&_YJG;V\7FJ]?/PDEqHs0qmS"]t]?+^+TJR/UFPD)NAbd#e'$m=Xif/Q#0gcq^"=>5@o\'6eK2qA/Qj*%+;%FQYBck+^%h)8r+q7VCb5"eh2X^H6?UQkk\9Ws%sF9!q`99X"oBea-*r"A*c.o`WM$HT7E'VS1h;:_9KHYTJ]DA>DB-UJ0,j20'c-BUGP2-ST7KJhIGJ'fkVaOk=]%5cA",9d.^PbMieH9SB;V>@\-0^#OZHa5naL]o%-Amn"u\cUDi280DNmMujt"qU9\NkIiIf(4NKQNAqO(_bMoL'#rHXiS;ZmMTQ!"M:4WCH8:H"(UcdQ!D5#oFa/:]6>+.@-#:ffO51OqW*Orhro++LQ^a>8\ZuYoEXo=)W&nXjF?'n^91-ANP7WSTaS62.N.uIN`Nj29#mu^^>poN0PQdpdb\TYcqBMV<4U1M5#YTV1rG7ok8SGm'Rj7l]<gBIPgSAe9Qj1>L:t%&Ck8K9/orn>G:5&)Y>j:cWBJ<0AY59KAE?Qp><4'qen/'+-kKhkG^!cX<t+HRBR*Y'J5g?<e'(eU)+H:@q3t[ubLT*EMTZ2tYu,qH^mn(YfE28Dl*LY1Oh+IR!&LKPCt)W$.qaPLKpWK.X4t%0]A3[i*U2>T!\NP4'h5f!pHIHC^\Zg8Mlr(8cd(EQ4X5J;A2l_6I>opPWbWtdcP^D#TiiVKX!j#.OG.[c"C5s1piB@Q56L_-X\IIR*-uHm_8tedN!rpe>Kp`-WXT_k$qm;*[*01Sl-[Jl]1[Hoo(Efh:+lRsj3lZs01RmeKUpI8$GJ0^F<mMfeG%r'i::84\W%Z43X;BLlO<Pd,\RFQ0/IQ%-AhY+Pu^h:4^+E:qMUl0@j"fbHj]OXr!:&r+8s6rO'QlC;efU,9L0mul.nUX36(N?$2WpEXZ5Pb<<_Au+^cX]/o;Q\#LTj[1Ag1EEK0:P)rL:*/&Nf*U(ucH;p!9[VJ<f_Eq"@"-=*C_H8MUJnaYFIN,V;I%0I?joa1tkB>Pjl(G<$i-3p'&*fuH?qjY6;-Qb:(oKZ`'0=SD<h")QIJN_oA7IPpG1Dm\,di%n,Db_;+rlS@0r4f3t2-OJo_DA_;[2ZV.A[,4ZM=@([FK)ZBcG>j2F3r\!2h%gWgbD=n`4S#Al,eDUhcLT8~>endstream
+endobj
+292 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 3565
+>>
+stream
+Gb!;g>BeOe&q801W,qZ`m$pK-DOGn[+Tq)HOHAh7k<L*B;TBQ8-''\PG^fTl\#%Y%[T1HSLBW8CX"N5YhcEh6m22MV?UOh]cN.A0^rp'o0MK!e"2i]+\G6+@2b/?;?/_,I9&#A<3OWM8a>#Ll^I?tu@foJcbraY3)EG$Jn;;+JYQL2h=m0fW*'1s1*.fetT]n*.)<'o62@L*Q__L[C8>gF>$3M?)nJ&i&KB2H\Vr@q>ARV+jE*Y$IKOnD@;trH0Hq0r4C%V10.9(`pWd7RR4$J]ls8H;%A/me=Qq_i+QV!K=;kBOF;P`gZ^H_;<$1mV2+E_UOJ`B?(17g*cT0pinE64k4pdlHH5=[5L!k%D/#W%k=R&;K%.CNbq`$Q)1cf+q*r'ebZq0s*PSC)ggc@e@hC6rCe/C%[eZIkeCe-YnI,,6;TA3PqHBqCjo`REn;WB6@h0'/@'b,an;lAkTlBOg"CE(nN?lW+6e!9_86<?!',Chn(D3+d$?Go'gncaE8m[7@fd;F`HD[Z9)"kQ42M%:d3Ch>OVmI+prc-<#QD,_3*"R#=0F)#F`u,9/?]QJX"Q*57+%9L/q:Mej^V8?V1rcCuok.muGVae-=SS&XgtTl6egJg*Vhq.n>7H[GmQ1ec=O?WRH3_&q"?l)\A[6KfREE0sda0SFDZ@"/+?J_S1T&\qYs<t[2VGfG+7F-b[(_8[2"0V.eP^X$OD`s6BNQ9:/Z!`gKj'g5o7RKE.'U@&uCN+F[l_C1b-+Q\M*8,aehi4g.j(1MrGJl@Oo>QSGY[/PtN`%ZSSk"-0.oDsMF'',R4+0Fi`h;IKOg*XDh4I.&NQse9L(</J[!*:&hS>DVX2fbc4DWE)KJ&^KIn=:jb&1.IpbAjU,:0+T.1->jGaR)8=[=0<_3]*"gSqY/ER5gY2r!R.1%VZPE\C^sO,sM!s,0P78Z1IhWK3ZX,pQ0GScha&D3;q&@%:ePjQ>0FIZ;1B\kc)u=P*6'k+rBGV[*6'FMj#QWXuC1hP9L>VAKeA"`ulXK$j4oq99j#t>)4IH2?i`#;oS6W)?QYA@dpFQj:DOQ+<BTUNNEQN6km:-)8qu%X2,PZ,l;1]RgSubnm?,WX!GB>&f,#I/<n'mIOca-NHpPHi:/QrP?;?>_6fF3"hI8@=F#T`(.gtbr(gQ>NQOIuoFpc@-1]Bt,3_9)!Q@s[I#EE@X;[L#cZdVb^?.GL(7P2\Z_*7t3sq\"h2eOh!uTN.7CQX[fjcp^5"u1OfHcDDZuCg`c!XCB:]a9lcC2V-ES&u!A99%s@.VKO[_RtX=jHQ&013H7JIbl]mUUG!4A>tG7-t`=Mbc.qUlgDQmC0%#@V\R$+XO?a_<h;iXh!;+NZ+@#G[6!_Q_c]s.hV2`?4CmI6JNEIL4^$r4P^pFTK0UD+Wgj*4UjSrbU'dE!A;6W^WE7FT\Rb1-,+>Is'Tl92\q^@W>e3nYj[V2o@kKaN\-P!Rj2d4D_=6$+bK#c5oG_@*N*^TH`oTs5R6%#2&Ds^CLb8fiRHBIa!rJ'd8V$F2.5\R-5"jVZiNfY[?7S\O#CD3QKC5oZd4.SK8\a>Njt43jaO^s^4k]cc#cKBf3rJ'?^:qOWu7b;X-U:pP@i'/3QjfaGaa3PiEk@6lEn8/g6h^W$#QMqEsf]:E7-&X]tR2>[gL$ND'M.;C1*hr@!S=\=f/&8Fc9!uo/pKDPj7`\S[Ed?e$c(nOYSXV)cf("Up*#/]fK&YrPgHE;O-P:8:BVOCIY=8Bh+sMh'qUg4H[Je)MY::jgnQ,BRs'M_ZP$e9L\]/PpKRA8QQL>S(q"$FgoS=c\=%+0q6h4<@23kUH1MJQXpi_6s%:W/p)[+M<`IU)qoB#=_"p%_X&;;dF7N^oP%aKXnRm5npbH1UTmq*_;h[:<lel^-`K-ok5.7R>:V<944N!c?h,UJaA!L0rE2,#<`EN&=D[MH;ciGA)Q0)cT5JgeE5u*fLpf3;e8oUBPDdm,Tg)88PrPCM4;A;bNfg0NDf;Q%Y@YnkDg8'^EQ+6fGXPfO?5p@mn`D^AYC#EhU9L6YCZaLj$TVM?D;lm/_>@?AR]?+#Ct0WI[4ed+O9+f0$Nqe/j`L+.p:j41#99Gk1@>GgQt$MFb<a-X;KIRQdZo/'P$?tQE%CR:nQi#>JV8Yi&I&ZQXU9i4Jo&F8+MaJEaP&[l"NrJl;Lr#q)n9$CMhoY\e+"hgpecu-DrFr=q_5LuYMa_mXOP2FrJkg#4"_uXbqr]c.tUTk]Y6B%r8ChtV1-5/H'jFe&i+/qc_)Ygf$mFS;+7.Pm\f>(/VBC)!pAQB/SqS>+/KK=+W@1/O&C"j@QYEkdY=\"mqk=*`3/j5&UtKb=0p8G+TUeK+a&`DS`eS3\96ZYlj`l'4pb`cCG3Wbdio5WroS@*<o3-@6_"R+C`QX-/oE\-m_u0[,/I"sUZW&EkeQ!KPW?Xmh*0Z>SM/:X/BYk4*3nT3'QJA!=8D"S=`mE@*cc8Z7'H1eK_V`B&I1FPQZ.EDM4>1g2a1,30V%[,;NsmN$+`D?e,NuOfQ-]`UCtF>'?76-p?f;F5<.Jk-B2-A4f^eI+Ho>3[]\r=HSr/AkFl6QROpF1s.S4L[8ru+05<+"+?(@,9+EpF;D,dX:?^9#@Q8d[.Op^n@sUjsM?`W]JgCmcX^^=ZME@Z!2tm[nNXs(kTYr]GRE3Zek[ra%2EbENSb=u"FZ?L%'$$f(]:'VXkoe.nSjQ@r2b6t(Q">_WU8l6u00^`/8F/P&o"IjdZ0uXFTCX0Vk.UDn7Yg7[>k3>L1[QprH)@b:@`b?2SD:5Y*:#ldTS>hXGp)NolZNpL%;H3nX%K[8(1[/cXFpau[\-]2CZtTKdh(0FKobTtk4:h!JL+*u7]D>RL_%deK=OMeatSMRE@&_&+C_CQ#]jBN`2<\Ig^](Ya.Ba\Ck-m.CVi<`s7[b_1WHSXMOl+NnPrhdg[0@Zc/nB+HXSMocfJYqqcntphQ96._nDKjfrfYc\oZCrG>]q`)2auN9%QZqT$GS@h,g^,ALM_*.U=RdGWHZ2FC2GMPbH`DWH>8,j&$o))!\/&PVNq7/X9XU@:DSBGoO[c"C1V=Y@^:nMB[okV,k]7lu\Jj.&-K7C6]4H:.L.u,)S%M<ln2)FHi^PUA.W$PmkW,7u7@%loZ:iZR'Lu_QJ4?UYV%SJgd'<V-6I<Cj"6^+H,AZWE)nR>91*p#buZEWg+:C<_%!4dV'\eC*c<TePRR-%sshoW6E@f@9Gb]dI,'d5oS"5;QZa.[Q8.jO@Ji?<%BDdXcD*HUsV:SeOk^2X.qQUBf(lC[?@9;lDTj'Vi)(LDAqT<W%=S/f54.k5oIe*dO^)CQJ+qu&4U]<1eT!TV7+e`FHP?-bu0@.WN@u[=X82`ZP4TdC+Bn3VM!onc,V^JQ4N_)[Y<t5U,Z"rV$t=<>DJ4dMD(f-b#%H3Fm)r%pelF7%)ktGLQ3U:0;Vam;!bQ3#iOEai*YB!2gql)6]@%r?JA(DVc[V'e+(lP67M.5$Opf27XA>g-(SM=+\g!GYD^E(JIjASIVGT"-MnTuIq\RPHH5KY>TLZ.If]&b]']~>endstream
+endobj
+293 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 3826
+>>
+stream
+Gb!Sp=``=W&q801^rob=;_^T=4>RLPRE6H*RA:JM];_q*4O=^WF"EF\O*LWl[m:WLkX\+"8`\+XZ:O]@h.SYA+J:FJ_/Ip(]3#a;_`<#A1F%jBo..\*lBChsa\V(q5!4)qIp#S7#?1i?&1$faAag;9nCVLuQe,"i(U)r;%1eF76q#N43n/-?QrDl!UesDF'H^p$A0)!can_AZ7RP-nabZ2fl@n^XJtInG=A1+N3.(d-aAMSoSGu1+^Jc&`CIdo41`#3[RP<\6&FLq8bGj$is,Q^Sj00DI^25K(=`m)0Z<55Ue63rjH$(LXkLWG:PbcAlI?R[niJ0m'FU!'=HqBc!P,p!5DB8nT--;X^DTXNFV@H7<c_iK.A&8A.h351o!(,%?L&q9p(B$OJ/CnU)f.bPfjCNIL7e5ja\BaQ$>`p%/9!U#/@"h%S=q\A@ZdmqR6PNil,N%MdoY4b`*#)K8F^!YE)Q(?EU@3dm$q,&"("[Jo2<u9/EUjX%s5t%6ZR#/C(^l%NT0XH<T:Go/CQa;O5l_K!UjHFWVV:>N3J3+IHY`+/ep3`R1VU>Ql/LN@=Z#/cCTs/hlt+S'n#].]SfNJm@ae"#WslSj,S0PA-8?8RIb[]T#392P=O_T-3^jmILZ)W<j6+Z9_LO`W#E'Mh(JYPHjC(#MeEZ;1LTB6A;P8qWSOlOr,0-e"6TL(6XE]Q/XBY5"$JOm1kA\%=o.8iOJ2PY^:F)IW^f,$W?1S@Kmr-XC]U.^GVJ%*&^/+(6bpPf-`eaa1RWMZ3=Mf#HbC7Js[gY&$]ua]C#0.ktEAb1[`Pb.ugOo.^Jjisf!2HBIkjhm)4boY<*")HYqN2SoW^_7MUJX?EV%u]P-OG?/FS21j>O&P&clWUo@;7o+3$.1s'9ZAVW[J[F3?Z5'\fdL7*YQU1p_gVt8tf/9V3[%/4BnU3ZBU\u4/ft.8*#9nM#<L'X8D'S^*rQQXG!6B/m;CPT%3RG;cL0HW%EFdbJgcce($8&j<%s$?"J&%naq/Fo1FI*o7\GUoJ[+;]B)O8-0QdL\klOiP$X!<b<M*Fj$-eJcZfalrk`!Yj+MaFTO(OPP&1pHGuts/n;3IVW^`OC&[FQI,!u/p&Gq]%I6tkO*8W%S^&dhboa<R1rVYZAU:=N$E`/$$)$G$r2L`qDH'q!CE)np@X<;.EOZrq\=csFh!,5b@jPNBnc3s2=+?G(s2\LEH'n";b@TAPS]W.Zah<I>H27C'DWSA2!%3I7lTs:R^),P2!FZLZ'ilE=YGkrPkGWYjpbHsD]_0]'&n=K8H7i*Sg&!VX2A\(WPQ!dWHPD]Ug;OOPq:sVd;5p#<LLP(6sYt'UY*o8\4rsO1.!0-p?l[$S:oN%9m1hjL"P89<;.ES-\,HJCLo4nZ_a<Jl5&#h%AjlF-h8oiL!dP_*%S';?h0s4rT"]_&eq`"mL4,KT6^T`ps+`n-JM]U5LgpNu8b!C;MgidRF16Pm$X0aM%elPV9WdXt[m=g'.^.KR3PiT!kC0<\%Z0gA4Ei[ZUYP1g]>=&h>Mu7uQ>fQ;?"J=$emc0Th?a)LMa^Iq/B(CtH):Y`(7n^BF8?l%6UaX%a2GO./j@)f.)fX#qad9<GGl!$)ZKY\W`N!U;A5d)W>I5g0)d-hM7At3YU8cW-[L-(6mA?k#TKDuu=,Kf.8Ymq6-\jhX;-%dc?oh#g$N)9p>E(D?s7bSTaphJii),2S\Z0s4l\/kP(7.I^+m$a\.D_?UmpER#`c_D:TtWMAb6$g'-lSQff#,\U7cqn\^L-k,60,Eum"[P<dU7Jg8-qV%4J!hZ=?mKXEGYbi&G+h=EQS8A'-5)#l++)[LLqsmF4%6_Kj)F$cpECb7.FN(_Pn(F3tq&Z0fZ%tJFBfNj[D!7:`ebMg\/Kd86IT]['_T62a?+#dQjp0DudBO?51HMOGP@BlM!gddaEH\ceYf":Z[jJZ,\(A4(;'Kkd@[^NC(c2/UY!\NWo)b*s+lL,I"l@MmC`\h;:i.]'Q)i(N$9/[p=?:@+$qI4H;eJ;"c\0$%$IX#aE.Cb96Pg<L45T;iNg)Z;\]QT_CEhi\Y)[?mhm]csC:Vq\uQmfTi<d3?C!2[2TM&fS91AYncrLBJ>])^nm,Y8g@t"^T:TQ:ki2Onj_DXR48tX5'nPREIVdSTL#$H8+(;qJ$mPD,#pM(ALs>.Xt=UTFQr[BN$[3L,/Y=XBTsXkTRkB[J#b-6bZ<<<K]=f!?.MW"Y$BpWBXZskk(5H1I?qEkmJe`2lD=iq/At*iTXM(f_fW]S9^ts!p?+*hTDF",>FNB[kk!t7<L5JUY0B/jYu,FS(Ar^U<Sq:4%dj_JL'\<`&=YY*kU`Y!?:%bN_e-@#A\m]JBb,9,jGZ*f>#Rtt`&I7b:)3;\8"_tdYha;_W,#&"NE!6Q^mp"FCGi$:$g;BV8>>Sce0usj!fqlug0^WF@0hk!_Y\(#oHbCs">JV3IE5O)YHQ>u?_&`]eJC'"I=7*p6_DkrY>=B\2&afShL%&bqk:_l_ddOGF]a@lQO5lr`J!VB5IQ2o)g5Qd?s^X=jE4TVRtYuUm'ftqO<;oiD6pLU)MXSIVm<EfL6p.d77l>O<IJ.V>_['AoNQAcb?WW9;b)%N^h*?-gE5mi;S!S.bOGZa`]Y@a1Br>6LCsFSpG$b'0&?AMPCjs4Llh=1cAPk1X+NY2>HG_sM;Dtf:3MT*>[?M=qdT)GZN)?F>[!Pim$gnr<%3T&bB:U'^cE8K5Q)f!!6<Xml94'l.gL_<L>\\$%Z&F]#9]X/:_M'V#=M8'31aIfYjPf:m!:q$[VMF>%ffqd'=/&JeMMd7HD'/MZr2+W*GM,p2kSFE/#a/0]00lr^20+g^u1Dci:QcMd=0PK=g#*2JsIB\'!RI-%XCinCAS_M:]OYOi/PBjWnJ6q#7Me;&UP\,89b9ncp\!Ln\3nXpi8g?`"@kYkAAGF@5Am+*uo5$+Msf;K>X](@-`GtWYN)b<=i9k#S6kXjag&B;]al3NJ5UGIahu>fbn+<HVj;i4DtDLcgYAtEmO4LeJg[O1GV(2HhOufT#]>j4&^Nkm*93A/\a?,Ypm"O>.oEsps<PpRXVfIZhE<Q?!%[k],H91Z'"j%2;6D<>,HFhB$K+mq/r!uS,L7,WH5V[3D[h6=X,`uiD_Uig_C`M,!W_TkWFn&3o9m&YCF&BfVd:"VR/+Hr/b)N]3=O6^7hOOc)erUTCg_OGp6qWIdM-bCC'UN8`U!=#:qp`p9?'Z%#r[\#VKW.QqacAFTr4(7Ulj\S&Ydhk0iL&TB=!_d25U:jtT>a\b(2MkJFH$1r`A%H&N;E/tF'W#rAXsNR8GX*b3-U9<X,!<XgS!J.)a9b8Bi$;5_Y%j;VEiJS?#2T*M"oSGEekO)aS8bJ;>28+:d(6A6G9ZjCZGg"'Q\4e+p#B_Mcf(`=7DOW_0dJ3DnN;iF3='Q+s-4[.0$V.`guiT=Rtmh'3&;DbDOE:^<tnSuQ#7ADmN2\2C,T-3/.@phG+Jr>W@-c07Z).5seiA6)P'4ET#%'X+*#X0Jh1ZYp4**j]A&r6<r;n+P61:SG0BM_L`jtQo[@uF!7L1gW9#FcbN=.CHkUaL,%(ssR<MG&VWBEBOdRiWAAS0Bec-ZF)Cd:39898:8r$9+"X!ZOE:EX\rq6#[]/YgEOraIr0OG&nNg&4*/iHB5Nmc?PNiM[UUeS?+Tf6f82QFOZ]?Xq;]VD+LqZ_SKJ%4?%R/77W2Kjr32%d"W5R*?<9\_K2IW;LD$&k&):_#!W[Zj+('[!I5Ll(,^R>4%3ucc]NBjGjn]uG;tsnX&EeJb1EP=EQV@[-Z[qZ49&qAo&P:2"MGi~>endstream
+endobj
+294 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 3697
+>>
+stream
+Gb!l#?$"c1'n,h[^g"LCKE]-4]QB<[2p"gYfu3<cSad(>d4uAloTI^Mr9k"c]HG%uK`apL-bIJG0u7r!Kh1,A>`aid\G5IZra'CXHZR=.p63[)O'UTr2fJhAq(MI%jk6hMT>Vh\7gGaJLOnp#.!/AW;]rU01uFk,=(`5$n"P%^#4[*W]:S&:HeQjCEbKRSOPP,3>hMK2Ml[N&gb@?&U+U,G,jB>/4;,D<nS]>UDSdAPoYaP"0C8T\pjl_"@@)K2qXA4n3Bema-;4U!92cT0SeL?Mj`ln(#9e.N2iY=<(8m`C`pE<OZVkc%`!Jgj2_<l^&0uA1Aeu:KMO\4tpO2RW4Z\>n@4:uaj1A&'-$0Re"(,;dT'pt3*Q*9^F82=[IddD"LA;nZYFcn\BBU2p-iN/u;C>4krifl_K.0QdoVo\!7/UpVrF9+a^:pYV9hp?+r'OLsX*c@WJ#Sl[<Tf?X=B0XahS,;r=h/)Cc.ZuI=T#`^R\DC6;RTl_7Cd094<A6,YNpr&2FT1Z*#cK)T3%W]oVFN$Y9(4gDq<H2fA0PfW[+u$!$:m/Q`g4KVjb>F?7aNOcd=]'fC^^-C>ah5%72eB_;"nb^Qh!<O_?T?o.P6kam'+Vf:-MZ08;c3Fl)3FS!S?RlZLV1N[Dd=")Df[>ZIu5Z=pO]fO+TMq=q[r3e!UO]J\J9\?8nI-mYBg*R1<_3_9TDU&<]TgoXC3]u4s-lb(#nlg$0dFT!nMOc'@SB&H(^2r?L3)T3;iL=r^Y&r1IKP\UWTIDRk\_U"e5Ral#6QgHL"b?+%)Z!qRa\<W%B_f#',B5PW=q1.9ZCg#S\TF45,pUMlei4Egq26US05N_\Lk^XEr"7@qX"+HG^lQ$P-YD9g[cq$@-kRf%b>8HVaIWo83a0*@7)m/T"`Nj6boo!5iQbVX)EDm9`W:;m+2aC%Rf]VUE$hcT]h$RGic\8**"4lHZn[Sr!3M)b6\s:f[?XD!\:=EKk3P.<e5+*BlS9FlkhdutG]1:LikkMuX`G(Q!4VeO[m"aq#<O:<GV<fc)hsto4Qe+SZ]#`%/ZtrU)D-a8TX&t])2&k68H"YATfK-W_[`)Xofm93mEim7PAfQ\t$V\_WQDAFOf[tbo6A']rp]qeD`E?tmaPUOcaH1go?:fGM6iNV5<HXcag%Aap)/G+M[2qq7W^V\cg6JmQ0aV`THBU#@lI4`ui(aEeo!d.$l,m&=jm/tn+A&Y7T/#WR6/\?MPm:CH=.dOCC35-0$FT.mIK#ONGZ=2Om!2C:lCmSt_rC?3o9I#dpe&!./g%*6d$n;]]<"JK^l)s@AGIQ&epdqL1PhgpV385GZ&JEtT:p2-E<`-:a00#*h>ia3eo%tT9%Iad,(1aV#ViUGR0i/H^:7@&1kO%fHdA5\SCU?'PTNa/pH,hTT@4,Jn=q4%4#sGXm[l;]2/V;r*W<q&Bcf.upT,2Oq51/.U.ShJL:,R)J_:.+DJn)L,j,\`<]?aM.?2M[OU^FD1;@^(>Nb6pA*`jN^9i%=],K,KmIq'uF[(`^"L`4:"rQ%)eSa?SDR3Q@Y5%Y.?0'(mbt2_W[o/R$mKMh]9&Z#`%WC9M!?K%[,Zb/d'pCI8ipEl9mA]o>!cM.rc`c@2L\jS(L$j0JB<MWSE;+H^p6m,X]fPo+RNN?OC;u_#D,m^h3I<ul!WH6/Md*FlO:=DhFafm@hIsK6\'&5_*aDZEq1?:4QgF[T[eNX![LN+@[?W>1(&R_RaSXQL75!IlEVh`7$K9$GPq?)5Gd1e`CMm!Aj=3H>.;>(:%"33)/!tdNi2%%bE9+Xf27IfH9Qn[_Ft864$?j%X]inktV:Kei>[;R7>/<p.nZ)<)[a"\$J7Dp^lLH%gdT:)58*l^hh7'V,Y*@kf3nn1^=%TSc1:10Elb"##,@;5!3c@D05.iPGEDb&A^R%"9iXD"\W[e\&6(aihE1QBn_&pG;[WhmJl>4)gK$DbZ[j'WnogKm2mtGCU\!o%q1\FMRI4e.:mYBJLZ7qp=CI7W",kH5`;U$k[q<gt[q:k),eE4e6o8\!dIs.gX+*s,ek4\V+9R,7FD,q2)h@RgFZ&:_WpUAg`l:kJqj_F@<)='Dt)4HGG4]L1P)_\XDR8RU/GB]^^]A[u*I^d;,05Y"h1+:iP1\;-cFmi,qI^d98?t/HZ<k"m,>O>IigVN-g]khQ[h"BUmF2nYdn`uZi/q30]Q\Dcb7m.[GIt)_B*r'UXs/7S[*V!5o&<!pZjBl8CUaEjdXmTc<pnbE:1VBfhYFYMY8ulFXq.@7ag8]$m0t]^LH/#^0`7!qnpL8cgmtf`SqO[0Dp*@H+h!K:pIl&32hk%;/CU\N`9q:$SY7/.<Cp@&;m<O!DB9E/9R?R8pRJ7dur#6u>W6BoKn,'A27pcu06Cu)n\(uI"-d^t^Z0S-ns3DQP+LS=uesYk>AW0L?\u3B\IVOotC0S.Pc$+5&_'j/k,tIhe3l7h4h4n>\+#7>fg=TF(8Uh+<W(Ebo8j!Y3(o\q.72.8.mQGH-RQl7@l*Q1._&M/Q//'`E"@Z3["p4ot7QcMni[>don0,>u7i3M3atXas5VD%f$kc(hi0+Mi76JF0EE%t?"9t#\U'*cE<0iAI?jS-E:fse*bs\80N05Z%!fAk/6*_f:,2n_)$(Im:ro?ABJi+)e,R<l5&0T,_@%^0H1rSYkqA:G>Y"/=>`7cI.0ueG?*R\OC<fbVJ(u]K5d:XWR*heWL`g_dE2N=O*&0T,_@A5SL.S8E*O>mTd6t)0^P1WQR+HAe98rbmMUOI(SL_.tUK?OW?'Gr*NAG$KVMFmn,7[lkf#bd<Q0JJL6B9A]*ToYm&5`O0'OW6^O@jhaZA+WnLVaor\W!lX5ZtT^W6%C@5#?;QceNiFT8=Ttm<>Qq45blF2`0l]0g$*[L;pr"mjG6QHfFtoKfO1,'8K]FE8i"a6+;s\p#)T*oE;`(C&W\V:*0k$,6U39`8IQ5%iS]$8j<>XRO>n`17$N44OsiUm,aDr89NXVQ,nq,168MIe/>K"5R=Ja@BTR%Mjp.mGm54?13MY%Ap&o:V;HP8T&dXAjOplF>84G^u6/j:4>c3Zg`$5['8*(TO'Te5t&qe,"34M^,\VN`m,`^#%&Leij,YAU^8S+;<'UDQn$&-?ecqG,\b:'>f-D4HS)C/OWGsU5h'-EJq3iugdn-1(jAKiIPTL^QS5c9-C`02#`Nl&VT$HY_!_B<htNe'q+\VMUf80!>9lP,M?G_ABBW#QJ5!g6-L"@8/LQAIq:#pkj5=KDhR7%piDOt(#EMD_(nZGi6$cu\&6jburMfFtoK87@pB8K]FE8i"aB+;s\p#)T*oE1K=9&W\V:*0k$,;a;tp8IQ5%iSZbNj<>XRO>n`17&5?DOsiUm,aDr8:fp%U,nq,168MIe/>K"5R=Ja@BTR&trqhS$l27KKok+eV<O@<B6"u/-@urYW`B^'fR>=<D+Ng(&CD2ecBKZKSU+d!t8Y:fP"9G6U)7V!oM29_MJ1(cB7#^c+,`aWM*/.ms6;TS^lp4GnQ"6US:cc]D,sWZR,X@U*=#r8CR7IQIa;Mg%ajGhi%L;b2(06j@d>>[?[Y1BTU'XR'Y%J8A=@E])-O'h.&rN]D-9*`iSio>YM)ZJ\;E2N8^pkG!1Ir-K,)jnDr7@g-,`Y80TeSPe1fk44V*ebkcr`Ce<Y"$._jC.\&-$A<S"9L"LXQY%~>endstream
+endobj
+295 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 3610
+>>
+stream
+Gb!l#?$"ai&q&<7fXGq):,qV"PBi?V')Ti7fG6!J<;?]p+H$O4-m35rs8=N7bQ*Plgg6(nP`&hU7A,!>#V<Q2(4`7Nol&O]]iY[4F>!RgSJ4tYq6c<X(Q/$(nR?t@gY"[e8%.V8nq&7u!YIrZ9`GfAY28P)];n_?'ZG!b.#pUk5U96Q.b`@_XlnM008[W63frD0V6@5F@_NUUH>st4:6O0g4?qE3')h8MPVNuFN0O<5f-6ekb2=3ns$b03?5N.7q',9dY7o/;?d31,%[@jbX7B5kOt[N?P-`fmfohbd;'OkHIo^5XP'Wh)F"P8EMisGkYJ_a,O(0j!o6nqd+ao+@;5EN[q'tm055OYZR'4\n)h+GB?cM^Uk1;Hhrc(Q&@D;<ej/9qi$5@oCq.Y3NJsdudg4$-V`b7tVhX%u(FAMg\1qbJ"gJ:guq<g*LW[D_kmG]JMLe.'5moJ,.bs2!`X(&?f>qLt1]LAgkTC]-Fs'^&hgRdiEr@a&pj%9tK-pP"r?7@,t4nUN#I;&-Lrk_S(r^1\`_OBBCiaoRn26XOV2u/f"XkZ<j17_.=!6SC5\Wl8X+]'Z9l.+gq/If?X7NtS?I5uhUq;,&Q'jQctp3hBo<nmOEI/M.M4;/Ys:ffYq\D?DC]=I/8M[rU,`M+odQdn.3qXBL+Rg/`+%?bhUZ_4KAhcA8Yo"rbGFPm43Kou!O5FAs^0X2WM&Z]+/-Z\tnFneLSC3m8)chuAQK$]Dh7A""DiYb(UYN]5/`m,-+lD\9*#Wf`W1Ob(OoL)O%r^P3FK#B`[I\;*>$KCUIK;A>6pWO.[3r"O,_6\0qcAO8I?Whb,/oSlc]]%tADoF7+<99#fca9G?AeVY![HTlXnnaMJO1R%*f5gVpWfu2<I'L>)RjuA)a$&Jt;habjKF)4CX]U2(KSQK8SL-a=K%Rm]1JOf$JmGY:G*@S`4`(rVoRZ>*%7S"@._"*2RjRT]cZuq2??TD&AVMnt$.'Is4@>LE/DEV>1PA8AZuj(D:U^O94%_V&#a=0L1B_mR:c1E&G_]!V?gf')YY'tu,<WD?_\h^ERXUn7O(',GN5nup:O2ZEo>%A2XYup?RH1Y5f0/k?gN/oI>5.?g&f7ai2UBrT6Ya:jo$_=-llYiaC:VuSZJ`%gIJF)ScO$d0[O;=5k<maRg1QdBIuu@1_R&1KAO!?'fL%#</$Y)b5Sk20kFjWqTg9TeF<*M\IMglef3NQE9U?`F]#c"1iS+3Aa/l!_N<>5bn/uW>O7&2*#Of%#kg.C\Z`SD/mBUBan+3F.m<[[5loNaQh-3Fr3Y2/I2D<?/b?_O>,5erh+"Et4]o/%,G#dtW*J^>Yf&;,(DT]8sGH`X(UAIh(K:bs?a@(HG%ZnLk5]+$IbOdGsn.VAs(P@3BA[0'I>#o1'.L0.jKB\]LD6*N(_<]!m>Wo#Sm?c4]BJSoNbkG5h+]1F2;9tSugO-Eohm@ep^N_9[?aht-Y;kL_]?7S8a(i0[FlP'r2/"$Ef&s]Uq@L'.jq4Qai>,KB23/'iJr=n:Y-Q\B-7paRGDCaA+>_^"Qq*%&LC-r?.)F_Jd]!3@mSI\m3heX9V>du;XH$H@D:`DBl5?WVD3gMagE"!V[X!""/N<LsVlX5AMr/^$Wn/7tXL?=K*g;t8^!j<.rGbt^13gj&mmYX[CONY>LAA.1D-Yf4#qr<f]@A5EqUD6g5$_mX%*h[6T>!59cW-^4HTqH7IQlRjE:WTj<EA;GO/f9H[kc=:J#DgXgP*n$/nZ=a)g5?P4Q`X%]q:?C1fa:5p\@r'N-Zhlc-JWo6BCtkC3AaP*#KL<lTR,ZFNQGDo&=C/ZC\1)gtldUc*kg$5TfTcE+D$lf)sM,4-rXG2\uDjc8FQ`E,i&$<>I[JUh'RtW/RX$)Hb[Q&j+]=SR<2=CID`TVegH"g-/1l\eD1f2:B1jkZ5'---*Kh>)La<*p6PD[A&$)M-JBj:W:dT.pDCugoC:BGP<76539b,\M+H]H]=t_]6JW3n4>R9H.?7tSnG,'UVa3lF4X_t7MA#-Hd&V7#rTNo=ephO%JG&>J<07rlL>OZ"W*5L>\11\:Kge4]5LW_du,cOSAsQ*eT?_og(S,qfBHPsDcT!@^XT<FdLi\TcFbDci`W'e?K]juol5t:TYL<da,m#[i+:b_rO;C_s5%@15Po3MIg7@U?C)Da<IOGeEdKTIA+%0WRi>iun/pIBMs#Ao!aU5c$gHd-B4$r>C>dRk2<'VOa\/tRF3$:u'Bj>cTAR>[3sTZ,lTV&CH>i+E=&jA"6C/>bdb0+1o?pYXe"GjfJ"ni#@4f=m3Z8)/o_6g$*6#%dmPiWn>RWRB-*"YCog%ZJg5FCmXRn6e[^mgppXaU"@rA>SOn"nKc+k1NC@@#RA$h"G\(1LcKPH99+(T8j+%B#[;qOGH2X7'uLY=:h'4j1[HBM*#0(a&]mXn0E/aNMpi='._Le/^;P"B[2&3r#10a<JEE:C]!j<>XRO>nT-@A!_5LrU>XNkrOb.O5i##_U&M3A)+%OGo#)Jg-U6(VRTs16k[<X9$R7Ts0JLAXS'X%;:i>l..4QRsKKm4+h7VKg!45L_Q/3Qir!bR3W$.!g4.V0h<::KBj57Mg0n@ig:\jSH<gDO"j0FK7iJ(P)FR<6/n7O(Qec^0p+au,a7>a:fp&]&djOSTXcHbQBA-t'2Yb2%?`=!%48C2`&m(>G$ET$]Rra`R>=EW.$@/Bcm^(TnJHns0fZ[<+h<D!(aP-`ER6-W(\&>p`%a6]:*I0(7i3M3a`.nA+;kh1"@Y(K/dd:YA1F:W=9G"M6=Cb"ata":)UKV[njSY_[WfGac=j\@4hs.8'UFTC"G.hc,R9kAOqEa080!87lP,M?G_ABBQlH@%!cem60h<::KBj57Mg0n@ig:]%OTL\#O[2ehPNAN8=@/kt$B$d7\L8/XOf9lF:oj[,P-+T3h0tZ7VjQjq*b60k#B<(N0MfYiPWloLQ`OngV.(uF&!-%=4U\Sq%)qGj*H]AkKionF@eB0"rn+P29>s_d52J_MXD'_aMSU]hL5XJ&WB-c2_)MY<7:D9_*Dsd`*.q^c*+,Weo$Y47rEb:nk<\51%13N,K3/6WU6lWkA#sC#_[(StK7R`q4UZ68@?4hP5`N$\+V#a`0an8`1%m0:+bW"5aZp$LRYFBB!MYr$<*bSb9HsrYB0\f6"j+_?^=[ur!tlk@^5sf"kIjfSBX`[Y^cR>]QALt3Jg-U.#MfED&W\Y;*.rn0&!DiqKL+Ub*![JcEY4?e80!87lOf;<G_ABBQlHo>!g5:#5u8hjje>FN6DbA&M`%0<-kqu0W@S]ZX8rcnXlfZ5=,eK^WFkPS_d!lB+AblQ,.8=6N^7[3-[R27&Hmp<BAhJH,U-D"!MUD>#@4V_+rWat.")<&8O+Jo[1FI<_/Ku2HR@ke#)Qi/>Z;!O`lo2$75@Fe$3[28-7Js.aWpn]<'SgA-HJG5r.CL\%$hlKB]Ade^Vdo<F#Z38I"9I<<)kKcM;d4B*>DP:_nh2g")N^dWaQ3/%,]@uTX[B0Nm8=\iHJ[7&$-Y9j<G7_B`._9VI5RJ7-L=!3B2,_*kIXINV,YKn^(AuHm0(Ci]FmP]B6R^q]G#Pg#)~>endstream
+endobj
+296 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 3426
+>>
+stream
+Gb!l#;4F%5(4Df^TuV8i%4d+IY]!*s[-?2L9uc";aU@-;`boTKMfGZdmjkWG5ci!eJlsDU,[Z]8cFNZf`&SVW-Y-K\%bn`7)oc40fg">H//2oL_a5532ZJoQSmVEYik>1%*ml_QU0'ksS&ldO5=rgoLO"6V]"Oab]T"+W%,rc]Nrfn8B\hP.6LP=p0tV?*Kt>-_X/lVsDcdh\8JAI&Ou><%Su?!Poku1p0P*Ne$h]^`Kg!$^iYsfUNQqLS'_/p9+Rb;N'5*1UZA^)L&u>6$!g/;,N*.:?/E&)5//)GS@irFsfIBW9.t#2l9_*^h$#Qm!-,u9KOL4p6$"P5o)s0X7i%7/"P*qt;QnEV+WI--ng4oF&3e\#K?*5OQ@C'A](K6mhfjbiiOnd2?S1b8YcE#]/=49Td<r?s(Dg/7&X7qi;qT!O+X2V"*bPeTj],lj`1*FFf%RQ;^,ZD)Oj5IbnWX+5n`)o0"mE9WtCFaTE#%<tr]Vu#Man%36c8/+16HiDTnMt=l,?o#!'LZ@<htE-/%?Kg22?-RV2L4tgYPPEW=,Ur-I!i@Qei1qDp/gS1DHU61"'6#7??Wia]$7^b?!aSDiSuk_Nupen&C"+FQ\G_o[oJ^48p7_rdB(KJ/S3$`$t:9'/h<OHc5'';96bMUgE!,]1enZS3R:pO/2aQn\.)Y>OrV/+aHh>2LABQF)^gXn34Vju,9:^`a7Q-t4Ap><-)7#9b('lqR$5k%a0"cgPFo(j?am)*<O($-YIAXOh,UKsjMb?s.^*p,I9G`k:[EO10D2IioDNj;AA'&BFjhI<(Y9`4\)$3#q:1;s$TYsl&TDpmcVPSIr,J0Rc-GeJd^V9Ohm-YQpKCU6]=fC(b=)/W-g-hpo;a7i-[:Bk3*DjZ1+m8[[P$ArLr2ULps*:``6!\X6)8Arj6$D1>PS!E+]EhJ^2ms+Vg*UPTGil9Q9<_YW2Js+7-F(2?*ShJp7i1nCDD:Jme]oaDi23a=%0<VaKO1.cJmr7\(VV0DTC)tgS3E,H.d<U7Ep:plSb*k*IGD@BH]LpSo;d:Wr$n(?GU,Wg5g),E7?CcNnWDt6%oR)hpNfA2)n')qk:MMX1GfQ='__c1Gsu,fA.jQ-DB^I&#pEu[l:@&UY9(^/b"!">hT7_A^,%&l*eBC=jl.B8G0LTD*l#bL:SsmOpF'@BNq/%+r';:[\,@n0H&a`6qS,gSBr#k-7$U?"_%<(-aa-*KGaq>'GDf-<$U3U7K8:S5YL"GSHe;'rjU(`rpH,`hYq`5?5N:l4$lfr8l&SC7XeQXlQ*U\441_jX.J0KMe0W/47BF!OQpq7SQ,A\m-CONl+J!\GPMp)-[=,Qgl%5A_A?A0Ytn1sV='5EThk0&'jUS<Y@Z[@K%I:PH_1j@JW/'Ukn=]::Co>P"OdUHcc<.`Nq[f?,jC!&s(2RfR.0mSph;YJnR"1-*i?S0BV+*O0*+lorlJLe*.4?[3bQ2g3d:=%i&\&_[O@U=#C9`W>ZLUnRbb0uCV=eQIk')<\^roBP>F(LX.*F&YX8j`ME!ejr"KA8YO[`^;/XAk]LN!A2Y\r2[\LZ/I"o+MIqaQ0GSQIg_?TJ:X;HCNi3b+M)m']NpQ<4I!8BgDD=Ctk4TqG_T1q+d3H9Ltnf#9\7)EVi(G\P1.1VuWooF9@eK?t8^H^0)?`]N^YNc@ih"nrmJ6+D9eGrUcIOGqUX'_)MF5`$da6IOhs&H=1rSH#?b>N0lX4toUS$r^n]Y;G@MTu?<kT28'WrQsKN=>bAe-6l'](TM&.KGNr`oSr3Dcs<fHS$bQ]f:pPQjA2B!)hJ2\U9"nrr.#O3\oqOI.J1<r\7Xm*f11U*<hYXmkqE_j-T3\D2[q?8LNc_A)WA<^YL`m+o/QnkC-Pbp/TG?T"VZ5IC1T+#M,M'+'RC)Qi#>0HH/c5g&J"R(?im^DZ`L2p/m`+Ab:EJB;c8_jlX^GHHcBgE+P)s`l45AQ3Fn+f<V4FCb[f%^!3\6VY[p8og$SlrHc&oGu@)$YVo::oQ\O44?dabJ+F;$6;nFiHj:b&;\.p?k!^kOoLjFXDK:3e9DItunoe<C\)$-Cj`98(c?G?0jaHmarFT%E=*\`3qdmIU?BtP$hj=(`?X9s]X4o,-HY_XLePpX[n+(4uFEiQ7GC.Vn`UZCD>/UJY)#P-3]U%H)Bq]D&Z$u)3IO13KriUgqSGX1'Q#6tW<[AiW!Z12.Q2S1M+?f"$)DsYMDk*[sJX%i0l=eF>1g)b3a*KH,_i@3Y\&4b2M5&P,502NW0^8tJrH<-%A*d,p,37]e\il"_YBblbm>Y^cN.&rlH?/dQBb+_ACM)qPnI(q:OL_^nc<5Jk^1@g4fW!./Qc]CD'4j1\We#t;H^LEh\THK@*oJ'A&=/0?"G.hc,_lC$,U8o#+E7f"55:4E`$5['a5f2gF<DCi1^8eHE:B>(a[J>/+E:)8b7+k*dmOXs,+0tu]tb7q.\X(K".G-7@2Uq&b6/Mp5_EUJR3?;DZ^6XU%ePGb>M'%jK1KF=Le/^;P"B]@.3KMu1^8eHE,_@7EY4?d80!iRTMn*.ib8f6a5Gl:L#aF!@?<Gqa$leSA=BG_:aD7dU/4rY9dLJhCHur<-nM-jC70T]%;:i>WMdR#*;d[<E^kg9liGs/Up*P2,S1[3,WY'&OGnE&K>]K(\5"3XLdr:-Nlc:f.3KGs1^8eHE,_@7EY4?d80!iR,#UZ]:"1:6P0%`A-nM'h&djOSTXcHbQ;LSg9L,ie1e>&7M\7),XX9X(1HK>\&+C&QKk2GTJY5O\a[)hTAAlq6,`]^WFUH5Z4Mi4\9TFa#!P+#a0h<::KBj57Mg0n@ig:]%OTL\[U'<oG9U:T'@0nfV:fse"bse>1N1-bX!fAk.6*eItR.4[YGZ)iNY_>6U4,=T:M3nEt,+0\]SH=rd:LfJG"p`a/,T#tVK>]K)%QXdS,+cdsE=<>[;b/P#&I+)%Ea2!>8>_4^"@Y(K/dd:Ye5SbCYm*$$Ku,T[Wg3r>epmtH(2'<Z#`&5oPB'-J/aNMp6):_Y`$>m.aWrn1'Te8u)M>s_34M^,\VN`m,`]udcm^(RnMCH,@rQCX6?3[!0M!1Ij!%Ad1/67@.$D\m;(*uhV@j5o25%K.'UDTp[7iij"uJlZR\^2Hn_*`6SC(aQH[p;O.4gZp*^NUJPN8B85VgS/$kgV=i&ZSQd_$e/M.:QGF:-*cH%\KC(`ZeYOBe5u`#s%nNf-F/aZ:VsTL^EQ7A6r=*VG6*@L[!'$AE'XW$E$QX8rcnX_,u27Y:p!_U#Q73!W<d7jf'B,'72t*O6q5%S-:4MsHBT5&iQtn$!9_@u3u$NpnnAf+hM;ic'G*@9l:>P!G3j'VRn+.#'mAVK""R&+6/'p+2ZPTbopP-5Yk5j)atI\ab/eCn;S)k:c&pdsU/m^MeV.Ma%5s3=Et~>endstream
+endobj
+297 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 3839
+>>
+stream
+Gb"/*?$"aY(4FN4^g#T"OlhEi8NX9-E=t3MlaTOQfku$3!`>&4Qi^4g[%dQr4W"$XeCZ+=m!-.K8Z&a!h@!S=kFR##Z69VF2g#(3/&kn#Z/Zom(.RY*cGH8>A67s\o]k+Jced]sYdPT"I[gi,R&.XG:[fl^EBA-KMoE$"Qb`8,[='n20agLVT-fiXY18I.W,D5t$/89H@2iVl@+:EHX]QG:.<S78N+i\b8F^>GT9E\#NgUt9&Um(um-$27^114dg!sFXM"bd2mgl:Z9].!e->X=j_sX2q.#g^#o:p8f"rM/5M8EfA5.l?Ai%k];!+E$44S7+m\@Ko<AO$4B(dU.]M'#4Ik.8$ORel'e5D4N-g"SY]0O8^[LAiG82V5Y@L\+uFIu<JLQbD58W*[/Gi20dep\'Z"B(]j1S'0[Vj*L+0M3":hG3KKe3!oQE4s8_24TY)\er*ceWuF#>>qSdn?KmGa>CMZfQuXEp-FTF94_V%VQ"DI=Hhg:hMHm>RZ"pY6?&/qO3GVj%[*DB9%YS6l[%o6HBu.E&i:HT"6@\P0l$9"J^9o`N:#J\_\QIRgJ4G.aGk.(m&d;.tKqT<Y*O/&\#fB14NS)*V=)?pLO2HX)0ql5BK>.)RUCr5e&FB_-eqFhp2Vkg&SMMK*&u9AHQd]1@m7#cMI8m4?X19c^@Wq]Ua%TtSBKR1tj\lH_[&_itPJeOQK-ph?O0F?F81fXi33;)7CUG#-]E_.11I<8O.hj]8E.U;]Wtj>l+!l$lbA7'<,5Uk6?b(Z+WNW>`Q^@R$:I\\glCg&/3;VW<:W#OLgf*Q0PP`PW6cEA6$Td%Cj4k7'7bZs:eXl#r!dMmEG.]@"KimpJ*UV%)G82j@f>$UV?pASZFVH)abP]h#Q-r_*/EKYD<*RI74Y-?WLXs)!a.rWcm=2^-5M\,?9H!k/7FbH/Vi9ot+s+!21&Aq'rj_+2ED1iVR>f1b2rNXE%V"H0j_r,$['$WT8R/>,RjbeFg8M@_q^o=MNiRTEmf$N#M?W^]:7J`epKMTd*)ucZGCQe"qoUn#<+UE+^P-ju;6B;1#5_,n2oBVe[9AK@-EI7hX/,!o`<-M/NZ@7hE7_,?pE&le[-bEh4U,SiC5_LD%NKdYgo`@MQc>])LOK&K!9tPuEN'C.HT87u$.>t")OJI:Z\Nu+IYlE37,q/aFS9Z]h`'6"`b9c=Ms`b=4Sn2^O)\@,g8%4lLG"#.UW5X%=-Ltd]c=WU+;H@`X2a32'G*CjZY.jY3]aljI"EF=458VnnSmrV8'o/c2=8R&*M#,16+?U6Zo:W?gj.olo^H`mqm&RZkD`!YmCb=C:C.R+hRWi<r--0ZH(]53eg]h3_k)#Nr9kW"FUJ!;Y\-[Shg_MIlPEF?B^>ukMl:f/ah4k/]9E#2`J\S%jRb(EW:Xt,^U&5Wn=JLZR8B;Z7`k=,fWLG2?&ZV;0cn9!7/kgBpW"(a%tsW^e"c5J<:,)G[6LYEl(DOV`qYr37mTacnj!Bc!iLa@?rJafKjaMe[**aPcb6<>Il!GI674pVj/US<h5$(`FVMeJF'['D\<XP_h.q1^o^_"tlg+#,i.WrQji,CbfU9n).1ER%Yb,s8foutC$raD#IM[]M1N#4r[5#m?As\+O$iNq5G/1VV;+%ro<FWj@?bKk9['>NU(j9r>hW<ic.Q5l^3t-kiAqgV'7BnJ@&`08?1Vki\k#7[@.u!NHjiR<54$WQ*PeB2kqK9S+oPH[Wn,&L2OJ^^&9,oOc?(8SL+)a%VJ%<i_Z4MJ^=3"7MTP;dGZ!Bu^I4UBNUcK9t.=To9ccSoumfk<#9mLn\Y!("S.n$7Q7BuLs^ULADj_<i4PZ(F-@>-`0MeG`5Di!hBkibc0^Ca]Dk$l,4EQ+6<&-G1u<&7B*4_HFU1:ASeJsakj#bfnXPkg8u"SGqHcfhY7)79IPoWleoPI$[u#_>TdFtXC5iE?P\ga0q!&8T27HG-0sb;CupUj[.5L2X%E,aP-2W_o0`7V!g2N3GfBQ[n]]_VMTCn@>K-fF9d/TuGAt#2)VDYB3'K5oEKMOL^&<C.QQuDb:*o)*S-XoBgF=]UVQO\_/:<FPM.k^*%KV^Vq$gWAn-fdRYlhhoj^1WP2&\C"+*c6+$BW6O1uuEEuZF"@/"]!brgM*s0*G_rC_<h[/cg>K4#,9'OX+:N@tN[+bUCD4)">laW.2:h=hA7[HSp8AVS@:tE0ZJQ[O;dt$EJrHVnj%;rNYE(HhN8gWXubh+u>((%6d=`JK56*aO%9?W6IYRWFAUZ3AoK3YIfJ2DO7(!gWU`nG`cnF`4YnZ!_VnTYb/j.nWE`lY/D\c*[\DKq49BS#fA/%tul)A3oAH=(^_O13!V`P"@WLuMHe9pI6n+J)7W"^qBMi,I<2JB?XA$4EOq_/i`M>:st\bs`p(2W?aZ^OuMM8TpaK@%E,'EWCDhE0V"M%p5-57:tUq17eljQ.%8!D*-IQrSk^46B>Mpb*j?N=bGjqia#HpQ"%i-icnHT`iekc\G$;L<N%g=A5cig7[$=boNV.+9^Y=6#JFRGU8NBeKL3r7]WbB1?P.]#G^ouU'")elATM0;[5o$,`HFu;d4C!%\T7'f?JOJ]X/`/IQ2rLnE!6@uN73B7`e2CG,h/E7b!bYg(8uH8Pq'sM-S]MWG,ffg5V@1fZdL%E!7QX7JTS>d[i!$rigG.cZRC`(l[muW+S]^u$m8'pObnk:*/'m+)Z_,[p;O'G#NYL*X"%m=Xk^7'7:#&s-E*N!Lqh(=K=))=:KW7O<jSum!5hBYB@ImeoP3J,*I!)t]pk#g>m`Zd4`$Z;].ESXAcqa-J/RV1s,7"OP_MGAO:Ch+EOums<19'VNGY3dKPWMmhnisG(hdKo?HS5#<o:FSh6I1F3C#'rYg8d@8W,p%:q^#WjU)#S.cbte8ngA__9+0]+Vab#<6@HNnHuMc8*m+_oQKTfAY=5X=b2BZkG=8oV`2bn3I(49:_:0>5T4$?H?'WM5G"=%^3C&6O20d7o"?%!M9@^A,,,@>1rk%M,YS$8R@MT7<anDuprk$aA*d1MIL0D5&-Vr4?Xs.eBRlVWN)/9EM?/95/OY/<d1W"@YpH"sm^?[:Zn8L_Zo+Vb,]-phLu1hs/)9Y^D6:Y<+A#mB\RA;OlLTnD"R.+U/FCHIg<^";)98d.^7_j%_IJFk1>D3:[^q.7a`H/VecN6Z4X?*--Ve.JHhL&fZ;lJZ2"7R]cfOW`=G70uNd9YE*VJ9:L%.*t56gB44-BL\<64=NTQGL21K.$V0uJ1GHL<e(0'%cJM?IsN9iJTkiji,ZR7L3fl]UI>)`ji=+JOSQ2`:C)ccl`gf_.s)%5WMf+]m@u@Hol"B*@03ltD&-V5`YuD!95?81)Hr2\7A>TGLfpqJHWKNceTg*8+E3qdW4(C(Bd\Tlet>:cAq*F?W`r4d^7aT<5VKca6>\9.:%3kM'`T)dVS^TD]%fY<->e-c:&]([9u0l03+)UBBJ=3tZqL'U=OZ:k>3lHa:F$j<l)lE^MGdIL@ac&5n"<&%,8_A+(>&!.eR*H`W20-th'ZZ/I4l'Z09*VFN.jKcAR+`^An!NLr/5^B4%dMo.>S.sFr#JZs]]0HQCsSM@oLiY(&RV`*=5T1<*WA7[>:(@RT.Id6l(,'a=LUA3&%X\hX)EW:[>I>BsQ=r[Aaha%Bh6L>Ru(Fm_M'hQgX2lMlXQ'9`.ET7$NX.J(l\gcko3HflNeu;V=Gl[*[IEHgqW.#mHUWaAX]Bf1;om8*A(3_$glN?$)cRaDnZU,To\!.&C_^ku,%t[/0e,ZBk24pF4<IUZ0@`G`JXK<Xep?k:j[-MDSBpcNY"k^/2"6I<(Mu~>endstream
+endobj
+298 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 3260
+>>
+stream
+Gb"/i?$"aY(5D;L.o(GTZn"\A,g(:CG'9D%AiFRigA<Td\Ud:B6js)I!Ld&=rOrN$-ok:DHM=9mCM.*L1.cjVGgC^HSBr,QP5%1E'0X++dHcIK$!f/4R13eNq2Sce55Fln8,Q/k=3o=R1n@@=F>?XI.:2#jK3ouOP4k*ug%6PdVYc4jG8I)4R1<$?d$bnG\Y7[JR%#.WkP.*Sca-c;SC0)_-[8)1MOqp>kfbH<Zr@LrEoT`o*6Eo8!u7u4&'fr1V(OsG,OMIlf@mAUGJ>TmaXq4(Y<:q#BC8r'.OSqO>3[&lJ!u>F:QrnZnEo9u])56ghp\nUK[TlS)HkVci?iX3KsibHC5A3$*Rsp=3ra7^SrFE=^:ObOp+]=qa0/1lFEZic*DFt-5>V1Pi<=OOf.9)CdV#28PBOJ"p$f']*'`Vao-o.6B.)_"Y'XX<RO,l9Ua>&[.RhPL+25fFS_giq(J,6dZld:D?BsbNnk)o#C0BZrG"riG;,bP$5#ft5<95QmQ=Q:1mn$a;\@SDm\s*TeJP95Gf*a](4$0"WqC_:8j8fXY:B!3\S<!&Di4Bf<)pAC#Hua>F0+2Kt4T3h+iZ!3YU^ZRGKm`c>9ss/4]p<h//ek<0YGuAtL#9TR\<UCd9(C=?krI7%pQ!b2ZK*Q2`fp4KhKCG$Pqo-Q-Z'8K!tU<75t?<.Q4CA.LX2qs`XM*KBWm!,W4"'(=aIIA#*>7'CKnpNCPg)sQ2@YgJ57Xu\uKOfTiTlNB"((@(#"0&1%i%f6V@1a2n;iA.7bN`X3mV#(t^k@bL]`sBq>mB)%[<crD./d4ZtfnTCmqeE]+p3Kme9iJGh31T;KhI0A(21h@8IqOACp(ILr_C&:*Uc^mrr?%NARig%YTT/2MFo`4u)f/&C"uq.r59J/Omm"B\phYpU_b%#A+ACm4srTUkHU!%6CPW"ka%=6^"W";UY@p.XUh2>fKm!3;2!,WOf$aDaX=8MVdM+o#E(-tUI,j[D3BZ1"FQqQL6@dhf$+rW&l<'bkW3Nl#p9aL*cC%SKa(!7I$_+uDX@/,ns>gm5@%Gk'r+$_K6sB\:XK6Yf](R(=\0FW$m09IU#GY[G79jS3-=d/kpmBsmNhcjh$;!.Z#7B/ai]Uq,/HJp%YGd;.s?\rl=,Vu^0rD1!\ho@?N"1NtSOLYkDNkLk*j^&LlZ+$:P"62>q(00N%MPMR.o!;/5Os4>tlI`2<*a=:6sI+nWsM[Dkh_oiUX'^BrBQG&j:=k#K[^o%+ULVHdJW[m+?c=RXK3ihI_on!>u.,V/>ZIc[.G-*=9ClC9Ud>TSU'qZi_1"/VJ5`kF7VeMUYg=s],ZD.%)V,=TEUWc`<;(r?OElN?TC^%s0+H8Qm$QTL$]Rc/J"RIR%P*J!kT+mo92ZN3'h!F+o0c]pSDLN;1(Eb,*FVZf=h'^:srp<Oo:Z"Tn7BO^LBVD)pGoNrP=DUC.QEiDWQ\I8@b=]4(W-M@(3T+_++*7VhLHH@!>$'GeUiQWL]`?EH#G]qW_F@kQV;`jXhFsg^*d/Br6A+r/X(X$XmHuOD*Q0S(E+j4#ObIk=gRtjh3oa81Ojp.CY3e`7P9@;>o"o<,,Ruj[P&uYdfjt#RE'Kge*d+b)ZmSA;I>?%6`=T#d]?BdVPUiq=(=IKI7LqHr]S\@cZAC(pU)QoKOEH+"H64I*LFA?>PmNUPQ+*05@'94)aor#`^'8U.J]aX.S/ljBA-3Z+\A[E3D].$o,uccj8q![<IZKf7SlRnaC;&a29oX1Q4,lN+&EmIMesfM2^5sM?GuVdiOI[GHm$1#<i^?_YHk'_8p$t,DU#aGk>3F6Sc?3W"NS3@RM\*+M/9Rg%7hLH#ocSaGXkU]P5T1)FZ<qCC[Wr+r\I$tV`OMJ0joPR4Rf8;;.Bl]U^X2m61m4L)Kko>0K'3cHQ9j@:G<3RG2I9+dnU/qV^(B$oH6Kbg'>]OV0WN#]NWp*R!H@"ZRDltUIh'MDSg&0$)FhDKSgBGTfaHrKhCuDEh?q/?XhA<gaESfdG_l<(#^0I$*Q8ggacB+eGPdIS^M&)^H\5P%=Q/8<93VdC-c](X(I:NR?f`33O6nb")=CJ:2UXsp7u,P:c?Fg-L+BLBJ8Qc`H.*SVak?ShD>O;o)*^B'@k:\:Q@b-1/Ma$%9&e:V\OnJcL'W(@,0LM_@#:IS+QI%fX":Q*V&22O6tF)tY#T$k%/YsTIX*qe+1J1+]InEn?jB55j<8\:nHQ8mn_)ZOZM:l?5k*ogl&<=,R98uY`2AFPF?50Z9hug@5UYgk;,2JcHMhI=5f&hkQ4"_CP$QX)[ea^;:o7d%\fq_?O_42()q8U+FOkt"`2\)n)EO*gR15(J$ts:Zce90Bo#E>`,s8tpcNC]$`H&OeZL[BG[+;8ZSAMBDd^HP7LQ4oT.ugm<Tgj(GD1Q'NYGamX2:t@"2q9GH0#-jiU<.M!&H(&fg<%#nLIGofi;FqR2g:!BPdN0=B=MASO=NkDDgKIgUXo.5p\6bt!PL^7IH*M@pB6UU<BQA*f2A(r"$3sTrIRDK>\M#$ql#0sQbY7ROS_`Oi22E<M;LkfEtKo+`8u7sY*Kfu;`+Z'#ABHO3NR;`\1m$Z9`Lg^DfAJs2pk_ICMW*8l!H\kcZN<^h1N:7[C1X=;lp.^4*KY5oq;QD*um#ja(gd/4Xt;%<f\==r=#Z_:6LZ&?)?8=c?+T(7p1hA*c]ok_Gg>l*kmI=pR*R:>ZlYA<m^DUG0KE#FgoGX]1Q/jJ;loA7Y$OLr.S![cj$S^`i)p]!=LfGL>0oYTf[H5hc)W)Du#L.O6F^M!M$RZ3g`-tAYJY\W]-YSW(/l8KBVhmVtX"8Y/tn=o@rH_nD(&!$O#TN+"k<Fb6*&2UMf2!Wu.&4:u8_)j=q1F\6L>ZW#(SqY]g-%E]!i"b%e.:^hn4Z:WE4d>O,d^(4CqhD-b:scB\.BGGs:`[A>6Y%JOSh?7M^U3/mC/`):r5?,^io<0G^T+NREsMqqcoC\Wj\.g95_;4#-9Y)GjN(sf2jD7./^Mp\oO+INN%41&YRmC'pF<he@/^"pO&1^`[C&a0%15(3e1Zb*)FMB(t!<HDjRoGn7l1@D!ag"=$A1hU%IoP,>no,[)f:Y*@d40CMiUtLl&-#PjCMi\Q[^#06E/?JF"[C(M3`$u[dpn'mfX.42F:G]KQ=1S@+!AoeL<2m<l(+h6_e8F\5[C=Jc%b%YbLaN[jG[(*bcGO`\2fZV7s*8Og%(Cj((i6:,FbAJ?ES2G'j(DWhj?NU>(Y\~>endstream
+endobj
+299 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 1949
+>>
+stream
+Gb"/f;01JM'$&o..JEU9V\LVC&h1FOSXZEp>2M.m:#iZ8R^mu?846,P.KE)=RJZLJ?VmI;f5]n9oca$"Ud-JS62^G;77Ja*ZhRh.M-f#bpe=4\:,bhgVTG'?I\a$6Zes*ciKG:.:Q&a]9ICLBPsnU/(:NrYB-ads"iFo(LO>7i@,,nn+cRO`*^<4hr692oS7^FX-!?AjNnin[?-h]eD"`Hu5&e0VA`&M`Gu7=U/Z5q^7)(NF=[@>!9_*XaQfJi4^OjR<<mY`ohM[p6NkrW1i(1k+$G,02SdO_1?H.fhVK#B&4J1CcC6*.:_maI:4gk,edGB$\/6-AWd&;*R>1rSG$OX#GHKEO4-"D-j]YRZ6kF8[=]Er$,^DW)V]3V`9-@tD`):A8b;*."N(t4K37N&1Zp0s^^ct4T"W+D'b;C3e>S6@mdC9c6)/(X8l$%sTC)3j'H7'!sB9.+&[bSrXU8rqj!dbdJahL,HjoGOSAq;2FB,5kG>Sjm@[bVRY74c7P.(5o'-Sf6j-Tp-^'rSD7dl@70!MBjDD@*ulnk_^0uj0Vmk?d\fLlLh4R$O3\0m=lCIDJPDi[&H,/g`@srCGtd-X.7Tg1P#/hRMZY-HQRcL!"B'k*2)f*a!c:4AuhI[CJ^6,pnj^LkhnrK[FE$Vm2T-qACntLR+/K_G,oBe+fVkgN+gge0V]^AXeT=A5uioLX^1<-\dfuiDeZ&WasTdLEFXF,lcpR>^O^[%(8&kiGqb.J'@Z'q+ugOk0MoGBQ2%XYPOqi6-PoJ0hh1\q_8)X1r5YTDPB\G=(QXaYb@]jHXm!At=1:CrL`^p([ZMV,98UX-'oVMQU/_W1XD8&d6Hgumo\H]PrZ2s/l]$$Qik]tAFUh&k#C*r4hR`[+^qJ_A!P$="+jBPP,e;SV,[*o8m4bb%G;fJrT0's4@?=!MX40L@<aFf8b4jhdOebdJW/m&KIu%@N6c9$<MZM@qe6^e(W7Yn'?;JS+([X#]-fB=H.'@K]_$^Q?hhSAcQ@..IokM)poN&Q'TfaDoT'!A4IKVfg)S9KmeUMja=U[Nn.ejVD<90Pl]+mtUUS4,o5@R2'OBLlalS"=g]sXn!G!EKKLeZe;>NY/68qCR(WD0i%0bHG1K!&8ld1a^@XFuX%$_A*Z$)I[b,^;MI%n0\Y5*`OM]_j=?Vm&'N+(aiDin?oF\;KT<HbeQqGiN'h])tl]+4T5f[Sc1]<j3n"$o7W^D,ncK\u.E/Bj.8=(jJ@.VqlkO[dl\Ar<',kZtl=\kSe#96i%L*COV^9Bk4g\DdFBd=%u5E$GGZ*iZ(DNR1g1DLGY_LDNkt1&3G)k[6TGh'D3^TM>I4XpmhIsp*c$S[,[,\@^JB0HJ"7'a(?:k(dZ;`e-Q*d]B+?7*r6I,NAZSPnXXFLjMh8\=Bpm5]jk/kcG(?bnbe:iiQ2ma%G6:"j2!0ZQuDbtMb\,MUZUPF>fDlQbAA=9M?N81hH1_eZ'&njNgtD.>%<2B1)]/iqX.D_LKhc1CbA@`9oFq8P-aL^:&D%JItbVW4(S.WGjb(spK8EHrVSfLi0uTa.Tjm"]YokshLE]&FIGG9qD1l*l!oL<aaoDK3-qVlA*[7@J+Eo<IWF._O[J$#.AchC`R4T'a09ZWQSYOC[?Usenhm78?>phj,[#iROMut"Xd#gYI7lCY<+DT*edL=)n6Z]aHgDFSa,eFQA?ZO?q29oTJ3M@(f]b,Y&$n_/=&'f1A9^RT3hj+QgTCLE4dM,2;#'JCTQGS(U/mafceQRiQ.%5m/Nm(($2plo?Ks$.bJQGjOJ,$uEHi@GQ!,58#3Ua#iu#O6S-P<^KdIig;&l5o5rO%sO^)t7qgWXkJR&7Y_jcbU:Icm&D^.#n12[nOR1-f:hhCKZWJX")kLO(6>#K!JeqXjfg/meM>3!,MEd>]\>jO/@aAOb7@\itK9]-pSRUgO6Ipl"_f`~>endstream
+endobj
+xref
+0 300
+0000000000 65535 f 
+0000000061 00000 n 
+0000000132 00000 n 
+0000000239 00000 n 
+0000000351 00000 n 
+0000000466 00000 n 
+0000000543 00000 n 
+0000000648 00000 n 
+0000000916 00000 n 
+0000001113 00000 n 
+0000001373 00000 n 
+0000001611 00000 n 
+0000001828 00000 n 
+0000002026 00000 n 
+0000002224 00000 n 
+0000002422 00000 n 
+0000002670 00000 n 
+0000002868 00000 n 
+0000003097 00000 n 
+0000003295 00000 n 
+0000003493 00000 n 
+0000003691 00000 n 
+0000003946 00000 n 
+0000004144 00000 n 
+0000004413 00000 n 
+0000004669 00000 n 
+0000004928 00000 n 
+0000005176 00000 n 
+0000005382 00000 n 
+0000005643 00000 n 
+0000005921 00000 n 
+0000006160 00000 n 
+0000006413 00000 n 
+0000006668 00000 n 
+0000006885 00000 n 
+0000007150 00000 n 
+0000007379 00000 n 
+0000007603 00000 n 
+0000007851 00000 n 
+0000008178 00000 n 
+0000008470 00000 n 
+0000008735 00000 n 
+0000009005 00000 n 
+0000009253 00000 n 
+0000009457 00000 n 
+0000009697 00000 n 
+0000009938 00000 n 
+0000010230 00000 n 
+0000010490 00000 n 
+0000010745 00000 n 
+0000010950 00000 n 
+0000011177 00000 n 
+0000011385 00000 n 
+0000011654 00000 n 
+0000011923 00000 n 
+0000012192 00000 n 
+0000012461 00000 n 
+0000012730 00000 n 
+0000012999 00000 n 
+0000013268 00000 n 
+0000013537 00000 n 
+0000013735 00000 n 
+0000013933 00000 n 
+0000014131 00000 n 
+0000014329 00000 n 
+0000014527 00000 n 
+0000014725 00000 n 
+0000014923 00000 n 
+0000015121 00000 n 
+0000015382 00000 n 
+0000015643 00000 n 
+0000015904 00000 n 
+0000016165 00000 n 
+0000016426 00000 n 
+0000016687 00000 n 
+0000016948 00000 n 
+0000017335 00000 n 
+0000017552 00000 n 
+0000017769 00000 n 
+0000017986 00000 n 
+0000018203 00000 n 
+0000018420 00000 n 
+0000018637 00000 n 
+0000018854 00000 n 
+0000019052 00000 n 
+0000019250 00000 n 
+0000019448 00000 n 
+0000019646 00000 n 
+0000019911 00000 n 
+0000020176 00000 n 
+0000020441 00000 n 
+0000020706 00000 n 
+0000020971 00000 n 
+0000021236 00000 n 
+0000021434 00000 n 
+0000021632 00000 n 
+0000021830 00000 n 
+0000022028 00000 n 
+0000022226 00000 n 
+0000022424 00000 n 
+0000022622 00000 n 
+0000022821 00000 n 
+0000023020 00000 n 
+0000023219 00000 n 
+0000023418 00000 n 
+0000023617 00000 n 
+0000023910 00000 n 
+0000024203 00000 n 
+0000024496 00000 n 
+0000024789 00000 n 
+0000025082 00000 n 
+0000025375 00000 n 
+0000025668 00000 n 
+0000025961 00000 n 
+0000026160 00000 n 
+0000026359 00000 n 
+0000026558 00000 n 
+0000026757 00000 n 
+0000026956 00000 n 
+0000027155 00000 n 
+0000027354 00000 n 
+0000027553 00000 n 
+0000027752 00000 n 
+0000027951 00000 n 
+0000028150 00000 n 
+0000028349 00000 n 
+0000028548 00000 n 
+0000028747 00000 n 
+0000028946 00000 n 
+0000029145 00000 n 
+0000029344 00000 n 
+0000029543 00000 n 
+0000029742 00000 n 
+0000030402 00000 n 
+0000030632 00000 n 
+0000030862 00000 n 
+0000031092 00000 n 
+0000031322 00000 n 
+0000031552 00000 n 
+0000031782 00000 n 
+0000032012 00000 n 
+0000032211 00000 n 
+0000032410 00000 n 
+0000032609 00000 n 
+0000032808 00000 n 
+0000033007 00000 n 
+0000033206 00000 n 
+0000033405 00000 n 
+0000033604 00000 n 
+0000033861 00000 n 
+0000034118 00000 n 
+0000034375 00000 n 
+0000034632 00000 n 
+0000034889 00000 n 
+0000035149 00000 n 
+0000035409 00000 n 
+0000035669 00000 n 
+0000035929 00000 n 
+0000036189 00000 n 
+0000036449 00000 n 
+0000036709 00000 n 
+0000036916 00000 n 
+0000037123 00000 n 
+0000037402 00000 n 
+0000037681 00000 n 
+0000037960 00000 n 
+0000038239 00000 n 
+0000038518 00000 n 
+0000038797 00000 n 
+0000039076 00000 n 
+0000039316 00000 n 
+0000039556 00000 n 
+0000039796 00000 n 
+0000040050 00000 n 
+0000040304 00000 n 
+0000040558 00000 n 
+0000040812 00000 n 
+0000041066 00000 n 
+0000041320 00000 n 
+0000041574 00000 n 
+0000041840 00000 n 
+0000042106 00000 n 
+0000042372 00000 n 
+0000042638 00000 n 
+0000042904 00000 n 
+0000043170 00000 n 
+0000043436 00000 n 
+0000044096 00000 n 
+0000044326 00000 n 
+0000044556 00000 n 
+0000044786 00000 n 
+0000045016 00000 n 
+0000045246 00000 n 
+0000045471 00000 n 
+0000045696 00000 n 
+0000045921 00000 n 
+0000046146 00000 n 
+0000046371 00000 n 
+0000046596 00000 n 
+0000046821 00000 n 
+0000047149 00000 n 
+0000047477 00000 n 
+0000047805 00000 n 
+0000048133 00000 n 
+0000048461 00000 n 
+0000048789 00000 n 
+0000049117 00000 n 
+0000049445 00000 n 
+0000049738 00000 n 
+0000050031 00000 n 
+0000050324 00000 n 
+0000050617 00000 n 
+0000050910 00000 n 
+0000051203 00000 n 
+0000051496 00000 n 
+0000051789 00000 n 
+0000052060 00000 n 
+0000052331 00000 n 
+0000052602 00000 n 
+0000052873 00000 n 
+0000053144 00000 n 
+0000053415 00000 n 
+0000053686 00000 n 
+0000053891 00000 n 
+0000054096 00000 n 
+0000054301 00000 n 
+0000054506 00000 n 
+0000054711 00000 n 
+0000054916 00000 n 
+0000055121 00000 n 
+0000055362 00000 n 
+0000055603 00000 n 
+0000055844 00000 n 
+0000056085 00000 n 
+0000056326 00000 n 
+0000056567 00000 n 
+0000056809 00000 n 
+0000057051 00000 n 
+0000057293 00000 n 
+0000057535 00000 n 
+0000057777 00000 n 
+0000058019 00000 n 
+0000058261 00000 n 
+0000058503 00000 n 
+0000059187 00000 n 
+0000059448 00000 n 
+0000059709 00000 n 
+0000059970 00000 n 
+0000060231 00000 n 
+0000060492 00000 n 
+0000060753 00000 n 
+0000061014 00000 n 
+0000061275 00000 n 
+0000061481 00000 n 
+0000061687 00000 n 
+0000061893 00000 n 
+0000062099 00000 n 
+0000062305 00000 n 
+0000062511 00000 n 
+0000062717 00000 n 
+0000063061 00000 n 
+0000063270 00000 n 
+0000063479 00000 n 
+0000063569 00000 n 
+0000063894 00000 n 
+0000063971 00000 n 
+0000064153 00000 n 
+0000064258 00000 n 
+0000064376 00000 n 
+0000064543 00000 n 
+0000064636 00000 n 
+0000064747 00000 n 
+0000064856 00000 n 
+0000064961 00000 n 
+0000065068 00000 n 
+0000065161 00000 n 
+0000065282 00000 n 
+0000065414 00000 n 
+0000065540 00000 n 
+0000065657 00000 n 
+0000065792 00000 n 
+0000065914 00000 n 
+0000066018 00000 n 
+0000066202 00000 n 
+0000069294 00000 n 
+0000071957 00000 n 
+0000074716 00000 n 
+0000077544 00000 n 
+0000079993 00000 n 
+0000082575 00000 n 
+0000085263 00000 n 
+0000087895 00000 n 
+0000090980 00000 n 
+0000094638 00000 n 
+0000098557 00000 n 
+0000102347 00000 n 
+0000106050 00000 n 
+0000109569 00000 n 
+0000113501 00000 n 
+0000116854 00000 n 
+trailer
+<<
+/ID 
+[<fa66298ba3143c57e40c61e2960df07f><fa66298ba3143c57e40c61e2960df07f>]
+% ReportLab generated PDF document -- digest (opensource)
+
+/Info 263 0 R
+/Root 262 0 R
+/Size 300
+>>
+startxref
+118896
+%%EOF

@@ -1,0 +1,30 @@
+## MeetUniversity (id 1)
+- primary interview questions: 10, follow-ups: 3, answered: 7, skipped: 6
+- competitors (not rejected): 5 -> Upgrad, Western Overseas Study Abroad, Leverage Edu, PhysicsWallah, Utkarsh Classes; rejected in review: Penn Abroad, Ankur Nyati
+- approved sources: 27 by category {'competitors': 6, 'market': 14, 'customers': 7}; pending: 20; rejected: 2
+- crawl runs: 4, crawl log entries: 60, failed fetches: 0
+- collected evidence records (external): 282; meaningful external signals: 75; internal signals: 16
+- external signals with evidence URL: 279/279
+- briefs: 4, audits: 4, context changes: 0, documents: 2
+- job runs: {'failed': 3, 'success': 13}
+## Razorpay (id 2)
+- primary interview questions: 10, follow-ups: 3, answered: 7, skipped: 6
+- competitors (not rejected): 10 -> Stripe, Coinbase, Gr4vy, PayPal, PhonePe, Zelle, Google Pay, Sunrate, QuickBooks Payments, ZBD; rejected in review: none
+- approved sources: 37 by category {'competitors': 13, 'market': 16, 'customers': 8}; pending: 14; rejected: 0
+- crawl runs: 4, crawl log entries: 137, failed fetches: 0
+- collected evidence records (external): 388; meaningful external signals: 68; internal signals: 2
+- external signals with evidence URL: 378/378
+- briefs: 6, audits: 4, context changes: 0, documents: 1
+- job runs: {'failed': 1, 'success': 15}
+## Supabase (id 3)
+- primary interview questions: 10, follow-ups: 3, answered: 7, skipped: 6
+- competitors (not rejected): 8 -> Postgres, pgEdge, ClickHouse, EnterpriseDB, OpenAI, Altinity, Firebase, EDB; rejected in review: SaaS, Peak XV
+- approved sources: 23 by category {'competitors': 16, 'market': 3, 'customers': 4}; pending: 16; rejected: 15
+- crawl runs: 2, crawl log entries: 39, failed fetches: 0
+- collected evidence records (external): 1107; meaningful external signals: 123; internal signals: 0
+- external signals with evidence URL: 1096/1096
+- briefs: 4, audits: 4, context changes: 4, documents: 0
+- job runs: {'failed': 2, 'success': 16}
+
+TOTAL external evidence records collected across companies: 1777
+TOTAL meaningful external signals: 266
